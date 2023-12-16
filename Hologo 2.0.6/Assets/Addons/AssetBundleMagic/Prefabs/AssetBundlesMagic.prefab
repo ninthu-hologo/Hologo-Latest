@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1972600698049096
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4151487748147892}
+  - component: {fileID: 114954039749825444}
+  m_Layer: 0
+  m_Name: AssetBundlesMagic
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4151487748147892
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1972600698049096}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -15.25402, y: -8.566304, z: -4.6342144}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114954039749825444
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1972600698049096}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c9c3a5a118574cc0a6a2e7cc2d2a4b0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  BundlesBaseUrl: http://localhost:8000
+  BundlesBasePath: Assets/AssetBundlesHologo
+  DisableHTTPServerCache: 1
+  TestMode: 0
+  BuildIosBundle: 1
+  BuildAndroidBundle: 1
+  BuildOSXBundle: 0
+  BuildWindowsBundle: 0
+  BuildVersions:
+    _Buckets: ffffffff02000000ffffffffffffffffffffffffffffffff01000000ffffffff08000000090000000b00000010000000ffffffff1100000013000000ffffffffffffffffffffffffffffffffffffffffffffffff030000000c0000000d0000000e000000050000000600000007000000ffffffff0a00000014000000ffffffffffffffffffffffffffffffff00000000ffffffff
+    _HashCodes: 3284b54b8785b54b14c5131d67f9df49f6ab2167f7ab2167f8ab2167f9ab21677eb844479dd8304282cc2735a8f9c77cf0c998093c7f2f37612319586a51273f5690e16b6fbd086e4f77e96a476de304d17f694600000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+    _Next: ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff04000000ffffffffffffffffffffffff0f000000ffffffff1200000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+    _Count: 21
+    _Version: 136685
+    _FreeList: -1
+    _FreeCount: 0
+    _Keys:
+    - images.hd
+    - images.sd
+    - objects
+    - scenes
+    - scenes_s1
+    - scenes_s2
+    - scenes_s3
+    - scenes_s4
+    - humanchar.hdlc
+    - lamp.hdlc
+    - lamp_english.hdlc
+    - languages.hdlc
+    - languages_september_12.hdlc
+    - languages_updated.hdlc
+    - human_char_dhivehi.hdlc
+    - human_char_english.hdlc
+    - human_character.hdlc
+    - language_file_20_sept_2019.hdlc
+    - langauge_file_21-oct.hdlc
+    - portal_template
+    - language_files_25thoct.hdlc
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    _Values: 01000000010000006600000001000000010000000100000001000000010000000000000000000000000000000000000000000000000000000000000000000000000000000400000005000000000000000300000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000

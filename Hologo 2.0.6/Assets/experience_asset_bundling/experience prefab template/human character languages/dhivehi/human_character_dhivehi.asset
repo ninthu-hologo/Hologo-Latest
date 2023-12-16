@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b9639b94d027da146851dbe30b470647, type: 3}
+  m_Name: human_character_dhivehi
+  m_EditorClassIdentifier: 
+  experienceSlides:
+  - slideName: human still
+    localizedName: "\u0780\u07AA\u0787\u07B0\u0793\u07A8\u0780\u07AA\u0783\u07A8 \u0787\u07A8\u0782\u07B0\u0790\u07A7\u0782\u07A7"
+    desciption: human standing still for everyones amusement
+    isInfoDisplayed: 1
+    labelsExist: 0
+    labelList: []
+    isNarrationEnabled: 1
+    Narration: {fileID: 8300000, guid: 735094f1ece9b8d41a09bd581a487fb2, type: 3}
+  - slideName: human exploded
+    localizedName: "\u078A\u07AA\u0782\u0791\u07A7\u078D\u07A6\u0787\u07A8\u078A\u07A6
+      \u0780\u07AA\u0783\u07A8 \u0787\u07A8\u0782\u07B0\u0790\u07A7\u0782\u07A7"
+    desciption: Not fun for the human that is exploding. Dont try this at home
+    isInfoDisplayed: 1
+    labelsExist: 0
+    labelList: []
+    isNarrationEnabled: 0
+    Narration: {fileID: 0}
+  - slideName: human idling
+    localizedName: "\u0789\u07A6\u0791\u07AA\u0782\u07B0 \u0780\u07AA\u0783\u07A8
+      \u0787\u07A8\u0782\u07B0\u0790\u07A7\u0782\u07A7"
+    desciption: The human is bored. I am bored. You are probably bored as well
+    isInfoDisplayed: 1
+    labelsExist: 1
+    labelList:
+    - labelName: Hands
+      label: "\u0787\u07A6\u078C\u07B0"
+      description: some hands desciption
+      labelPosition: {x: 5.8, y: 0}
+      labelSize: {x: 6.86, y: 4}
+    - labelName: Big Knuckle Head
+      label: "\u0784\u07AE\u0791\u07AA\u0780\u07A6\u0783\u07AA\u0784\u07AF"
+      description: a big head description
+      labelPosition: {x: 11.2, y: 0}
+      labelSize: {x: 12.9, y: 4}
+    - labelName: Big Feet
+      label: "\u0784\u07AE\u0791\u07AA \u078A\u07A6\u0787\u07A8"
+      description: big feet description
+      labelPosition: {x: 11.2, y: 0}
+      labelSize: {x: 12.9, y: 4}
+    - labelName: Shoulder
+      label: "\u0786\u07AE\u0782\u0791\u07AA"
+      description: description of shoulder
+      labelPosition: {x: 7.8, y: 0}
+      labelSize: {x: 9, y: 4}
+    isNarrationEnabled: 1
+    Narration: {fileID: 8300000, guid: 854f23f784bb2ca4eb7c60d41d9dcccd, type: 3}
+  - slideName: human walking
+    localizedName: "\u0780\u07A8\u0782\u078E\u07A6\u0789\u07AA\u0782\u07B0 \u078B\u07A7
+      \u0787\u07A8\u0782\u07B0\u0790\u07A7\u0782\u07A7"
+    desciption: The human is taking a walk along the.. a tread mill that you cant
+      see
+    isInfoDisplayed: 1
+    labelsExist: 0
+    labelList: []
+    isNarrationEnabled: 1
+    Narration: {fileID: 8300000, guid: 4fa7c227c99d10244a5649e0e282eb23, type: 3}
+  - slideName: human running
+    localizedName: 
+    desciption: Not a convincing run. I couldnt get a proper running clip .
+    isInfoDisplayed: 1
+    labelsExist: 1
+    labelList:
+    - labelName: Block Head
+      label: "\u0786\u07A6\u0782\u0791\u07AA \u0786\u07AE\u0790\u07B0"
+      description: block head description
+      labelPosition: {x: 1.557028, y: 3.525454}
+      labelSize: {x: 14.8, y: 4}
+    isNarrationEnabled: 1
+    Narration: {fileID: 8300000, guid: 334129ac47b95ce4ba2e81fc2cdd73cc, type: 3}

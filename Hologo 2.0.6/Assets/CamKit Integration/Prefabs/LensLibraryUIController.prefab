@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7490046010732633340
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7490046010732633282}
+  - component: {fileID: 7490046010732633341}
+  m_Layer: 0
+  m_Name: LensLibraryUIController
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7490046010732633282
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7490046010732633340}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 15.000244, y: 1208.9996, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7490046010732633341
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7490046010732633340}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dff0b705e4e12c940ae5ee1d90b488e6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  lensTiles:
+  - {fileID: 2078770725221527551, guid: f1b309b57803e4449a182177804432a2, type: 3}
+  - {fileID: 1609928076373877866, guid: 9851496381e448748bb64cd46353f8fc, type: 3}
+  - {fileID: 8933549517903964964, guid: d57e958aa59471c4394fde4c8634246d, type: 3}
+  - {fileID: 6043409078019673581, guid: a4f2b2b0f135eb142ac2cc55dc8e21c9, type: 3}
+  - {fileID: 2863174764253731837, guid: fdf94b63b47a0fb4ca10790620aa3eb3, type: 3}
+  - {fileID: 5032694707400912159, guid: deb4ec209c8ea2c40bb49d6f7634ef2d, type: 3}
+  - {fileID: 2818924612508020461, guid: 53a6c1297f0eada43bc2fa04e308b95c, type: 3}
+  - {fileID: 5457361562979494292, guid: 3864d2c4f33c0b04ca11b089c05c0e39, type: 3}
+  recentlyUsedLenses_section: {fileID: 8747426933267754397, guid: 928ca59cf54d9d645b79797da2817f65,
+    type: 3}
+  mostPopularLenses_section: {fileID: 3283555606840141530, guid: 5cb30b353cf4fc141974f22d6059eef0,
+    type: 3}
+  comingSoon_section: {fileID: 0}
+  recentlyUsed_init:
+  - Circulatory System
+  - Nervous System
+  - Respiratory System
+  - Heart
+  mostPopular_init:
+  - Excretory System
+  - Human Eye
+  - Digestive System
+  - Mouth
+  comingSoon_init:
+  - Photosynthesis
+  - Flower Formation
+  - Plant Nutrition

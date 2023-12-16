@@ -1,0 +1,100 @@
+﻿<Properties StartupConfiguration="{A261AF37-9B31-3B69-4293-BD9C82736563}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Hologo/core systems/common/classes/appEVars.cs">
+    <Files>
+      <File FileName="Assets/Hologo/core systems/library system/mono behaviors/libraryViewController.cs" Line="66" Column="93" />
+      <File FileName="Assets/Hologo/core systems/common/classes/appEVars.cs" Line="28" Column="59" />
+      <File FileName="Assets/Hologo/core systems/localization system/mono behaviors/localizationListViewController.cs" />
+      <File FileName="Assets/Hologo/ui/localization ui/scripts/localizationUIElement.cs" />
+      <File FileName="Assets/Hologo/core systems/user system/mono behaviors/profileManager.cs" />
+      <File FileName="Assets/Hologo/ui/localization ui/scripts/localizationUISwitcher.cs" />
+      <File FileName="Assets/Hologo/core systems/subscription system/mono behaviors/subscriptionManager.cs" />
+      <File FileName="Assets/Hologo/core systems/subscription system/scriptable objects/subscriptionData_SO.cs" />
+      <File FileName="Assets/Hologo/core systems/subscription system/classes/subscriptionDataClass.cs" />
+      <File FileName="Assets/Hologo/core systems/subscription system/mono behaviors/subscriptionsBootUp.cs" />
+      <File FileName="Assets/Hologo/core systems/subscription system/mono behaviors/subscriptionsViewController.cs" />
+      <File FileName="Assets/Hologo/core systems/asset bundle system/mono behaviors/assetBundleManager.cs" />
+      <File FileName="Assets/Hologo/core systems/user system/mono behaviors/userManager.cs" />
+      <File FileName="Assets/Hologo/ui/settings ui/scripts/userUI.cs" />
+      <File FileName="Assets/Hologo/ui/settings ui/scripts/settingsUIConnect.cs" />
+      <File FileName="Assets/Hologo/core systems/app Manager system/mono behaviors/settingsViewController.cs" />
+      <File FileName="Assets/Hologo/core systems/user system/scriptable objects/userData_SO.cs" />
+      <File FileName="Assets/Hologo/core systems/app Manager system/mono behaviors/asyncAppBootUp.cs" />
+      <File FileName="Assets/Hologo/core systems/teacher system/mono behaviors/teachersManager.cs" />
+      <File FileName="Assets/Hologo/core systems/teacher system/mono behaviors/teachersViewController.cs" />
+      <File FileName="Assets/Hologo/core systems/students system/mono behaviors/studentsManager.cs" Line="70" Column="40" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Hologo 2.0.4" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Addons" expanded="True">
+                <Node name="AssetBundleMagic" expanded="True">
+                  <Node name="Scenes" expanded="True">
+                    <Node name="Scripts" expanded="True" />
+                  </Node>
+                </Node>
+                <Node name="unity-ui-extensions" expanded="True">
+                  <Node name="Scripts" expanded="True">
+                    <Node name="Primitives" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="Hologo" expanded="True">
+                <Node name="core systems" expanded="True">
+                  <Node name="app Manager system" expanded="True">
+                    <Node name="mono behaviors" expanded="True" />
+                  </Node>
+                  <Node name="asset bundle system" expanded="True">
+                    <Node name="mono behaviors" expanded="True" />
+                  </Node>
+                  <Node name="common" expanded="True">
+                    <Node name="classes" expanded="True">
+                      <Node name="appEVars.cs" selected="True" />
+                    </Node>
+                  </Node>
+                  <Node name="library system" expanded="True">
+                    <Node name="mono behaviors" expanded="True" />
+                  </Node>
+                  <Node name="localization system" expanded="True">
+                    <Node name="mono behaviors" expanded="True" />
+                  </Node>
+                  <Node name="students system" expanded="True">
+                    <Node name="mono behaviors" expanded="True" />
+                  </Node>
+                  <Node name="subscription system" expanded="True">
+                    <Node name="classes" expanded="True" />
+                    <Node name="mono behaviors" expanded="True" />
+                    <Node name="scriptable objects" expanded="True" />
+                  </Node>
+                  <Node name="teacher system" expanded="True">
+                    <Node name="mono behaviors" expanded="True" />
+                  </Node>
+                  <Node name="user system" expanded="True">
+                    <Node name="mono behaviors" expanded="True" />
+                    <Node name="scriptable objects" expanded="True" />
+                  </Node>
+                </Node>
+                <Node name="ui" expanded="True">
+                  <Node name="localization ui" expanded="True">
+                    <Node name="scripts" expanded="True" />
+                  </Node>
+                  <Node name="settings ui" expanded="True">
+                    <Node name="scripts" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="5c1c0a21-0412-4489-906b-335353fc0d37" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

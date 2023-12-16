@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{99D1A0FC-05DC-F573-D26D-372E64294EDC}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Hologo/ui/experience ui/scripts/labelElement.cs">
+    <Files>
+      <File FileName="Assets/Hologo/core systems/common/classes/appEVars.cs" Line="133" Column="52" />
+      <File FileName="Assets/Hologo/core systems/app update system/mono behaviors/updateMaintenanceManager.cs" />
+      <File FileName="Assets/Hologo/core systems/app update system/classes/serverStatusDataClass.cs" />
+      <File FileName="Assets/Hologo/ui/settings ui/scripts/userUI.cs" />
+      <File FileName="Assets/Hologo/ui/experience ui/scripts/labelElement.cs" Line="187" Column="13" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Hologo 2.0.5" expanded="True" selected="True" />
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Hologo 2.0.5" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="035a02e0-717f-4291-a35d-81002e15b5ca" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

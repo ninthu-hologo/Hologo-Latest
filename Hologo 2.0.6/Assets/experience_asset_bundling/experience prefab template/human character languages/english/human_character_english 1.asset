@@ -1,0 +1,116 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b9639b94d027da146851dbe30b470647, type: 3}
+  m_Name: human_character_english 1
+  m_EditorClassIdentifier: 
+  experienceSlides:
+  - slideName: human still
+    localizedName: human still
+    desciption: human standing still for everyones amusement
+    isInfoDisplayed: 0
+    descriptionPosition: {x: 0.3, y: 1.8, z: 0}
+    descriptionCanvasSize: {x: 20, y: 14}
+    labelsExist: 0
+    labelList: []
+    isNarrationEnabled: 1
+    Narration: {fileID: 8300000, guid: 80c70ed2cba2f4a15bdc8d4622a92eee, type: 3}
+  - slideName: human exploded
+    localizedName: human exploded
+    desciption: Description test 1 A2+B2=C2
+    isInfoDisplayed: 1
+    descriptionPosition: {x: -0.8, y: 1.8, z: 0}
+    descriptionCanvasSize: {x: 33, y: 30}
+    labelsExist: 0
+    labelList: []
+    isNarrationEnabled: 0
+    Narration: {fileID: 0}
+  - slideName: human idling
+    localizedName: human idling
+    desciption: The human is bored. I am bored. You are probably bored as well
+    isInfoDisplayed: 1
+    descriptionPosition: {x: 0.7, y: 0.8, z: 0}
+    descriptionCanvasSize: {x: 37, y: 63}
+    labelsExist: 1
+    labelList:
+    - labelName: Hands
+      label: Hands
+      description: some hands desciption
+      labelPosition: {x: 17.49, y: 0}
+      labelSize: {x: 35, y: 8}
+    - labelName: Big Knuckle Head
+      label: Big Knuckle Head
+      description: a big head description
+      labelPosition: {x: 17.9, y: 4}
+      labelSize: {x: 39.3, y: 8}
+    - labelName: Big Feet
+      label: Big Feet
+      description: big feet description
+      labelPosition: {x: 17.49, y: 0}
+      labelSize: {x: 35, y: 8}
+    - labelName: Shoulder
+      label: Shoulder
+      description: description of shoulder
+      labelPosition: {x: -17.61, y: 0}
+      labelSize: {x: 35, y: 8}
+    isNarrationEnabled: 1
+    Narration: {fileID: 8300000, guid: 74bd4f5dccf394c5ab0955fafe6c2150, type: 3}
+  - slideName: human walking
+    localizedName: human walking
+    desciption: The human is taking a walk along the.. a tread mill that you cant
+      see
+    isInfoDisplayed: 0
+    descriptionPosition: {x: 0, y: 0, z: 0}
+    descriptionCanvasSize: {x: 0, y: 0}
+    labelsExist: 0
+    labelList: []
+    isNarrationEnabled: 1
+    Narration: {fileID: 8300000, guid: b4ec84b354ff54e1b9f44cbd950059e1, type: 3}
+  - slideName: human running
+    localizedName: human running
+    desciption: Not a convincing run. I couldnt get a proper running clip .
+    isInfoDisplayed: 0
+    descriptionPosition: {x: 0, y: 0, z: 0}
+    descriptionCanvasSize: {x: 0, y: 0}
+    labelsExist: 1
+    labelList:
+    - labelName: Block Head
+      label: Block Head
+      description: block head description
+      labelPosition: {x: 1.557028, y: 3.525454}
+      labelSize: {x: 15.37, y: 4}
+    isNarrationEnabled: 1
+    Narration: {fileID: 8300000, guid: 5f11ee403ec904bdba70f5528ba9acb0, type: 3}
+  quizSlides:
+  - title: human quiz
+    LocaliziedTitle: human quiz
+    quizlabels:
+    - labelName: Hands
+      label: Hands
+      description: some hands desciption
+      labelPosition: {x: 17.49, y: 0}
+      labelSize: {x: 35, y: 8}
+    - labelName: Big Knuckle Head
+      label: Big Knuckle Head
+      description: a big head description
+      labelPosition: {x: 17.9, y: 4}
+      labelSize: {x: 39.3, y: 8}
+    - labelName: Big Feet
+      label: Big Feet
+      description: big feet description
+      labelPosition: {x: 17.49, y: 0}
+      labelSize: {x: 35, y: 8}
+    - labelName: Shoulder
+      label: Shoulder
+      description: description of shoulder
+      labelPosition: {x: -17.61, y: 0}
+      labelSize: {x: 35, y: 8}
+  selectLabelListToCopy: 2

@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4026192817939055634
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4026192817939055635}
+  - component: {fileID: 4026192817939055636}
+  m_Layer: 0
+  m_Name: LensNav
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4026192817939055635
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4026192817939055634}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 805.6176, y: 1224.3895, z: -4383.1636}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4026192817939055636
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4026192817939055634}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0541c1468d2df4189ab4bad8cd1c1fd6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  lenses: {fileID: 0}
+  library: {fileID: 0}
+  buttonGroup: {fileID: 0}
+  lensCanvas: {fileID: 0}
+  lensIcon: {fileID: 0}
+  lensSprite_grey: {fileID: 21300000, guid: d1560b914a288604884779bc5237e100, type: 3}
+  lensSprite_orange: {fileID: 21300000, guid: e2d0240a0eb836a44a3f025d823e934a, type: 3}
+  libraryHighlightIcon: {fileID: 0}
+  personHighlightIcon: {fileID: 0}
+  deeplinkCanvas: {fileID: 0}
+  camera: {fileID: 0}

@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b9639b94d027da146851dbe30b470647, type: 3}
+  m_Name: english
+  m_EditorClassIdentifier: 
+  experienceSlides:
+  - slideName: Lamp
+    localizedName: Lamp
+    desciption: 
+    isInfoDisplayed: 0
+    descriptionPosition: {x: 0, y: 0, z: 0}
+    descriptionAlignment: 0
+    labelsExist: 1
+    labelList:
+    - labelName: Lamp Base
+      label: Lamp Base
+      description: 
+      labelAlignment: 0
+    - labelName: Shade
+      label: Shade
+      description: 
+      labelAlignment: 1
+    - labelName: Bulb
+      label: Bulb
+      description: 
+      labelAlignment: 3
+    isNarrationEnabled: 1
+    Narration: {fileID: 8300000, guid: 749f6434d19f446a58c69f7f43239931, type: 3}
+  quizSlides:
+  - title: 
+    LocaliziedTitle: 
+    quizlabels:
+    - labelName: Lamp Base
+      label: Lamp Base
+      description: 
+      labelAlignment: 0
+    - labelName: Shade
+      label: Shade
+      description: 
+      labelAlignment: 1
+    - labelName: Bulb
+      label: Bulb
+      description: 
+      labelAlignment: 3
+  selectLabelListToCopy: 0

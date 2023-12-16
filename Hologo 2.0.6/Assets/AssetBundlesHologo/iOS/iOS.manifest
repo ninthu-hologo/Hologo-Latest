@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 1936893625
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: language_files_25thoct.hdlc
+      Dependencies: {}
+    Info_1:
+      Name: portal_template
+      Dependencies: {}

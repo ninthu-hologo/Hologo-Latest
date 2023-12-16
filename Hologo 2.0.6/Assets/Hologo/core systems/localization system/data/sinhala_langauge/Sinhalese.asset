@@ -1,0 +1,1154 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a700b31120457b42a4dfc3677a8a036, type: 3}
+  m_Name: Sinhalese
+  m_EditorClassIdentifier: 
+  country: Sri Lanka
+  language: Sinhalese
+  languageId: 75
+  rightToLeft: 0
+  fontList:
+  - name: main heading font
+    font: {fileID: 11400000, guid: 6513af5a3748c4b16abc5f522dbffe58, type: 2}
+    fontStyle: 1
+    characterSpacing: 0.41
+    AutoSize: 0
+    MinFontSize: 34
+    MaxFontSize: 34
+    alternateFontSizes: []
+    fontColor: {r: 0.101960786, g: 0.101960786, b: 0.101960786, a: 1}
+    overrideFontDirection: 0
+    textAlignment: 513
+  - name: experience title
+    font: {fileID: 11400000, guid: 6513af5a3748c4b16abc5f522dbffe58, type: 2}
+    fontStyle: 1
+    characterSpacing: 0.34
+    AutoSize: 0
+    MinFontSize: 28
+    MaxFontSize: 28
+    alternateFontSizes: []
+    fontColor: {r: 1, g: 1, b: 1, a: 1}
+    overrideFontDirection: 0
+    textAlignment: 513
+  - name: experience small title
+    font: {fileID: 11400000, guid: 6513af5a3748c4b16abc5f522dbffe58, type: 2}
+    fontStyle: 0
+    characterSpacing: 0.95
+    AutoSize: 0
+    MinFontSize: 15
+    MaxFontSize: 15
+    alternateFontSizes: []
+    fontColor: {r: 1, g: 1, b: 1, a: 0.9019608}
+    overrideFontDirection: 0
+    textAlignment: 513
+  - name: category button font/ small center text
+    font: {fileID: 11400000, guid: 6513af5a3748c4b16abc5f522dbffe58, type: 2}
+    fontStyle: 0
+    characterSpacing: 0
+    AutoSize: 0
+    MinFontSize: 13
+    MaxFontSize: 13
+    alternateFontSizes: []
+    fontColor: {r: 0, g: 0, b: 0, a: 1}
+    overrideFontDirection: 0
+    textAlignment: 514
+  - name: experience label font
+    font: {fileID: 11400000, guid: 6513af5a3748c4b16abc5f522dbffe58, type: 2}
+    fontStyle: 0
+    characterSpacing: 0
+    AutoSize: 0
+    MinFontSize: 13
+    MaxFontSize: 13
+    alternateFontSizes: []
+    fontColor: {r: 0, g: 0, b: 0, a: 1}
+    overrideFontDirection: 0
+    textAlignment: 514
+  - name: experience explore learn button font
+    font: {fileID: 11400000, guid: 6513af5a3748c4b16abc5f522dbffe58, type: 2}
+    fontStyle: 16
+    characterSpacing: 0
+    AutoSize: 0
+    MinFontSize: 14
+    MaxFontSize: 14
+    alternateFontSizes: []
+    fontColor: {r: 1, g: 1, b: 1, a: 0.709}
+    overrideFontDirection: 0
+    textAlignment: 514
+  - name: slide step button font
+    font: {fileID: 11400000, guid: 6513af5a3748c4b16abc5f522dbffe58, type: 2}
+    fontStyle: 0
+    characterSpacing: 0
+    AutoSize: 0
+    MinFontSize: 13
+    MaxFontSize: 13
+    alternateFontSizes: []
+    fontColor: {r: 0, g: 0, b: 0, a: 0.484}
+    overrideFontDirection: 0
+    textAlignment: 514
+  - name: Biggest Titles
+    font: {fileID: 11400000, guid: 6513af5a3748c4b16abc5f522dbffe58, type: 2}
+    fontStyle: 1
+    characterSpacing: 0
+    AutoSize: 0
+    MinFontSize: 29
+    MaxFontSize: 29
+    alternateFontSizes: []
+    fontColor: {r: 1, g: 1, b: 1, a: 1}
+    overrideFontDirection: 0
+    textAlignment: 513
+  - name: Main Buttons
+    font: {fileID: 11400000, guid: 6513af5a3748c4b16abc5f522dbffe58, type: 2}
+    fontStyle: 1
+    characterSpacing: -0.41
+    AutoSize: 0
+    MinFontSize: 18
+    MaxFontSize: 18
+    alternateFontSizes: []
+    fontColor: {r: 1, g: 1, b: 1, a: 1}
+    overrideFontDirection: 0
+    textAlignment: 514
+  - name: Transparent Input Placeholders
+    font: {fileID: 11400000, guid: 6513af5a3748c4b16abc5f522dbffe58, type: 2}
+    fontStyle: 0
+    characterSpacing: -0.41
+    AutoSize: 0
+    MinFontSize: 17
+    MaxFontSize: 17
+    alternateFontSizes: []
+    fontColor: {r: 1, g: 1, b: 1, a: 0.6}
+    overrideFontDirection: 0
+    textAlignment: 513
+  - name: Big Subtitles
+    font: {fileID: 11400000, guid: 6513af5a3748c4b16abc5f522dbffe58, type: 2}
+    fontStyle: 0
+    characterSpacing: 0.38
+    AutoSize: 0
+    MinFontSize: 17
+    MaxFontSize: 17
+    alternateFontSizes: []
+    fontColor: {r: 1, g: 1, b: 1, a: 1}
+    overrideFontDirection: 0
+    textAlignment: 513
+  - name: Fullpage Navigation Tab
+    font: {fileID: 11400000, guid: 6513af5a3748c4b16abc5f522dbffe58, type: 2}
+    fontStyle: 0
+    characterSpacing: -0.41
+    AutoSize: 0
+    MinFontSize: 22
+    MaxFontSize: 22
+    alternateFontSizes: []
+    fontColor: {r: 1, g: 1, b: 1, a: 1}
+    overrideFontDirection: 0
+    textAlignment: 514
+  - name: Fullpage Body Faded
+    font: {fileID: 11400000, guid: 6513af5a3748c4b16abc5f522dbffe58, type: 2}
+    fontStyle: 0
+    characterSpacing: -0.36
+    AutoSize: 0
+    MinFontSize: 17
+    MaxFontSize: 17
+    alternateFontSizes: []
+    fontColor: {r: 1, g: 1, b: 1, a: 0.8}
+    overrideFontDirection: 0
+    textAlignment: 513
+  - name: Subscription Buttons
+    font: {fileID: 11400000, guid: 6513af5a3748c4b16abc5f522dbffe58, type: 2}
+    fontStyle: 1
+    characterSpacing: -0.24
+    AutoSize: 0
+    MinFontSize: 17
+    MaxFontSize: 17
+    alternateFontSizes: []
+    fontColor: {r: 1, g: 1, b: 1, a: 1}
+    overrideFontDirection: 0
+    textAlignment: 513
+  - name: Body Text
+    font: {fileID: 11400000, guid: 6513af5a3748c4b16abc5f522dbffe58, type: 2}
+    fontStyle: 0
+    characterSpacing: -0.41
+    AutoSize: 0
+    MinFontSize: 17
+    MaxFontSize: 17
+    alternateFontSizes: []
+    fontColor: {r: 0, g: 0, b: 0, a: 0.9019608}
+    overrideFontDirection: 0
+    textAlignment: 513
+  - name: Object/AR
+    font: {fileID: 11400000, guid: 5410749b0db0f493d8921ee1eb6036a7, type: 2}
+    fontStyle: 1
+    characterSpacing: -0.58
+    AutoSize: 0
+    MinFontSize: 15
+    MaxFontSize: 15
+    alternateFontSizes: []
+    fontColor: {r: 0, g: 0, b: 0, a: 0.8}
+    overrideFontDirection: 0
+    textAlignment: 514
+  - name: Modal Window Titles / Username Text
+    font: {fileID: 11400000, guid: 6513af5a3748c4b16abc5f522dbffe58, type: 2}
+    fontStyle: 1
+    characterSpacing: 0.38
+    AutoSize: 0
+    MinFontSize: 22
+    MaxFontSize: 22
+    alternateFontSizes: []
+    fontColor: {r: 0, g: 0, b: 0, a: 1}
+    overrideFontDirection: 0
+    textAlignment: 513
+  - name: Lesson Title / Messages / List Titles
+    font: {fileID: 11400000, guid: 6513af5a3748c4b16abc5f522dbffe58, type: 2}
+    fontStyle: 0
+    characterSpacing: -0.24
+    AutoSize: 0
+    MinFontSize: 15
+    MaxFontSize: 15
+    alternateFontSizes: []
+    fontColor: {r: 0, g: 0, b: 0, a: 1}
+    overrideFontDirection: 0
+    textAlignment: 513
+  - name: Lesson Sub Title/ User type
+    font: {fileID: 11400000, guid: 6513af5a3748c4b16abc5f522dbffe58, type: 2}
+    fontStyle: 0
+    characterSpacing: -0.08
+    AutoSize: 0
+    MinFontSize: 14
+    MaxFontSize: 14
+    alternateFontSizes: []
+    fontColor: {r: 0.5411765, g: 0.5411765, b: 0.56078434, a: 1}
+    overrideFontDirection: 0
+    textAlignment: 513
+  - name: Main Buttons Orange
+    font: {fileID: 11400000, guid: 6513af5a3748c4b16abc5f522dbffe58, type: 2}
+    fontStyle: 1
+    characterSpacing: -0.41
+    AutoSize: 0
+    MinFontSize: 18
+    MaxFontSize: 18
+    alternateFontSizes: []
+    fontColor: {r: 0.96862745, g: 0.39607844, b: 0, a: 1}
+    overrideFontDirection: 0
+    textAlignment: 514
+  - name: Category Titles
+    font: {fileID: 11400000, guid: 6513af5a3748c4b16abc5f522dbffe58, type: 2}
+    fontStyle: 1
+    characterSpacing: 0.35
+    AutoSize: 0
+    MinFontSize: 22
+    MaxFontSize: 22
+    alternateFontSizes: []
+    fontColor: {r: 0, g: 0, b: 0, a: 1}
+    overrideFontDirection: 0
+    textAlignment: 513
+  - name: Small Experiece Title / Drop Down Titles
+    font: {fileID: 11400000, guid: 6513af5a3748c4b16abc5f522dbffe58, type: 2}
+    fontStyle: 1
+    characterSpacing: -0.41
+    AutoSize: 0
+    MinFontSize: 18
+    MaxFontSize: 18
+    alternateFontSizes: []
+    fontColor: {r: 0, g: 0, b: 0, a: 1}
+    overrideFontDirection: 0
+    textAlignment: 513
+  - name: Small Experiece Sub Title
+    font: {fileID: 11400000, guid: 6513af5a3748c4b16abc5f522dbffe58, type: 2}
+    fontStyle: 0
+    characterSpacing: -0.08
+    AutoSize: 0
+    MinFontSize: 16
+    MaxFontSize: 16
+    alternateFontSizes: []
+    fontColor: {r: 0, g: 0, b: 0, a: 0.5019608}
+    overrideFontDirection: 0
+    textAlignment: 513
+  - name: Home Experience Description
+    font: {fileID: 11400000, guid: 6513af5a3748c4b16abc5f522dbffe58, type: 2}
+    fontStyle: 0
+    characterSpacing: -0.41
+    AutoSize: 0
+    MinFontSize: 18
+    MaxFontSize: 18
+    alternateFontSizes: []
+    fontColor: {r: 1, g: 1, b: 1, a: 1}
+    overrideFontDirection: 0
+    textAlignment: 513
+  - name: Home Experience Category Button
+    font: {fileID: 11400000, guid: 6513af5a3748c4b16abc5f522dbffe58, type: 2}
+    fontStyle: 0
+    characterSpacing: -0.24
+    AutoSize: 0
+    MinFontSize: 15
+    MaxFontSize: 15
+    alternateFontSizes: []
+    fontColor: {r: 1, g: 1, b: 1, a: 1}
+    overrideFontDirection: 0
+    textAlignment: 513
+  - name: Text Button / quiz body
+    font: {fileID: 11400000, guid: 6513af5a3748c4b16abc5f522dbffe58, type: 2}
+    fontStyle: 0
+    characterSpacing: -0.24
+    AutoSize: 0
+    MinFontSize: 17
+    MaxFontSize: 17
+    alternateFontSizes: []
+    fontColor: {r: 0, g: 0, b: 0, a: 1}
+    overrideFontDirection: 0
+    textAlignment: 514
+  - name: Orange Titles
+    font: {fileID: 11400000, guid: 6513af5a3748c4b16abc5f522dbffe58, type: 2}
+    fontStyle: 0
+    characterSpacing: -0.08
+    AutoSize: 0
+    MinFontSize: 15
+    MaxFontSize: 15
+    alternateFontSizes: []
+    fontColor: {r: 0.96862745, g: 0.39607844, b: 0, a: 1}
+    overrideFontDirection: 0
+    textAlignment: 513
+  - name: Sign Out
+    font: {fileID: 11400000, guid: 6513af5a3748c4b16abc5f522dbffe58, type: 2}
+    fontStyle: 0
+    characterSpacing: -0.08
+    AutoSize: 0
+    MinFontSize: 17
+    MaxFontSize: 17
+    alternateFontSizes: []
+    fontColor: {r: 1, g: 0.1764706, b: 0.33333334, a: 1}
+    overrideFontDirection: 0
+    textAlignment: 513
+  - name: Loading Title
+    font: {fileID: 11400000, guid: 6513af5a3748c4b16abc5f522dbffe58, type: 2}
+    fontStyle: 1
+    characterSpacing: 0
+    AutoSize: 0
+    MinFontSize: 28
+    MaxFontSize: 28
+    alternateFontSizes: []
+    fontColor: {r: 0, g: 0, b: 0, a: 1}
+    overrideFontDirection: 0
+    textAlignment: 514
+  - name: Loading Sub Title
+    font: {fileID: 11400000, guid: 6513af5a3748c4b16abc5f522dbffe58, type: 2}
+    fontStyle: 0
+    characterSpacing: 0
+    AutoSize: 0
+    MinFontSize: 17
+    MaxFontSize: 17
+    alternateFontSizes: []
+    fontColor: {r: 0, g: 0, b: 0, a: 1}
+    overrideFontDirection: 0
+    textAlignment: 514
+  - name: score text
+    font: {fileID: 11400000, guid: 6513af5a3748c4b16abc5f522dbffe58, type: 2}
+    fontStyle: 0
+    characterSpacing: 0
+    AutoSize: 0
+    MinFontSize: 10
+    MaxFontSize: 10
+    alternateFontSizes: []
+    fontColor: {r: 1, g: 1, b: 1, a: 0.8}
+    overrideFontDirection: 0
+    textAlignment: 516
+  - name: forgot password and other small faded text
+    font: {fileID: 11400000, guid: 6513af5a3748c4b16abc5f522dbffe58, type: 2}
+    fontStyle: 0
+    characterSpacing: 0
+    AutoSize: 0
+    MinFontSize: 14
+    MaxFontSize: 14
+    alternateFontSizes: []
+    fontColor: {r: 1, g: 1, b: 1, a: 0.6}
+    overrideFontDirection: 0
+    textAlignment: 513
+  - name: no lesson/student/teacher/etc/ exist
+    font: {fileID: 11400000, guid: 6513af5a3748c4b16abc5f522dbffe58, type: 2}
+    fontStyle: 0
+    characterSpacing: 0
+    AutoSize: 0
+    MinFontSize: 22
+    MaxFontSize: 22
+    alternateFontSizes: []
+    fontColor: {r: 0.7490196, g: 0.7490196, b: 0.7490196, a: 1}
+    overrideFontDirection: 0
+    textAlignment: 514
+  - name: input text white
+    font: {fileID: 11400000, guid: bdaf6843c8e76483c8603f269be9a87a, type: 2}
+    fontStyle: 0
+    characterSpacing: -0.41
+    AutoSize: 0
+    MinFontSize: 17
+    MaxFontSize: 17
+    alternateFontSizes: []
+    fontColor: {r: 1, g: 1, b: 1, a: 1}
+    overrideFontDirection: 0
+    textAlignment: 513
+  - name: input text black
+    font: {fileID: 11400000, guid: bdaf6843c8e76483c8603f269be9a87a, type: 2}
+    fontStyle: 0
+    characterSpacing: -0.41
+    AutoSize: 0
+    MinFontSize: 17
+    MaxFontSize: 17
+    alternateFontSizes: []
+    fontColor: {r: 0, g: 0, b: 0, a: 0.9019608}
+    overrideFontDirection: 0
+    textAlignment: 513
+  - name: page title small
+    font: {fileID: 11400000, guid: 6513af5a3748c4b16abc5f522dbffe58, type: 2}
+    fontStyle: 1
+    characterSpacing: -0.41
+    AutoSize: 0
+    MinFontSize: 17
+    MaxFontSize: 17
+    alternateFontSizes: []
+    fontColor: {r: 0, g: 0, b: 0, a: 0.9019608}
+    overrideFontDirection: 0
+    textAlignment: 514
+  - name: Main Buttons Purple
+    font: {fileID: 11400000, guid: 6513af5a3748c4b16abc5f522dbffe58, type: 2}
+    fontStyle: 0
+    characterSpacing: -0.41
+    AutoSize: 0
+    MinFontSize: 17
+    MaxFontSize: 17
+    alternateFontSizes: []
+    fontColor: {r: 0.24705884, g: 0.10196079, b: 0.29411766, a: 1}
+    overrideFontDirection: 0
+    textAlignment: 514
+  - name: Main Buttons Red
+    font: {fileID: 11400000, guid: 6513af5a3748c4b16abc5f522dbffe58, type: 2}
+    fontStyle: 0
+    characterSpacing: -0.41
+    AutoSize: 0
+    MinFontSize: 17
+    MaxFontSize: 17
+    alternateFontSizes: []
+    fontColor: {r: 0.59607846, g: 0.24705884, b: 0.2509804, a: 1}
+    overrideFontDirection: 0
+    textAlignment: 514
+  - name: Small Buttons Purple
+    font: {fileID: 11400000, guid: 6513af5a3748c4b16abc5f522dbffe58, type: 2}
+    fontStyle: 0
+    characterSpacing: 0
+    AutoSize: 0
+    MinFontSize: 14
+    MaxFontSize: 14
+    alternateFontSizes: []
+    fontColor: {r: 0.24705884, g: 0.10196079, b: 0.29411766, a: 1}
+    overrideFontDirection: 0
+    textAlignment: 514
+  - name: Small Buttons Red
+    font: {fileID: 11400000, guid: 6513af5a3748c4b16abc5f522dbffe58, type: 2}
+    fontStyle: 0
+    characterSpacing: 0
+    AutoSize: 0
+    MinFontSize: 14
+    MaxFontSize: 14
+    alternateFontSizes: []
+    fontColor: {r: 0.59607846, g: 0.24705884, b: 0.2509804, a: 1}
+    overrideFontDirection: 0
+    textAlignment: 514
+  - name: small grey text
+    font: {fileID: 11400000, guid: 6513af5a3748c4b16abc5f522dbffe58, type: 2}
+    fontStyle: 0
+    characterSpacing: 0
+    AutoSize: 0
+    MinFontSize: 10
+    MaxFontSize: 10
+    alternateFontSizes: []
+    fontColor: {r: 0.5411765, g: 0.5411765, b: 0.56078434, a: 1}
+    overrideFontDirection: 0
+    textAlignment: 257
+  - name: small bold title
+    font: {fileID: 11400000, guid: 6513af5a3748c4b16abc5f522dbffe58, type: 2}
+    fontStyle: 1
+    characterSpacing: 0
+    AutoSize: 0
+    MinFontSize: 15
+    MaxFontSize: 17
+    alternateFontSizes: []
+    fontColor: {r: 0, g: 0, b: 0, a: 1}
+    overrideFontDirection: 0
+    textAlignment: 514
+  - name: quiz start text
+    font: {fileID: 11400000, guid: 6513af5a3748c4b16abc5f522dbffe58, type: 2}
+    fontStyle: 0
+    characterSpacing: 0.38
+    AutoSize: 0
+    MinFontSize: 20
+    MaxFontSize: 20
+    alternateFontSizes: []
+    fontColor: {r: 1, g: 1, b: 1, a: 1}
+    overrideFontDirection: 0
+    textAlignment: 514
+  - name: profile name
+    font: {fileID: 11400000, guid: 6513af5a3748c4b16abc5f522dbffe58, type: 2}
+    fontStyle: 1
+    characterSpacing: -0.41
+    AutoSize: 0
+    MinFontSize: 17
+    MaxFontSize: 17
+    alternateFontSizes: []
+    fontColor: {r: 0.22745098, g: 0.22745098, b: 0.22745098, a: 1}
+    overrideFontDirection: 0
+    textAlignment: 514
+  - name: onboarding title left
+    font: {fileID: 11400000, guid: 6513af5a3748c4b16abc5f522dbffe58, type: 2}
+    fontStyle: 1
+    characterSpacing: -0.41
+    AutoSize: 0
+    MinFontSize: 15
+    MaxFontSize: 15
+    alternateFontSizes: []
+    fontColor: {r: 1, g: 1, b: 1, a: 1}
+    overrideFontDirection: 0
+    textAlignment: 513
+  - name: onboarding title right
+    font: {fileID: 11400000, guid: 6513af5a3748c4b16abc5f522dbffe58, type: 2}
+    fontStyle: 1
+    characterSpacing: -0.41
+    AutoSize: 0
+    MinFontSize: 15
+    MaxFontSize: 15
+    alternateFontSizes: []
+    fontColor: {r: 1, g: 1, b: 1, a: 1}
+    overrideFontDirection: 0
+    textAlignment: 516
+  - name: onboarding small bold left
+    font: {fileID: 11400000, guid: 6513af5a3748c4b16abc5f522dbffe58, type: 2}
+    fontStyle: 1
+    characterSpacing: -0.41
+    AutoSize: 0
+    MinFontSize: 13
+    MaxFontSize: 13
+    alternateFontSizes: []
+    fontColor: {r: 1, g: 1, b: 1, a: 1}
+    overrideFontDirection: 0
+    textAlignment: 513
+  - name: onboarding small bold right
+    font: {fileID: 11400000, guid: 6513af5a3748c4b16abc5f522dbffe58, type: 2}
+    fontStyle: 1
+    characterSpacing: -0.41
+    AutoSize: 0
+    MinFontSize: 13
+    MaxFontSize: 13
+    alternateFontSizes: []
+    fontColor: {r: 1, g: 1, b: 1, a: 1}
+    overrideFontDirection: 0
+    textAlignment: 516
+  - name: onboarding small left
+    font: {fileID: 11400000, guid: 6513af5a3748c4b16abc5f522dbffe58, type: 2}
+    fontStyle: 0
+    characterSpacing: -0.41
+    AutoSize: 0
+    MinFontSize: 13
+    MaxFontSize: 13
+    alternateFontSizes: []
+    fontColor: {r: 1, g: 1, b: 1, a: 1}
+    overrideFontDirection: 0
+    textAlignment: 513
+  - name: onboarding small right
+    font: {fileID: 11400000, guid: 6513af5a3748c4b16abc5f522dbffe58, type: 2}
+    fontStyle: 0
+    characterSpacing: -0.41
+    AutoSize: 0
+    MinFontSize: 13
+    MaxFontSize: 13
+    alternateFontSizes: []
+    fontColor: {r: 1, g: 1, b: 1, a: 1}
+    overrideFontDirection: 0
+    textAlignment: 516
+  buttonTexts:
+  - title: OK
+    localizedPhrase: "y\xDF"
+  - title: Cancel
+    localizedPhrase: wj,x.= lrkak
+  - title: Yes
+    localizedPhrase: "T\xF5"
+  - title: Explore
+    localizedPhrase: ".f\xF5IKh lrkak"
+  - title: Learn
+    localizedPhrase: bf.k .kak
+  - title: Login
+    localizedPhrase: f,d.a jkak
+  - title: Sign Up
+    localizedPhrase: ",shdm\xC8x\xD1 jkak"
+  - title: Student
+    localizedPhrase: YsIHhd
+  - title: Teacher
+    localizedPhrase: .=rejrhd
+  - title: Good to go!
+    localizedPhrase: "ish,a, iQodk\xEF<font=\"English\">!</font>"
+  - title: Profile
+    localizedPhrase: .sKqu
+  - title: Subscriptions
+    localizedPhrase: .%dylhka
+  - title: Lessons
+    localizedPhrase: "mdv\xEF"
+  - title: Clear Cache
+    localizedPhrase: ;djld,sl u;lh uld oukak
+  - title: Model labels always on
+    localizedPhrase: "wdo\xBEY f,an, ieu\xFAgu l%shd;aulhs"
+  - title: App Sounds
+    localizedPhrase: wema y~
+  - title: Always start in AR mode
+    localizedPhrase: <font="English">Always start in AR mode</font>
+  - title: Label Size
+    localizedPhrase: f,an,fha m%udKh
+  - title: About Us
+    localizedPhrase: wms .ek
+  - title: Privacy Policy
+    localizedPhrase: ryiH;d m%;sm;a;sh
+  - title: User
+    localizedPhrase: "m\xDFYS,lhd"
+  - title: Change Password
+    localizedPhrase: uqrmoh fjkia lrkak
+  - title: Forgot your Password?
+    localizedPhrase: uqrmoh wu;l jqkdo <font="English">?</font>
+  - title: Teacher Subscription
+    localizedPhrase: .=re .%dylhd
+  - title: Edit Profile
+    localizedPhrase: me;slv fjkia lrkak
+  - title: App Version
+    localizedPhrase: "uD\xFFldx. ixialrK\u200Bh"
+  - title: Contact Us
+    localizedPhrase: wm wu;kak
+  - title: Sign Out
+    localizedPhrase: bj;ajkak
+  - title: Update
+    localizedPhrase: hdj;ald,Sk lrkak
+  - title: Student Subscription
+    localizedPhrase: hdj;ald,Sk lrkak
+  - title: Downloaded Experiences
+    localizedPhrase: "nd.; lrk ,o \xFAfYaIdx."
+  - title: FAQ
+    localizedPhrase: m%Yakh
+  - title: Save
+    localizedPhrase: o;a; iqrlskak
+  - title: Edit
+    localizedPhrase: ixialrKh lrkak
+  - title: Share
+    localizedPhrase: fnod.kak
+  - title: Delete
+    localizedPhrase: ulkak
+  - title: Share your lesson
+    localizedPhrase: "Tf\xED mdvu fnod .kak"
+  - title: Public Share
+    localizedPhrase: "m%isoa\xEAfha fnod .kak"
+  - title: Share with Students
+    localizedPhrase: "isiqka iu\xD5 fnod .kak"
+  - title: Add a teacher
+    localizedPhrase: .=rejrfhl= tla lrkak
+  - title: Okay
+    localizedPhrase: "y\xDF"
+  - title: View Description
+    localizedPhrase: "\xFAia;rh n,kak"
+  - title: View Experience
+    localizedPhrase: "\xFAfYaIdx.h krUkak"
+  - title: Not Now
+    localizedPhrase: oeka fkfjhs
+  - title: Object
+    localizedPhrase: jia;=j
+  - title: AR
+    localizedPhrase: "tAwd\xBE$<font=\"English\">AR</font>"
+  - title: Nah, will do it later
+    localizedPhrase: "miqj th lrkak\xEF'"
+  - title: All
+    localizedPhrase: "ish\xA8u"
+  labelTexts:
+  - title: Select Country
+    localizedPhrase: rg f;darkak
+  - title: Select language
+    localizedPhrase: NdIdj f;darkak
+  - title: Email
+    localizedPhrase: "\xFAoHq;a ;emE,"
+  - title: Password
+    localizedPhrase: ryia moh
+  - title: Don't have an account?
+    localizedPhrase: .sKqula keoao<font="English">?</font>
+  - title: Already have an account?
+    localizedPhrase: "oekgu;a .sKqula ;sf\xEDo<font=\"English\">?</font>"
+  - title: Username
+    localizedPhrase: "m\xDFYS,l kduh"
+  - title: /year
+    localizedPhrase: /year
+  - title: Select an Option
+    localizedPhrase: "\xFAl,amhla f;darkak"
+  - title: Students
+    localizedPhrase: isiqka
+  - title: Teachers
+    localizedPhrase: .=rejreka
+  - title: Name
+    localizedPhrase: ku
+  - title: Address
+    localizedPhrase: ',smskh'
+  - title: Phone
+    localizedPhrase: "\xFFrl:kh"
+  - title: Old Password
+    localizedPhrase: "mer\u201A uqrmoh"
+  - title: New Password
+    localizedPhrase: kj uqrmoh
+  - title: Re-Type New Password
+    localizedPhrase: kj uqrmoh kej; ghsma lrkak
+  - title: Subscription
+    localizedPhrase: .%dyl odhl;ajh
+  - title: Lesson
+    localizedPhrase: mdvu
+  - title: Downloaded
+    localizedPhrase: nd.; lr we;
+  - title: Size of the experience
+    localizedPhrase: "\xFAfYaIdx.fha m%udKh"
+  - title: Country
+    localizedPhrase: rg
+  - title: Language
+    localizedPhrase: NdIdj
+  - title: Syllabus
+    localizedPhrase: "\xFAIh ks\xBEfoaYh"
+  - title: Curriculum
+    localizedPhrase: "\xFAIhud,dj"
+  - title: Select Syllabus
+    localizedPhrase: "\xFAIh ks\xBEfoaYh f;darkak"
+  - title: Select Curriculum
+    localizedPhrase: "\xFAIhud,dj f;darkak"
+  - title: Already have an account?
+    localizedPhrase: "oekgu;a .sKqula ;sf\xEDo<font=\"English\">?</font>"
+  - title: 'Until:'
+    localizedPhrase: olajd(
+  - title: /Anually
+    localizedPhrase: "$jd\xBEIslj"
+  - title: 'No of Lessons used/total:'
+    localizedPhrase: "Nd\xFA;d l< mdv\xEF .Kk$tl;=j("
+  - title: This will close the experience
+    localizedPhrase: "fuu\xD5ska mdvu jid oukq ,nhs'"
+  - title: This will close the game
+    localizedPhrase: "fuu\xD5ska wod, l%Svdj jid oukq ,nhs'"
+  - title: Object mode
+    localizedPhrase: "T\xEDfcla\xDC ud\xC8,sh"
+  - title: AR mode
+    localizedPhrase: "tAwd\xBE ud\xC8,sh"
+  - title: This will switch between AR and Object mode
+    localizedPhrase: "fuh tAwd\xBE iy T\xECfcla\xDC ud\xC8,sh w;r udre f\xF5"
+  - title: In AR Mode, you can view the experience in Augmented Reality
+    localizedPhrase: "tAwd\xBE  ud\xC8,sfha\xA7 Tng \xFAfYaIdx.  T.aukag\xD9 \xDFhe,s\xE1ys
+      ker\xF4h yelsh"
+  - title: In Object Mode, you can view the experience in a grey background
+    localizedPhrase: "T\xECfcla\xDC ud\xC8,sfha\xA7 Tng w\xBF meye;s miq\xECul \xFAfYaIdx.
+      ker\xF4h yelsh"
+  - title: Already have an account?
+    localizedPhrase: "oekgu;a .sKqula ;sf\xEDo <font=\"English\">?</font>"
+  - title: Label On/Off
+    localizedPhrase: f,an,h il%sh$wl%sh lrkak
+  - title: This will enable/disable labels in the experience
+    localizedPhrase: "fuh mdv\xEF j, f,an, il%Sh$wl%Sh lrhs"
+  - title: Record Button
+    localizedPhrase: "m\xE1.; ls\xCDf\xEF fnd;a;u"
+  - title: This will record your voice to create a custom lesson
+    localizedPhrase: "fuh mdvula ks\xBEudKh ls\xCDu i|yd fuh Tf\xED lgy~ m\xE1.; lrkq
+      we;"
+  - title: Play/Pause Button
+    localizedPhrase: "Odjkh ls\xCDf\xEF$\xFArdu .eka\xF9\u200Bf\xEF fnd;a;\u200Bu"
+  - title: This will play/pause the lesson
+    localizedPhrase: "fuh mdvu Odjk\u200Bh ls\xCDu$\xFArdu .eka\xF9u lrkq we;"
+  - title: This will play/pause the downloaded lesson
+    localizedPhrase: "fuh nd.; l< mdvu Odjk\u200Bh ls\xCDu$\xFArdu .eka\xF9u lrkq
+      we;"
+  - title: This will play/pause the recordeded lesson
+    localizedPhrase: "fuh m\xE1.; l< mdvu Odjk\u200Bh ls\xCDu$\xFArdu .eka\xF9u lrkq
+      we;"
+  - title: Already have an account?
+    localizedPhrase: "oekgu;a .sKqula ;sf\xEDo<font=\"English\">?</font>"
+  - title: Lesson Popup
+    localizedPhrase: "mdvu u;=\xF9u"
+  - title: This will open the available lessons for this experience
+    localizedPhrase: "fuh oekg mj;sk mdv\xEF \xFAjD; lrkq we;'"
+  - title: This will open the available lessons and your recorded lessons for this
+      experience. You can share your lessons publicly or with your students from here
+    localizedPhrase: "fuu\xD5ska wod, \xFAfYaIdx.hg wh;a oekg mj;sk mdv\xEF iy Tn
+      m\xE1.; l< mdv\xEF \xFAjD; lrkq we;' Tng Tf\xED mdv\xEF fu;kska Tf\xED isiqka
+      iu\xD5 fyda m%isoa\xEAfha  fnod .; yelsh"
+  - title: Game mode
+    localizedPhrase: "l%Svd ud\xC8,s\u200Bh"
+  - title: This will take you to the Game mode of this experience if available
+    localizedPhrase: "fuh Tnj \xFAfYaIdx\u200B.j, l%Svd ud\xC8,shg f.k hkq we;"
+  - title: Learn/Explore mode
+    localizedPhrase: "bf.kq\xEF ud\xC8,sh iy .f\xF5IK ud\xC8,sh"
+  - title: This will toggle between the learn mode and explore mode
+    localizedPhrase: "fuh bf.kq\xEF ud\xC8,sh iy .f\xF5IK ud\xC8,sh w;r udre lrkq
+      we;"
+  - title: Learn mode has curated lessons narrated by our teachers synchronized to
+      the AR Experience
+    localizedPhrase: "bf.kSf\xEF ud\xC8,sfha\xA7 .=rejrhska \xFAiska \xFAia;r lrk
+      ,o mdv\xEF tAwd\xBE ud\xC8,shg iuuqyq\xBE; lr we;"
+  - title: In Explore mode, you can view the experiences in detail. Here, teachers
+      can record their own lessons and share with students and public, and students
+      can download and listen to lessons shared by their teachers
+    localizedPhrase: ".f\xF5IK ud\xC8,sfha\xA7 Tng \xFAfYaIdx. \xFAia;rd;aulj ker\xF4h
+      yelshz fuys\xA7 .=rejrekag ;ukaf.a mdv\xEF m\xE1.; lr isiqka yd m%isoa\xEAfha
+      fnod .; .; yels w;r isiqkag ;u .=rejreka \xFAiska fnod.kakd mdv\xEF nd.; lr
+      ijka \xC8h yelsh"
+  - title: 'Experience slides '
+    localizedPhrase: "mdv\xEF msgq"
+  - title: Individual slides for the experience
+    localizedPhrase: "mdv\xEF i|yd ;ks msgq"
+  - title: Free
+    localizedPhrase: "fkd\xF1f,a"
+  - title: Premium
+    localizedPhrase: "m%s\xF1h\xEF meflach"
+  - title: Close
+    localizedPhrase: jid oukak
+  - title: Skip & Close
+    localizedPhrase: "u\xD5yerhkak\" fnod.kak"
+  - title: Previous
+    localizedPhrase: fmr
+  - title: Next
+    localizedPhrase: "B<\xD5"
+  - title: AR/Object Mode
+    localizedPhrase: "<font=\"English\">AR</font>$T\xEDfcla\xDC ud\xC8,sh"
+  - title: Turn on Onboarding
+    localizedPhrase: "pd\xDFldj wrUkak"
+  - title: You can always turn on Onboarding in the settings page
+    localizedPhrase: "Tng ieu\xFAgu ieliq\xEF msgqfjka wod, Wmfoia l%shd;aul l< yelsh'"
+  - title: Your Subscription
+    localizedPhrase: Tnf.a odhl;ajh
+  - title: Yearly Hologo Membership
+    localizedPhrase: "jd\xBEIsl fydf,daf.da idud\xF0l;ajh"
+  - title: 'Lessons: '
+    localizedPhrase: mdvu
+  - title: Expires on
+    localizedPhrase: "l,a bl=;a\xF9u"
+  - title: Your subscription will not automatically renew unless manually renewd before
+      the end of the current period.
+    localizedPhrase: "Tnf.a odhl;ajh iajhxl%Shj w\xA8;a fkdjkd ne\xFAka th ksh\xF1;
+      ld, wjidkhg fmr Tn \xFAiska l%shd;aul lr.; hq;=h"
+  - title: Enjoy Hologo?
+    localizedPhrase: "fydf,df.da iu\xD5ska m%S;su;a o <font=\"English\">?</font>"
+  - title: If you liked Hologo, please take a moment to rate us
+    localizedPhrase: "Tn fydf,df.da iu\xD5ska ;Dma;su;ak\xEF wmj we.hSu i|yd fudfyd;la
+      ,ndfokak"
+  - title: Are you sure you want to sign out?
+    localizedPhrase: "Tng bj;a\xF9ug wjYH njg \xFAYajdihso <font=\"English\">?</font>"
+  - title: 'Tap here and switch between the learn mode and the explore mode.  In the
+      learn mode you will be able to listen to explanations on the concepts & in the
+      explore mode you will be able to observe in detail.  If you are signed up as
+      a teacher you will be able to record your own voice while on the explore mode
+      and share it with your students or the world. '
+    localizedPhrase: "bf.kq\xEF ud\xC8,sh iy .f\xF5IK ud\xC8,sh fjkia ls\xCDug fuys
+      gema lrkak' bf.kq\xEF ud\xC8,sfha\xA7 Tng ixl,am ms<sn|j meye\xC8,s ls\xCD\xEF
+      j,g ijka \xA7ug yels jk w;r .f\xF5IK ud\xC8,sfha\xA7 Tng th \xFAia;rd;aulj ks\xCDlaIKh
+      l< yelsh'  Tn .=rejrfhl= f,i ,shdm\xC8x\xD1 \xF9 we;ak\xEF\" .f\xF5IK ud\xC8,sfha
+      is\xE1h\xA7u Tng Tnf.a lgy~ m\xE1.; lr th Tf\xED isiqka iu\xD5 yd wfkla wh iu\xD5
+      fnod.ekSug Tng yels h'"
+  - title: 'Tap this button and toggle between AR and Object to view the object in
+      3D and Augmented Reality mode. '
+    localizedPhrase: "wod, rEmh T.aukag\xE2 \xDFhe,s\xE1 iy ;%sudKlrK udOHfhka ker\xF6ug\"
+      <font=\"English\">AR</font> ud\xC8,sh iy T\xEDfcla\xDC ud\xC8,sh w;r fhojq\xEF
+      yqjudrej ls\xCDug fuys gema lrkak'"
+  - title: Tap here to go back to the library
+    localizedPhrase: "kej;;a mqia;ld,h fj; fhduq\xF9ug fuys gema lrkak'"
+  - title: 'Switch slides by tapping on each slide. '
+    localizedPhrase: "wod, o\xBEYk rduq ;=\u200B, gema ls\xCDfuka Tng o\xBEYk rduqj,g
+      ms\xFAiSug yelsh'"
+  - title: Play and pause lessons with this button
+    localizedPhrase: "wod, mdvu Odjk\u200Bh ls\xCDu;a\" \xFArdu .eka\xF9u;a fuu fnd;a;u
+      u.ska is\xFF l< yel'"
+  - title: 'Record your voice by tapping on this button '
+    localizedPhrase: "Tnf.a lgy~ m\xE1.; ls\xCDug fuu fnd;a;u gema lrkak'"
+  - title: Play and pause recorded lessons here
+    localizedPhrase: "m\xE1.; lrk ,o mdv\xEF Odjkh ls\xCDug iy \xFArdu .eka\xF9u fuys\xA7
+      is\xFFl< yelsh' "
+  - title: 'Play games and assess yourself by tapping this button '
+    localizedPhrase: "fuu fnd;a;u gema ls\xCDfuka wod, l%Svd i|yd fhd\u200Buq \xF9
+      Tnf.a oekqu uek.; yelsh' "
+  - title: This will open the available lessons and your recorded lessons for this
+      experience. You can share your lessons publicly or with your students from here.
+    localizedPhrase: "fuu\xD5ska fuu \xFAfYaIdx.h i|yd wod, ish\xBFu mdv\xEF iy Tn
+      \xFAiska m\xE1.; lrk ,o mdv\xEF ish,a, \xFAjD; jkq we;'  Tng th fuys ish\xBF
+      fokd iu\xD5 fyda Tnf.a YsIHka iu\xD5 fyda fnod.ekSu l< yel'"
+  - title: 'Play and pause downloaded lessons here. '
+    localizedPhrase: "fuys\xA7 nd.; lrk ,o mdv\xEF Odjkh ls\xCDu fyda \xFArdu .eka\xF9u
+      l< yelsh' "
+  - title: 'Tap to enable and disable labels '
+    localizedPhrase: "f,an, l%shdlr\xF9ug iy wl%Shlr\xF9ug fuys gemalrkak'"
+  - title: You can always turn on Onboarding in the settings page.
+    localizedPhrase: "ieliq\xEF msgqfjka Tng ieu\xFAgu wod,''''''l%shd;aul l< yelsh'"
+  - title: "Give us a few seconds and we\u2019ll have your experience up and running."
+    localizedPhrase: "wm Tnf.a \xFAfYaIdx.h iQodk\xEF lrkd ;=re wmg fudfyd;la ,ndfokak'"
+  - title: 'Caution : Please make sure the environment you use Hologo in Augmented
+      Reality is safe and that there are no objects in the way.   Ask your parents
+      or an adult for assistance if needed.'
+    localizedPhrase: "wjjdohhs( Tn T.aukag\xE2 \xDFh,s\xE1ys wod, \xFAfYaIdx.h fmka\xF9ug
+      ls\xCDug fhdod.kakd m%foaYh ms<Sn| ie,ls,su;a jkak' th lsisu ndysr jia;=jla
+      ke;s u;=msgla \xFAhhq;=hs'  Tnf.a je\xE4ys\xE1hkaf.ka Tng wjYH Wmldr ,nd.kak' "
+  - title: Coming soon!
+    localizedPhrase: "<\xD5\xA7u\xE6"
+  - title: This experience is coming soon!
+    localizedPhrase: "fuu \xFAfYaIdx.h <\xD5\xA7u Tng ,nd.; yelsh\xE6"
+  - title: Notifications enabled!
+    localizedPhrase: "ksf\xF5ok ,e\xEE\xEF il%Shlr we;\xE6"
+  - title: Notifications disabled!
+    localizedPhrase: "ksf\xF5ok ,e\xEE\xEF wl%Shlr we;\xE6"
+  - title: Your profile has been updated!
+    localizedPhrase: "Tnf.a'''''hdj;ald,Sk lrk ,\xA7\xE6"
+  - title: Payment
+    localizedPhrase: "f.\xF9\xEF"
+  - title: Please click ok to be taken to Sri Lanka Dialog payment gateway
+    localizedPhrase: "\u203A ,xldf\xF5 vhf,d.a f.\xF9\xEF fodrgqj yd i\xEFnkaO\xF9ug
+      \xB4fla lrkak' "
+  - title: Enable push notifications
+    localizedPhrase: "oekq\xEF\xA7\xEF il%Sh lrkak "
+  - title: Would you like to get notified when we | add new experiences, features,
+      and updates?
+    localizedPhrase: "wm \xFAiska b\xC8\xDFfha\xA7 tl;=lrkakd \u200BjQ kj mdv\xEF\"
+      \xFA\u200BfYaIdx. iy hdj;als\xCD\xEF ms<sn| f;dr;=re Tng ,efnkjdg Tn leu;so@ "
+  - title: An error has occured! Contact support
+    localizedPhrase: "fodaYhla is\xFF \xF9 we;' iyh i|yd wu;kak'"
+  messageTexts:
+  - title: Enter your email address and password to access your account
+    localizedPhrase: "Tnf.a .sKqug m%f\xF5Y\xF9u i|yd Tnf.a \xFAoHq;a ;eme,a ,smskh
+      iy uqrmoh we;=<;a lrkak"
+  - title: Join us for more features and to enjoy more experiences!
+    localizedPhrase: ";j;a \xFAfYaIdx. iy mdv\xEF ri\xFA\xA7ug wm yd tlajkak"
+  - title: You've completed this task with a New High Score!
+    localizedPhrase: "Tn fuu ld\xBEhh kj by< ,l=Kq iu\xD5 i\xEFmQ\xBEK lr we;\xE6"
+  - title: You've completed this task!
+    localizedPhrase: "Tn fuu ld\xBEhh i\xEFmQ\xBEK lr we;"
+  - title: 'Score:'
+    localizedPhrase: ',l=Kq('
+  - title: 'Previous Score:'
+    localizedPhrase: fmr ,l=Kq(
+  - title: 'Your Score: '
+    localizedPhrase: "Tf\xED ,l=Kq("
+  - title: Having issues getting your subscription details at the moment!
+    localizedPhrase: "f\xEF fudfydf;a Tnf.a odhl;aj f;dr;=re ,nd .ekSf\xEF .eg\xBF
+      ;sf\xED'"
+  - title: Something is wrong with the internet!
+    localizedPhrase: "wka;\xBEcd,fha hula jer\xA7 we;\xE6"
+  - title: There seems to be a problem, please try again later!
+    localizedPhrase: ".eg\xA8jla we;s nj fmfka\" lreKdlr miqj kej; W;aidy lrkak\xE6"
+  - title: Nothing to report
+    localizedPhrase: "jd\xBE;d ls\xCDug lsisjla ke;"
+  - title: Cannot load experience
+    localizedPhrase: "\xFAfYaIdx.h mQrKh l< fkdyel"
+  - title: Couldn't load
+    localizedPhrase: mQrKh l< fkdyel
+  - title: Cannot load localization file
+    localizedPhrase: f.dkqj l%shd;aul l< fkdyel
+  - title: You don't have the quota to upload!
+    localizedPhrase: "Tng wm.\u200B; ls\xCDug wjir,;a fldagdjla fkdue;\xE6"
+  - title: Could not load asset from assetbundle
+    localizedPhrase: "Tnf.a nd.; ls\xCDu mQrKh l< fkdyel'"
+  - title: Could not load assetbundle
+    localizedPhrase: "Tnf.a nd.; ls\xCDu mQrKh l< fkdyel'"
+  - title: You entered your old password incorretly!
+    localizedPhrase: "Tn Tf\xED mer\u201A uqrmoh jer\xC8 f,i we;=<;a lr we;\xE6"
+  - title: This will clean all stored app data.
+    localizedPhrase: "fuu\xD5ska oekg iq/lsj we;s ish\xA8 o;a; bj;alrkq ,ef\xED"
+  - title: Changing your location will restore all experience data.
+    localizedPhrase: "Tnf.a rg fjkia ls\xCDfuka Tf\xED mdv\xEF ish,a, kej; ia:dmkh
+      f\xF5\xFA'"
+  - title: Name is empty
+    localizedPhrase: "ku i|yka ia:dkh wi\xEFmQ\xBEKh'"
+  - title: A user already exists
+    localizedPhrase: "fuu m\xDFYS,lhd oekgu;a Nd\xFA;fha we;'"
+  - title: Click ok to replace the existing user. Caution! This will erase all the
+      data of previous user!
+    localizedPhrase: "fjk;a m\xDFYS,lhl= ia:dk.; ls\xCDu i|yd \xB4fla lrkak' wjjdohhs\xE6
+      fuys\xA7 fmr m\xDFYS,lhdf.a ish\xBF f;dr;=re uelS hd yelsh'"
+  - title: Back to Library
+    localizedPhrase: kej;;a mqia;ld,h fj;
+  - title: All downloaded experiences have been deleted
+    localizedPhrase: "ish\xBF nd.;lrk ,o mdv\xEF uldoukd ,\xA7'"
+  - title: Something is wrong with the Hologo network
+    localizedPhrase: "fydf,df.da cd,fha h\xEFlsis fodaYhla is\xFFj we;'"
+  - title: Couldn't download or load experience! Please try again later
+    localizedPhrase: "Tnf.a mdv\xEF Nd.; ls\xCDug fyda kej; mQrKh ls\xCDug fyda fkdyelsh'
+      lreKdlr miqj W;aiy lrkak'"
+  - title: Couldn't load experience! please try again later
+    localizedPhrase: "Tnf.a mdv\xEF mQrKh ls\xCDug fkdyelsh' lreKdlr miqj W;aiy lrkak'"
+  - title: Something is wrong with the internet! Please try again later
+    localizedPhrase: "Tnf.a wka;\xBEcd, l%shdld\xDF;ajfhys h\xEFlsis .eg\xBFjla we;'
+      kej;;a miqj W;aiy lrkak'"
+  - title: No available lessons for this experience!
+    localizedPhrase: "fuu wjia:df\xF5 \xA7 Nd\xFA;d l< yels mdv\xEF ud,d fkdue;\xE6"
+  - title: No Audio
+    localizedPhrase: Y%jH mg fkdue;
+  - title: You have to go to settings lessons to download file before you can play
+    localizedPhrase: "fuh l%shdlr\xF9ug fmr Tn ieliq\xEF msgqf\xF5 we;s wod, mdv\xEF
+      fj; f.dia th nd.; lr .; hq;=h'"
+  - title: Private Share
+    localizedPhrase: "fm!oa.,sl fnod.ekS\xEF"
+  - title: Public Share
+    localizedPhrase: "fmd\xFF fnod.ekS\xEF"
+  - title: Lesson uploaded succesfully!
+    localizedPhrase: "mdvu id\xBE:lj wm.;lr we;\xE6"
+  - title: Uploading of lesson was unsuccesfull!
+    localizedPhrase: "mdvu wm.;ls\xCDu wid\xBE:lhs\xE6"
+  - title: Delete from device storage
+    localizedPhrase: o;a; .nvdfjka uld oukak
+  - title: Delete from the server
+    localizedPhrase: "i\xBEjrfhka uld oukak'"
+  - title: Delete from Both
+    localizedPhrase: ia:dk foflkau uld oukak'
+  - title: Lesson deleted from the server!
+    localizedPhrase: "mdvu i\xBEjrfhka uld ouk,\xA7\xE6"
+  - title: Couldn't delete lesson from the server!
+    localizedPhrase: "mdvu i\xBEjrfhka uld oukakg fkdyels \xFAh\xE6"
+  - title: Store Failed to Initialize!
+    localizedPhrase: <font="English">Store Failed to Initialize!</font>
+  - title: from on failed
+    localizedPhrase: "''''''''''''''''''''''wid\xBE:lhs' "
+  - title: Purchase Failed!
+    localizedPhrase: "\xF1,\xA7 .ekSu wid\xBE:lhs\xE6"
+  - title: This product is not found or is not available for purchase!
+    localizedPhrase: "fuu fiajdj fidhd.ekSug fyda \xF1,\xA7 .ekSug Nd\xFA;fha fkdue;\xE6"
+  - title: Server Validation Failed!
+    localizedPhrase: "i\xBEjrfha i;Hdmkh wid\xBE:lhs\xE6"
+  - title: Add Student
+    localizedPhrase: YsIHka tl;=lr.kak
+  - title: Please type in the email address of the student you want to add!
+    localizedPhrase: "Tng we;=,;a lr.ekSug wjYH YsIHdf.a \xFAoHq;a ;eme,a ,smskh i|yka
+      lrkak'"
+  - title: Reject Invitation
+    localizedPhrase: wdrdOkdj m%;slafIams;hs
+  - title: Accept Invitation
+    localizedPhrase: "wdrdOkdj ms<s.kq ,e\xECks"
+  - title: Remove Student
+    localizedPhrase: YsIHhd bj;alrkak
+  - title: Couldn't get any subscription information!
+    localizedPhrase: "m\xCDYs,l f;dr;=re ,nd.; fkdyel\xE6"
+  - title: Add Teacher
+    localizedPhrase: .=rejreka tl;=lrkak
+  - title: Please type in the email address of the teacher you want to add!
+    localizedPhrase: "Tng we;=,;a lr.ekSug wjYH .=rejrhdf.a \xFAoHq;a ;eme,a ,smskh
+      i|yka lrkak'"
+  - title: Remove Teacher
+    localizedPhrase: .=rejrhd bj;alrkak
+  - title: You entered your old password incorretly!
+    localizedPhrase: "Tn Tf\xED mer\u201A uqrmoh jer\xC8 f,i we;=<;a lr we;\xE6"
+  - title: This won't take long
+    localizedPhrase: "fuhg je\xE4 ld,hla .; fkdjkq we;"
+  - title: We're opening this experience for the first time and this might take a
+      few seconds
+    localizedPhrase: "fuu w;aoelSu \xFAjD;jka\u200Bfka m<uqj;djg ne\xFAka tA i|yd
+      h\xEFld,hla .;\xFA\u200Bh ye\u200Bl"
+  - title: Switching User
+    localizedPhrase: "m\xDFYS,lhd fjkialrkak"
+  - title: Switch
+    localizedPhrase: fjkialrkak
+  - title: This will erase all the contents and downloaded experiences of the existing
+      user. Are you sure you wanna continue?
+    localizedPhrase: "fuu\xD5ska fmr m\xDFYS,lhd \xFAiska we;=,;alrk ,o o;a; ish,a,
+      uelS hd yelsh' Tng ;j\xFFrg;a  \u200Bb\xC8\xDFhg hdug wjYHo <font=\"English\">?</font>"
+  - title: Change Country
+    localizedPhrase: rg fjkialrkak
+  - title: Hologo library updated!
+    localizedPhrase: "fydf,df.da mqia;ld,h hdj;ald,Sk \xFAh\xE6"
+  - title: Couldn't download lesson
+    localizedPhrase: "mdvu Nd.;ls\xCDu wid\xBE:lhs"
+  - title: No recorded lessons for this experience
+    localizedPhrase: "fuu w;aoelSu i|yd m\xE1.;lrk ,o \xFAfYaIdx. fkdue;"
+  - title: Lesson deleted
+    localizedPhrase: "mdvu uld ouk ,\xA7"
+  titleTexts:
+  - title: Library
+    localizedPhrase: mqia;ld,h
+  - title: Settings
+    localizedPhrase: "ieliq\xEF"
+  - title: Search
+    localizedPhrase: "fi\xF9u"
+  - title: Let's get started!
+    localizedPhrase: "wdr\xEFN lruq\xE6"
+  - title: Welcome Back!
+    localizedPhrase: kej;;a ms<s.ksuq!
+  - title: Hello,
+    localizedPhrase: "wdhqfndajka\" <m\xDFYS,lhdf.a ku>"
+  - title: Enjoy premium with
+    localizedPhrase: "''''''''''''iu\xD5 m%s\xF1h\xEF meflach  w;a\xFA\xA2kak"
+  - title: My Students
+    localizedPhrase: uf.a YsIHhka
+  - title: My Lessons
+    localizedPhrase: "uf.a mdv\xEF"
+  - title: My Teachers
+    localizedPhrase: uf.a .=rejre
+  - title: Just A moment
+    localizedPhrase: "fudfyd;la /\xA7 is\xE1kak"
+  - title: Hello There!
+    localizedPhrase: "Tng fldfyduo\xE6"
+  - title: Just A moment!
+    localizedPhrase: "fudfyd;la /\xA7 is\xE1kak"
+  - title: Please wait while we load your AR experience
+    localizedPhrase: "fu\u200Bu tAwd\xBE w;aoelSu iu\xD5ska Tnj i\xEFnkao lrkd ;=re
+      lreKdlr /\xA3 is\xE1kak'"
+  - title: Filter
+    localizedPhrase: "*s,ag\xBE ls\xCDug"
+  - title: Select your Country
+    localizedPhrase: Tnf.a rg f;darkak
+  - title: Select your Language
+    localizedPhrase: "Tf\xED NdIdj f;darkak"
+  - title: Error!
+    localizedPhrase: "fodaIhls\xE6"
+  - title: Warning!
+    localizedPhrase: "wjjdohhs\xE6"
+  - title: Success!
+    localizedPhrase: "id\xBE:lhs\xE6"
+  - title: Your password is updated
+    localizedPhrase: Tnf.a uqrmoh hdj;ald,Sk lr we;
+  bodyTexts:
+  - title: '"Voice over up to 50 experiences. Share with unlimited number of students.
+      Assess yourself with mini games. Add unlimited number of students. Over 400
+      educational experiences. "'
+    localizedPhrase: "\u2014Tf\xED mdv\xEF <font=\"English\">50</font> la olajd m\xE1.;
+      ls\xCDug iy wiS\xF1; isiqka ixLHdjla iu\xD5 fnod .kak\" ir, l%Svd iu\xD5 Tn
+      Tnju ;lafiare lr.kak' wiS\xF1; isiqka ixLHdjla tla lrf.k \xFAfYaIdx. <font=\"English\">400</font>
+      lg jvd w;a\xFA\xA2kak\u2014"
+  - title: '"Enjoy all premium experiences: Share audio lessons with 20 students:Voice
+      up to 10 experiences "'
+    localizedPhrase: "\u2014m%s\xF1h\u200B\xEF meflach iu. ish\xC6\u200Du mdv\xEF
+      m\xDFYS,kh lrkak isiqka <font=\"English\">20</font> fofkl= iu\xD5 Y%jH mdv\xEF
+      fnod .kak' \xFAfYaIdx. <font=\"English\">10</font> la olajd Tnf.a y\xE7ka m\xE1.;
+      lrkak'\u2014"
+  - title: '"Enjoy all premium experiences: Connect with teachers: Access lessons
+      "'
+    localizedPhrase: "\u2014\u200Dish\xC6\u200D mdv\xEF w;a\xFA\xA2kak\u200D' \u200D.=rejreka
+      iu\xD5 i\xEFnkaO jkak' mdv\xEF j,g m%f\xF5Yjkak'\u2014"
+  - title: Not Assigned
+    localizedPhrase: mjrd fkdue;
+  - title: Not Playing
+    localizedPhrase: "Odjkh fkdf\xF5"
+  - title: You can share your voice-over with your closed network of students or publicly
+      to all users of Hologo.
+    localizedPhrase: "Tf\xED lgyv Tf\xED ixjD; YsIH cd,h iu\xD5 fyda fydf,df.da ys
+      ish\xA8u m\xDFYS,lhskag m%isoa\xEAfha fnod .; yel"
+  - title: You haven't downloaded any experiences yet.
+    localizedPhrase: "Tn ;ju \xFAfYaIdx. nd.; lr ke;"
+  - title: MB
+    localizedPhrase: "fu.dnhs\xDC$<font=\"English\">MB</font>"
+  - title: You don't have any teachers yet.
+    localizedPhrase: Tng ;ju;a .=rejreka fkdue;
+  - title: Would you like to get notified when we add new experiences, features and
+      updates?
+    localizedPhrase: "wms kj mdv\xEF \xFAfYaIdx. iy hdj;ald,Sk ls\xCD\xEF tl;= lrk
+      \xFAg Tng oekq\xEF fokjdg Tn leu;so<font=\"English\">?</font>"
+  - title: Give us a minute to set up Hologo World for the very first time! it's going
+      to be amazing, we promise!
+    localizedPhrase: "m<uq jrg fydf,daf.da j\xBE,a\xE2 ieliSug wmg fudfyd;la ,ndfokak\xE6
+      th mq\xFFu iy.; fohla jk nj\u200Bg wms fmdfrdka\xFF fjuq\xE6"
+  - title: Please login to see this content, record lessons and to have fun with mini
+      games
+    localizedPhrase: "lreKdlr fuu wka;\xBE.;h ne,Sug\" mdv\xEF m\xE1.; ls\xCDug iy
+      ir, l%Svd iu\xD5 \xFAfkdao \xF9ug mqrkh jkak"
+  - title: A new password has been sent to your email
+    localizedPhrase: "Tnf.a \xFAoHq;a ;eme,a ,smskhg kj uqrmohla hjd we;\xE6"
+  - title: You don't have any students yet.
+    localizedPhrase: "Tng ;ju;a YsIHhka i\xEFnkaO \xF9 fkdue;'"
+  - title: You haven't recorded any lessons yet!
+    localizedPhrase: "Tn ;ju;a lsis\xFF mdvula m\xE1.; lr fkdue;\xE6"

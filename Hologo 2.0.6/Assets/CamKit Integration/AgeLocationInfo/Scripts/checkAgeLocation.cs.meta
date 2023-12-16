@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 72848d92e10d49d419f9631eaef1677b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - promptPanel: {fileID: 5780822148693657919, guid: f20a441a1332b9246a3cdf6950f5b0c3,
+      type: 3}
+  - agePanel: {instanceID: 0}
+  - guardianPanel: {instanceID: 0}
+  - countryPanel: {instanceID: 0}
+  - statePanel: {instanceID: 0}
+  - failurePanel: {instanceID: 0}
+  - countryDropdown: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

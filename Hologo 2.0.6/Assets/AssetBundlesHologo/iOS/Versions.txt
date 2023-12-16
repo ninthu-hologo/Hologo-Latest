@@ -1,0 +1,1 @@
+{"bundles":[{"bundleName":"language_files_25thoct.hdlc","version":3,"crc":1875155783},{"bundleName":"portal_template","version":0,"crc":3695057676}]}

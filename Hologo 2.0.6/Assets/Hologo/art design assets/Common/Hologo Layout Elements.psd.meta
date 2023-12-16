@@ -1,0 +1,811 @@
+fileFormatVersion: 2
+guid: a4a9d97d87afe4184a250618cb92bd5b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2204073049686843209
+    second: Hologo Layout Elements_0
+  - first:
+      213: -6591241979506020115
+    second: Hologo Layout Elements_1
+  - first:
+      213: 2170204554745706711
+    second: Hologo Layout Elements_2
+  - first:
+      213: 8893763267810032777
+    second: Hologo Layout Elements_3
+  - first:
+      213: 4250376475003568723
+    second: Hologo Layout Elements_4
+  - first:
+      213: -360068054474264272
+    second: Hologo Layout Elements_5
+  - first:
+      213: -3788460488821146456
+    second: Hologo Layout Elements_6
+  - first:
+      213: 6976305762527377326
+    second: Hologo Layout Elements_7
+  - first:
+      213: 1067244171806489524
+    second: Hologo Layout Elements_8
+  - first:
+      213: 5660838892348939387
+    second: Hologo Layout Elements_9
+  - first:
+      213: 350736955435981073
+    second: Hologo Layout Elements_10
+  - first:
+      213: -7122113056187568689
+    second: Hologo Layout Elements_11
+  - first:
+      213: -6167654540184125268
+    second: Hologo Layout Elements_12
+  - first:
+      213: 2942033308585037559
+    second: Hologo Layout Elements_13
+  - first:
+      213: -3162015227043521494
+    second: Hologo Layout Elements_14
+  - first:
+      213: 311401682697652196
+    second: Hologo Layout Elements_15
+  - first:
+      213: -2888254619685907550
+    second: Hologo Layout Elements_16
+  - first:
+      213: -8953016866785320888
+    second: Hologo Layout Elements_17
+  - first:
+      213: 1125712077179896802
+    second: Hologo Layout Elements_18
+  - first:
+      213: 392460793037006109
+    second: Hologo Layout Elements_19
+  - first:
+      213: -4363839244748727423
+    second: Hologo Layout Elements_20
+  - first:
+      213: -8676155220579133423
+    second: Hologo Layout Elements_21
+  - first:
+      213: -5081542673064119212
+    second: Hologo Layout Elements_22
+  - first:
+      213: -7836611208812549828
+    second: Hologo Layout Elements_23
+  - first:
+      213: 1576435683098630069
+    second: Hologo Layout Elements_24
+  - first:
+      213: 3915104194446706585
+    second: Hologo Layout Elements_25
+  - first:
+      213: -7193524091875165783
+    second: Hologo Layout Elements_26
+  - first:
+      213: 5194929315554024500
+    second: Hologo Layout Elements_27
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hologo Layout Elements_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1537
+        width: 510
+        height: 510
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 71, y: 71, z: 71, w: 71}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c87e70ac5c874975b42cfffcd905a39
+      internalID: -2204073049686843209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hologo Layout Elements_1
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1537
+        width: 510
+        height: 510
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 57, y: 57, z: 57, w: 57}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a415a5472410940548e1e0c0adf975b8
+      internalID: -6591241979506020115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hologo Layout Elements_2
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 1537
+        width: 510
+        height: 510
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 54, y: 54, z: 54, w: 54}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e97b053e142774115a870d6a73581c0d
+      internalID: 2170204554745706711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hologo Layout Elements_3
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 1537
+        width: 510
+        height: 510
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 38, y: 38, z: 38, w: 38}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 010e9ee2c78314ac9b3a278b90501894
+      internalID: 8893763267810032777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hologo Layout Elements_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1025
+        width: 510
+        height: 510
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 104, y: 104, z: 104, w: 104}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4edef44041fe94c14bb4b1c97f6781b8
+      internalID: 4250376475003568723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hologo Layout Elements_5
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1025
+        width: 510
+        height: 510
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 121, y: 121, z: 121, w: 121}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b133e04a68324861834df39e797373a
+      internalID: -360068054474264272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hologo Layout Elements_6
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 1025
+        width: 510
+        height: 510
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 145, y: 145, z: 145, w: 145}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2681f54b76df482ebfba184436fdd86
+      internalID: -3788460488821146456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hologo Layout Elements_7
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 1025
+        width: 510
+        height: 510
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 29, y: 29, z: 29, w: 29}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b52aa2bcd0c2d46b38b585665dd1868a
+      internalID: 6976305762527377326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hologo Layout Elements_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 510
+        height: 510
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 174, y: 174, z: 174, w: 174}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf196851aa9f4e55a8543f95d723b1f
+      internalID: 1067244171806489524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hologo Layout Elements_9
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 513
+        width: 510
+        height: 510
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 20, y: 20, z: 20, w: 20}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12451146bc2914106b40969b83ca7bb1
+      internalID: 5660838892348939387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hologo Layout Elements_10
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 257
+        width: 254
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 67, y: 67, z: 67, w: 67}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d200597582c4e45b7413e047dacd18
+      internalID: 350736955435981073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hologo Layout Elements_11
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 257
+        width: 254
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 47, y: 47, z: 47, w: 47}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1782c496442de444db76e3d2e83d1885
+      internalID: -7122113056187568689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hologo Layout Elements_12
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 129
+        width: 126
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 9, y: 9, z: 9, w: 9}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2222b76388ff147e3b21ba85596ea815
+      internalID: -6167654540184125268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hologo Layout Elements_13
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 129
+        width: 126
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 14, y: 14, z: 14, w: 14}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc46afbc833654c7f9dd5baab6e5eb61
+      internalID: 2942033308585037559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hologo Layout Elements_14
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 129
+        width: 126
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 25, y: 25, z: 25, w: 25}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc8a484b0c23f43078376a72a2a1432f
+      internalID: -3162015227043521494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hologo Layout Elements_15
+      rect:
+        serializedVersion: 2
+        x: 1921
+        y: 129
+        width: 126
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 30, y: 30, z: 30, w: 30}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d6ee26fb1bb74636844a43defa26c26
+      internalID: 311401682697652196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hologo Layout Elements_16
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 1
+        width: 126
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 39, y: 39, z: 39, w: 39}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e137d74568d4a0abaaf15536b4e5d3
+      internalID: -2888254619685907550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hologo Layout Elements_17
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 1
+        width: 126
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 42, y: 42, z: 42, w: 42}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad766be5fc78741a88f6b4e05354073e
+      internalID: -8953016866785320888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hologo Layout Elements_18
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 1
+        width: 126
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 48, y: 48, z: 48, w: 48}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a1decb9b40d349e790114330b6c65ee
+      internalID: 1125712077179896802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hologo Layout Elements_19
+      rect:
+        serializedVersion: 2
+        x: 1921
+        y: 1
+        width: 126
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 51, y: 51, z: 51, w: 51}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdfd81eaf57d34552b26cdc31f43f165
+      internalID: 392460793037006109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hologo Layout Elements_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 513
+        width: 510
+        height: 510
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 160, y: 160, z: 160, w: 160}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f32716e18904c3c8eed2b195bcf147
+      internalID: -4363839244748727423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hologo Layout Elements_21
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 513
+        width: 510
+        height: 510
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 163, y: 163, z: 163, w: 163}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df423583b95d4ed9bb8d79069c162cb
+      internalID: -8676155220579133423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hologo Layout Elements_22
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1
+        width: 510
+        height: 510
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 183, y: 183, z: 183, w: 183}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ba3ad39f6754c6c89fc2483a73c8d3
+      internalID: -5081542673064119212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hologo Layout Elements_23
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 1
+        width: 510
+        height: 510
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 195, y: 195, z: 195, w: 195}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 732f8e8a8a0fe4a90b04e7e98c880783
+      internalID: -7836611208812549828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hologo Layout Elements_24
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 513
+        width: 510
+        height: 510
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 169, y: 169, z: 169, w: 169}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c1c6db888634cb3a8c4e32cbd3b5ba
+      internalID: 1576435683098630069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hologo Layout Elements_25
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1792
+        width: 510
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 71, y: 71, z: 71, w: 71}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a433159db13d643989b0a4bc33238546
+      internalID: 3915104194446706585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hologo Layout Elements_26
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1537
+        width: 510
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 71, y: 71, z: 71, w: 71}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cf548e1ab9c64aeea6bddf75408ca83
+      internalID: -7193524091875165783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hologo Layout Elements_27
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1792
+        width: 510
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 57, y: 57, z: 57, w: 57}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 239379b06c62f4683bb750e3d3575ad5
+      internalID: 5194929315554024500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: bb8df945383d84a1a9fb683c621cded7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

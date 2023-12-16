@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6be5f784849d3da41a7ed5c3c576d873, type: 3}
+  m_Name: libraryDataPaths
+  m_EditorClassIdentifier: 
+  fileNames:
+  - title: library file name
+    pathOrName: hsd.dtm
+    AutoDomain: 0
+  folderNames:
+  - title: library folder
+    pathOrName: hsp
+    AutoDomain: 0
+  urls:
+  - title: experience list url
+    pathOrName: /public/localized_experiences/lists?search=
+    AutoDomain: 1
+  - title: image download url part1
+    pathOrName: /public/attachables/download_experience_image/
+    AutoDomain: 1
+  - title: image download url part2
+    pathOrName: ?size=2
+    AutoDomain: 0
+  - title: experience list url part2
+    pathOrName: '&searchFields=curriculum_id:='
+    AutoDomain: 0

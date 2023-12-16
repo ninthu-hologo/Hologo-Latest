@@ -1,0 +1,1277 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a700b31120457b42a4dfc3677a8a036, type: 3}
+  m_Name: Tamil 1
+  m_EditorClassIdentifier: 
+  country: Sri Lanka
+  language: Tamil
+  languageId: 76
+  rightToLeft: 0
+  fontList:
+  - name: main heading font
+    font: {fileID: 11400000, guid: caa60812d15b948009fcf06285c10f77, type: 2}
+    fontStyle: 1
+    characterSpacing: 0.41
+    AutoSize: 0
+    MinFontSize: 34
+    MaxFontSize: 34
+    alternateFontSizes: []
+    fontColor: {r: 0.101960786, g: 0.101960786, b: 0.101960786, a: 1}
+    overrideFontDirection: 0
+    textAlignment: 513
+  - name: experience title
+    font: {fileID: 11400000, guid: caa60812d15b948009fcf06285c10f77, type: 2}
+    fontStyle: 1
+    characterSpacing: 0.34
+    AutoSize: 0
+    MinFontSize: 28
+    MaxFontSize: 28
+    alternateFontSizes: []
+    fontColor: {r: 1, g: 1, b: 1, a: 1}
+    overrideFontDirection: 0
+    textAlignment: 513
+  - name: experience small title
+    font: {fileID: 11400000, guid: caa60812d15b948009fcf06285c10f77, type: 2}
+    fontStyle: 0
+    characterSpacing: 0.95
+    AutoSize: 0
+    MinFontSize: 15
+    MaxFontSize: 15
+    alternateFontSizes: []
+    fontColor: {r: 1, g: 1, b: 1, a: 0.9019608}
+    overrideFontDirection: 0
+    textAlignment: 513
+  - name: category button font/ small center text
+    font: {fileID: 11400000, guid: caa60812d15b948009fcf06285c10f77, type: 2}
+    fontStyle: 0
+    characterSpacing: 0
+    AutoSize: 0
+    MinFontSize: 13
+    MaxFontSize: 13
+    alternateFontSizes: []
+    fontColor: {r: 0, g: 0, b: 0, a: 1}
+    overrideFontDirection: 0
+    textAlignment: 514
+  - name: experience label font
+    font: {fileID: 11400000, guid: e8a355e6757c1489790a1275680e22bc, type: 2}
+    fontStyle: 0
+    characterSpacing: 0
+    AutoSize: 0
+    MinFontSize: 13
+    MaxFontSize: 13
+    alternateFontSizes: []
+    fontColor: {r: 0, g: 0, b: 0, a: 1}
+    overrideFontDirection: 0
+    textAlignment: 514
+  - name: experience explore learn button font
+    font: {fileID: 11400000, guid: caa60812d15b948009fcf06285c10f77, type: 2}
+    fontStyle: 16
+    characterSpacing: 0
+    AutoSize: 0
+    MinFontSize: 11
+    MaxFontSize: 11
+    alternateFontSizes: []
+    fontColor: {r: 1, g: 1, b: 1, a: 0.709}
+    overrideFontDirection: 0
+    textAlignment: 514
+  - name: slide step button font
+    font: {fileID: 11400000, guid: caa60812d15b948009fcf06285c10f77, type: 2}
+    fontStyle: 0
+    characterSpacing: 0
+    AutoSize: 0
+    MinFontSize: 13
+    MaxFontSize: 13
+    alternateFontSizes: []
+    fontColor: {r: 0, g: 0, b: 0, a: 0.484}
+    overrideFontDirection: 0
+    textAlignment: 514
+  - name: Biggest Titles
+    font: {fileID: 11400000, guid: caa60812d15b948009fcf06285c10f77, type: 2}
+    fontStyle: 1
+    characterSpacing: 0
+    AutoSize: 0
+    MinFontSize: 31
+    MaxFontSize: 31
+    alternateFontSizes: []
+    fontColor: {r: 1, g: 1, b: 1, a: 1}
+    overrideFontDirection: 0
+    textAlignment: 513
+  - name: Main Buttons
+    font: {fileID: 11400000, guid: caa60812d15b948009fcf06285c10f77, type: 2}
+    fontStyle: 1
+    characterSpacing: -0.41
+    AutoSize: 0
+    MinFontSize: 18
+    MaxFontSize: 18
+    alternateFontSizes: []
+    fontColor: {r: 1, g: 1, b: 1, a: 1}
+    overrideFontDirection: 0
+    textAlignment: 514
+  - name: Transparent Input Placeholders
+    font: {fileID: 11400000, guid: caa60812d15b948009fcf06285c10f77, type: 2}
+    fontStyle: 0
+    characterSpacing: -0.41
+    AutoSize: 0
+    MinFontSize: 14
+    MaxFontSize: 14
+    alternateFontSizes: []
+    fontColor: {r: 1, g: 1, b: 1, a: 0.6}
+    overrideFontDirection: 0
+    textAlignment: 513
+  - name: Big Subtitles
+    font: {fileID: 11400000, guid: caa60812d15b948009fcf06285c10f77, type: 2}
+    fontStyle: 0
+    characterSpacing: 0
+    AutoSize: 0
+    MinFontSize: 15
+    MaxFontSize: 15
+    alternateFontSizes: []
+    fontColor: {r: 1, g: 1, b: 1, a: 1}
+    overrideFontDirection: 0
+    textAlignment: 513
+  - name: Fullpage Navigation Tab
+    font: {fileID: 11400000, guid: caa60812d15b948009fcf06285c10f77, type: 2}
+    fontStyle: 0
+    characterSpacing: -0.41
+    AutoSize: 0
+    MinFontSize: 16
+    MaxFontSize: 16
+    alternateFontSizes: []
+    fontColor: {r: 1, g: 1, b: 1, a: 1}
+    overrideFontDirection: 0
+    textAlignment: 514
+  - name: Fullpage Body Faded
+    font: {fileID: 11400000, guid: caa60812d15b948009fcf06285c10f77, type: 2}
+    fontStyle: 0
+    characterSpacing: -0.36
+    AutoSize: 0
+    MinFontSize: 13
+    MaxFontSize: 13
+    alternateFontSizes: []
+    fontColor: {r: 1, g: 1, b: 1, a: 0.8}
+    overrideFontDirection: 0
+    textAlignment: 513
+  - name: Subscription Buttons
+    font: {fileID: 11400000, guid: caa60812d15b948009fcf06285c10f77, type: 2}
+    fontStyle: 1
+    characterSpacing: -0.24
+    AutoSize: 0
+    MinFontSize: 17
+    MaxFontSize: 17
+    alternateFontSizes: []
+    fontColor: {r: 1, g: 1, b: 1, a: 1}
+    overrideFontDirection: 0
+    textAlignment: 513
+  - name: Body Text
+    font: {fileID: 11400000, guid: caa60812d15b948009fcf06285c10f77, type: 2}
+    fontStyle: 0
+    characterSpacing: -0.41
+    AutoSize: 0
+    MinFontSize: 14
+    MaxFontSize: 14
+    alternateFontSizes: []
+    fontColor: {r: 0, g: 0, b: 0, a: 0.9019608}
+    overrideFontDirection: 0
+    textAlignment: 513
+  - name: Object/AR
+    font: {fileID: 11400000, guid: 5410749b0db0f493d8921ee1eb6036a7, type: 2}
+    fontStyle: 1
+    characterSpacing: -0.58
+    AutoSize: 0
+    MinFontSize: 15
+    MaxFontSize: 15
+    alternateFontSizes: []
+    fontColor: {r: 0, g: 0, b: 0, a: 0.8}
+    overrideFontDirection: 0
+    textAlignment: 514
+  - name: Modal Window Titles / Username Text
+    font: {fileID: 11400000, guid: caa60812d15b948009fcf06285c10f77, type: 2}
+    fontStyle: 1
+    characterSpacing: 0.38
+    AutoSize: 0
+    MinFontSize: 22
+    MaxFontSize: 22
+    alternateFontSizes: []
+    fontColor: {r: 0, g: 0, b: 0, a: 1}
+    overrideFontDirection: 0
+    textAlignment: 513
+  - name: Lesson Title / Messages / List Titles
+    font: {fileID: 11400000, guid: caa60812d15b948009fcf06285c10f77, type: 2}
+    fontStyle: 0
+    characterSpacing: -0.24
+    AutoSize: 0
+    MinFontSize: 15
+    MaxFontSize: 15
+    alternateFontSizes: []
+    fontColor: {r: 0, g: 0, b: 0, a: 1}
+    overrideFontDirection: 0
+    textAlignment: 513
+  - name: Lesson Sub Title/ User type
+    font: {fileID: 11400000, guid: caa60812d15b948009fcf06285c10f77, type: 2}
+    fontStyle: 0
+    characterSpacing: -0.08
+    AutoSize: 0
+    MinFontSize: 14
+    MaxFontSize: 14
+    alternateFontSizes: []
+    fontColor: {r: 0.5411765, g: 0.5411765, b: 0.56078434, a: 1}
+    overrideFontDirection: 0
+    textAlignment: 513
+  - name: Main Buttons Orange
+    font: {fileID: 11400000, guid: caa60812d15b948009fcf06285c10f77, type: 2}
+    fontStyle: 1
+    characterSpacing: -0.41
+    AutoSize: 0
+    MinFontSize: 18
+    MaxFontSize: 18
+    alternateFontSizes: []
+    fontColor: {r: 0.96862745, g: 0.39607844, b: 0, a: 1}
+    overrideFontDirection: 0
+    textAlignment: 514
+  - name: Category Titles
+    font: {fileID: 11400000, guid: caa60812d15b948009fcf06285c10f77, type: 2}
+    fontStyle: 1
+    characterSpacing: 0.35
+    AutoSize: 0
+    MinFontSize: 20
+    MaxFontSize: 20
+    alternateFontSizes: []
+    fontColor: {r: 0, g: 0, b: 0, a: 1}
+    overrideFontDirection: 0
+    textAlignment: 513
+  - name: Small Experiece Title / Drop Down Titles
+    font: {fileID: 11400000, guid: caa60812d15b948009fcf06285c10f77, type: 2}
+    fontStyle: 1
+    characterSpacing: -0.41
+    AutoSize: 0
+    MinFontSize: 17
+    MaxFontSize: 17
+    alternateFontSizes: []
+    fontColor: {r: 0, g: 0, b: 0, a: 1}
+    overrideFontDirection: 0
+    textAlignment: 513
+  - name: Small Experiece Sub Title
+    font: {fileID: 11400000, guid: caa60812d15b948009fcf06285c10f77, type: 2}
+    fontStyle: 0
+    characterSpacing: -0.08
+    AutoSize: 0
+    MinFontSize: 12
+    MaxFontSize: 12
+    alternateFontSizes: []
+    fontColor: {r: 0, g: 0, b: 0, a: 0.5019608}
+    overrideFontDirection: 0
+    textAlignment: 513
+  - name: Home Experience Description
+    font: {fileID: 11400000, guid: caa60812d15b948009fcf06285c10f77, type: 2}
+    fontStyle: 0
+    characterSpacing: -0.41
+    AutoSize: 0
+    MinFontSize: 18
+    MaxFontSize: 18
+    alternateFontSizes: []
+    fontColor: {r: 1, g: 1, b: 1, a: 1}
+    overrideFontDirection: 0
+    textAlignment: 513
+  - name: Home Experience Category Button
+    font: {fileID: 11400000, guid: caa60812d15b948009fcf06285c10f77, type: 2}
+    fontStyle: 0
+    characterSpacing: -0.24
+    AutoSize: 0
+    MinFontSize: 15
+    MaxFontSize: 15
+    alternateFontSizes: []
+    fontColor: {r: 1, g: 1, b: 1, a: 1}
+    overrideFontDirection: 0
+    textAlignment: 513
+  - name: Text Button / quiz body
+    font: {fileID: 11400000, guid: caa60812d15b948009fcf06285c10f77, type: 2}
+    fontStyle: 0
+    characterSpacing: -0.24
+    AutoSize: 0
+    MinFontSize: 17
+    MaxFontSize: 17
+    alternateFontSizes: []
+    fontColor: {r: 0, g: 0, b: 0, a: 1}
+    overrideFontDirection: 0
+    textAlignment: 514
+  - name: Orange Titles
+    font: {fileID: 11400000, guid: caa60812d15b948009fcf06285c10f77, type: 2}
+    fontStyle: 0
+    characterSpacing: -0.08
+    AutoSize: 0
+    MinFontSize: 15
+    MaxFontSize: 15
+    alternateFontSizes: []
+    fontColor: {r: 0.96862745, g: 0.39607844, b: 0, a: 1}
+    overrideFontDirection: 0
+    textAlignment: 513
+  - name: Sign Out
+    font: {fileID: 11400000, guid: caa60812d15b948009fcf06285c10f77, type: 2}
+    fontStyle: 0
+    characterSpacing: -0.08
+    AutoSize: 0
+    MinFontSize: 17
+    MaxFontSize: 17
+    alternateFontSizes: []
+    fontColor: {r: 1, g: 0.1764706, b: 0.33333334, a: 1}
+    overrideFontDirection: 0
+    textAlignment: 513
+  - name: Loading Title
+    font: {fileID: 11400000, guid: caa60812d15b948009fcf06285c10f77, type: 2}
+    fontStyle: 1
+    characterSpacing: 0
+    AutoSize: 0
+    MinFontSize: 26
+    MaxFontSize: 26
+    alternateFontSizes: []
+    fontColor: {r: 0, g: 0, b: 0, a: 1}
+    overrideFontDirection: 0
+    textAlignment: 514
+  - name: Loading Sub Title
+    font: {fileID: 11400000, guid: caa60812d15b948009fcf06285c10f77, type: 2}
+    fontStyle: 0
+    characterSpacing: 0
+    AutoSize: 0
+    MinFontSize: 16
+    MaxFontSize: 16
+    alternateFontSizes: []
+    fontColor: {r: 0, g: 0, b: 0, a: 1}
+    overrideFontDirection: 0
+    textAlignment: 514
+  - name: score text
+    font: {fileID: 11400000, guid: caa60812d15b948009fcf06285c10f77, type: 2}
+    fontStyle: 0
+    characterSpacing: 0
+    AutoSize: 0
+    MinFontSize: 10
+    MaxFontSize: 10
+    alternateFontSizes: []
+    fontColor: {r: 1, g: 1, b: 1, a: 0.8}
+    overrideFontDirection: 0
+    textAlignment: 516
+  - name: forgot password and other small faded text
+    font: {fileID: 11400000, guid: caa60812d15b948009fcf06285c10f77, type: 2}
+    fontStyle: 0
+    characterSpacing: 0
+    AutoSize: 0
+    MinFontSize: 13
+    MaxFontSize: 13
+    alternateFontSizes: []
+    fontColor: {r: 1, g: 1, b: 1, a: 0.6}
+    overrideFontDirection: 0
+    textAlignment: 513
+  - name: no lesson/student/teacher/etc/ exist
+    font: {fileID: 11400000, guid: caa60812d15b948009fcf06285c10f77, type: 2}
+    fontStyle: 0
+    characterSpacing: 0
+    AutoSize: 0
+    MinFontSize: 19
+    MaxFontSize: 19
+    alternateFontSizes: []
+    fontColor: {r: 0.7490196, g: 0.7490196, b: 0.7490196, a: 1}
+    overrideFontDirection: 0
+    textAlignment: 514
+  - name: input text white
+    font: {fileID: 11400000, guid: caa60812d15b948009fcf06285c10f77, type: 2}
+    fontStyle: 0
+    characterSpacing: -0.41
+    AutoSize: 0
+    MinFontSize: 15
+    MaxFontSize: 15
+    alternateFontSizes: []
+    fontColor: {r: 1, g: 1, b: 1, a: 1}
+    overrideFontDirection: 0
+    textAlignment: 513
+  - name: input text black
+    font: {fileID: 11400000, guid: caa60812d15b948009fcf06285c10f77, type: 2}
+    fontStyle: 0
+    characterSpacing: -0.41
+    AutoSize: 0
+    MinFontSize: 17
+    MaxFontSize: 17
+    alternateFontSizes: []
+    fontColor: {r: 0, g: 0, b: 0, a: 0.9019608}
+    overrideFontDirection: 0
+    textAlignment: 513
+  - name: page title small
+    font: {fileID: 11400000, guid: caa60812d15b948009fcf06285c10f77, type: 2}
+    fontStyle: 1
+    characterSpacing: -0.41
+    AutoSize: 0
+    MinFontSize: 17
+    MaxFontSize: 17
+    alternateFontSizes: []
+    fontColor: {r: 0, g: 0, b: 0, a: 0.9019608}
+    overrideFontDirection: 0
+    textAlignment: 514
+  - name: Main Buttons Purple
+    font: {fileID: 11400000, guid: caa60812d15b948009fcf06285c10f77, type: 2}
+    fontStyle: 0
+    characterSpacing: -0.41
+    AutoSize: 0
+    MinFontSize: 15
+    MaxFontSize: 15
+    alternateFontSizes: []
+    fontColor: {r: 0.24705884, g: 0.10196079, b: 0.29411766, a: 1}
+    overrideFontDirection: 0
+    textAlignment: 514
+  - name: Main Buttons Red
+    font: {fileID: 11400000, guid: caa60812d15b948009fcf06285c10f77, type: 2}
+    fontStyle: 0
+    characterSpacing: -0.41
+    AutoSize: 0
+    MinFontSize: 15
+    MaxFontSize: 15
+    alternateFontSizes: []
+    fontColor: {r: 0.59607846, g: 0.24705884, b: 0.2509804, a: 1}
+    overrideFontDirection: 0
+    textAlignment: 514
+  - name: Small Buttons Purple
+    font: {fileID: 11400000, guid: caa60812d15b948009fcf06285c10f77, type: 2}
+    fontStyle: 0
+    characterSpacing: 0
+    AutoSize: 0
+    MinFontSize: 12
+    MaxFontSize: 12
+    alternateFontSizes: []
+    fontColor: {r: 0.24705884, g: 0.10196079, b: 0.29411766, a: 1}
+    overrideFontDirection: 0
+    textAlignment: 514
+  - name: Small Buttons Red
+    font: {fileID: 11400000, guid: caa60812d15b948009fcf06285c10f77, type: 2}
+    fontStyle: 0
+    characterSpacing: 0
+    AutoSize: 0
+    MinFontSize: 12
+    MaxFontSize: 12
+    alternateFontSizes: []
+    fontColor: {r: 0.59607846, g: 0.24705884, b: 0.2509804, a: 1}
+    overrideFontDirection: 0
+    textAlignment: 514
+  - name: small grey text
+    font: {fileID: 11400000, guid: caa60812d15b948009fcf06285c10f77, type: 2}
+    fontStyle: 0
+    characterSpacing: 0
+    AutoSize: 0
+    MinFontSize: 9
+    MaxFontSize: 9
+    alternateFontSizes: []
+    fontColor: {r: 0.5411765, g: 0.5411765, b: 0.56078434, a: 1}
+    overrideFontDirection: 0
+    textAlignment: 257
+  - name: small bold title
+    font: {fileID: 11400000, guid: caa60812d15b948009fcf06285c10f77, type: 2}
+    fontStyle: 1
+    characterSpacing: 0
+    AutoSize: 0
+    MinFontSize: 15
+    MaxFontSize: 15
+    alternateFontSizes: []
+    fontColor: {r: 0, g: 0, b: 0, a: 1}
+    overrideFontDirection: 0
+    textAlignment: 514
+  - name: quiz start text
+    font: {fileID: 11400000, guid: caa60812d15b948009fcf06285c10f77, type: 2}
+    fontStyle: 0
+    characterSpacing: 0.38
+    AutoSize: 0
+    MinFontSize: 17
+    MaxFontSize: 17
+    alternateFontSizes: []
+    fontColor: {r: 1, g: 1, b: 1, a: 1}
+    overrideFontDirection: 0
+    textAlignment: 514
+  - name: profile name
+    font: {fileID: 11400000, guid: caa60812d15b948009fcf06285c10f77, type: 2}
+    fontStyle: 1
+    characterSpacing: 0
+    AutoSize: 0
+    MinFontSize: 15
+    MaxFontSize: 15
+    alternateFontSizes: []
+    fontColor: {r: 0.22745098, g: 0.22745098, b: 0.22745098, a: 1}
+    overrideFontDirection: 0
+    textAlignment: 514
+  - name: onboarding title left
+    font: {fileID: 11400000, guid: caa60812d15b948009fcf06285c10f77, type: 2}
+    fontStyle: 1
+    characterSpacing: 0
+    AutoSize: 0
+    MinFontSize: 14
+    MaxFontSize: 14
+    alternateFontSizes: []
+    fontColor: {r: 1, g: 1, b: 1, a: 1}
+    overrideFontDirection: 0
+    textAlignment: 513
+  - name: onboarding title right
+    font: {fileID: 11400000, guid: caa60812d15b948009fcf06285c10f77, type: 2}
+    fontStyle: 1
+    characterSpacing: 0
+    AutoSize: 0
+    MinFontSize: 14
+    MaxFontSize: 14
+    alternateFontSizes: []
+    fontColor: {r: 1, g: 1, b: 1, a: 1}
+    overrideFontDirection: 0
+    textAlignment: 516
+  - name: onboarding small bold left
+    font: {fileID: 11400000, guid: caa60812d15b948009fcf06285c10f77, type: 2}
+    fontStyle: 1
+    characterSpacing: 0
+    AutoSize: 0
+    MinFontSize: 12
+    MaxFontSize: 12
+    alternateFontSizes: []
+    fontColor: {r: 1, g: 1, b: 1, a: 1}
+    overrideFontDirection: 0
+    textAlignment: 513
+  - name: onboarding small bold right
+    font: {fileID: 11400000, guid: caa60812d15b948009fcf06285c10f77, type: 2}
+    fontStyle: 1
+    characterSpacing: 0
+    AutoSize: 0
+    MinFontSize: 12
+    MaxFontSize: 12
+    alternateFontSizes: []
+    fontColor: {r: 1, g: 1, b: 1, a: 1}
+    overrideFontDirection: 0
+    textAlignment: 516
+  - name: onboarding small left
+    font: {fileID: 11400000, guid: caa60812d15b948009fcf06285c10f77, type: 2}
+    fontStyle: 0
+    characterSpacing: 0
+    AutoSize: 0
+    MinFontSize: 12
+    MaxFontSize: 12
+    alternateFontSizes: []
+    fontColor: {r: 1, g: 1, b: 1, a: 1}
+    overrideFontDirection: 0
+    textAlignment: 513
+  - name: onboarding small right
+    font: {fileID: 11400000, guid: caa60812d15b948009fcf06285c10f77, type: 2}
+    fontStyle: 0
+    characterSpacing: 0
+    AutoSize: 0
+    MinFontSize: 12
+    MaxFontSize: 12
+    alternateFontSizes: []
+    fontColor: {r: 1, g: 1, b: 1, a: 1}
+    overrideFontDirection: 0
+    textAlignment: 516
+  buttonTexts:
+  - title: OK
+    localizedPhrase: "\u0B9A\u0BB0\u0BBF"
+  - title: Cancel
+    localizedPhrase: "\u0BB0\u0BA4\u0BCD\u0BA4\u0BC1"
+  - title: Yes
+    localizedPhrase: "\u0B86\u0BAE\u0BCD\_"
+  - title: Explore
+    localizedPhrase: "\u0B86\u0BB0\u0BBE\u0BAF"
+  - title: Learn
+    localizedPhrase: "\u0B95\u0BB1\u0BCD\u0B95"
+  - title: Login
+    localizedPhrase: "\u0B89\u0BB3\u0BCD\u0BA8\u0BC1\u0BB4\u0BC8"
+  - title: Sign Up
+    localizedPhrase: "\u0BAA\u0BA4\u0BBF\u0BB5\u0BC1\u0BAA\u0BC6\u0BB1\u0BC1\u0B95"
+  - title: Student
+    localizedPhrase: "\u0BAE\u0BBE\u0BA3\u0BB5\u0BB0\u0BCD"
+  - title: Teacher
+    localizedPhrase: "\u0B86\u0B9A\u0BBF\u0BB0\u0BBF\u0BAF\u0BB0\u0BCD"
+  - title: Good to go!
+    localizedPhrase: "\u0B9A\u0BC6\u0BB2\u0BCD\u0BB5\u0BA4\u0BB1\u0BCD\u0B95\u0BC1
+      \u0BA8\u0BB2\u0BCD\u0BB2\u0BAE\u0BCD!"
+  - title: Profile
+    localizedPhrase: "\u0B9A\u0BC1\u0BAF\u0BB5\u0BBF\u0BB5\u0BB0\u0BAE\u0BCD"
+  - title: Subscriptions
+    localizedPhrase: "\u0B9A\u0BA8\u0BCD\u0BA4\u0BBE"
+  - title: Lessons
+    localizedPhrase: "\u0BAA\u0BBE\u0B9F\u0BAE\u0BCD"
+  - title: Clear Cache
+    localizedPhrase: "\u0B95\u0BC7\u0B9A\u0BCD \u0B90 \u0B85\u0BB4\u0BBF\u0B95\u0BCD\u0B95"
+  - title: Model label always on
+    localizedPhrase: "\u0BAE\u0BBE\u0BA4\u0BBF\u0BB0\u0BBF \u0BB2\u0BC7\u0BAA\u0BBF\u0BB3\u0BCD\u0B95\u0BB3\u0BCD
+      \u0B8E\u0BAA\u0BCD\u0BAA\u0BCB\u0BA4\u0BC1\u0BAE\u0BCD \u0B87\u0BAF\u0B99\u0BCD\u0B95\u0BC1\u0BAE\u0BCD"
+  - title: App Sounds
+    localizedPhrase: "\u0BAA\u0BAF\u0BA9\u0BCD\u0BAA\u0BBE\u0B9F\u0BCD\u0B9F\u0BC1
+      \u0B92\u0BB2\u0BBF"
+  - title: Always start in AR mode
+    localizedPhrase: "\u0B87\u0BAF\u0BB2\u0BCD\u0BAA\u0BC1\u0BA8\u0BBF\u0BB2\u0BC8
+      \u0B8F\u0B86\u0BB0\u0BCD \u0BAA\u0BAF\u0BA9\u0BCD\u0BAE\u0BC1\u0BB1\u0BC8"
+  - title: Label Size
+    localizedPhrase: "\u0BB2\u0BC7\u0BAA\u0BBF\u0BB3\u0BCD \u0B85\u0BB3\u0BB5\u0BC1"
+  - title: About Us
+    localizedPhrase: "\u0B8E\u0B99\u0BCD\u0B95\u0BB3\u0BC8 \u0BAA\u0BB1\u0BCD\u0BB1\u0BBF"
+  - title: Privacy Policy
+    localizedPhrase: "\u0BA4\u0BA9\u0BBF\u0BAF\u0BC1\u0BB0\u0BBF\u0BAE\u0BC8\u0B95\u0BCD
+      \u0B95\u0BCA\u0BB3\u0BCD\u0B95\u0BC8"
+  - title: User
+    localizedPhrase: "\u0BAA\u0BAF\u0BA9\u0BB0\u0BCD"
+  - title: Change Password
+    localizedPhrase: "\u0B95\u0B9F\u0BB5\u0BC1\u0B9A\u0BCD\u0B9A\u0BCA\u0BB2\u0BCD\u0BB2\u0BC8
+      \u0BAE\u0BBE\u0BB1\u0BCD\u0BB1\u0BC1"
+  - title: Forgot your Password?
+    localizedPhrase: "\u0B89\u0B99\u0BCD\u0B95\u0BB3\u0BCD \u0B95\u0B9F\u0BB5\u0BC1\u0B9A\u0BCD\u0B9A\u0BCA\u0BB2\u0BCD\u0BB2\u0BC8
+      \u0BAE\u0BB1\u0BA8\u0BCD\u0BA4\u0BC1 \u0BB5\u0BBF\u0B9F\u0BCD\u0B9F\u0BC0\u0BB0\u0BCD\u0B95\u0BB3\u0BBE?"
+  - title: Teacher Subscription
+    localizedPhrase: "\u0B86\u0B9A\u0BBF\u0BB0\u0BBF\u0BAF\u0BB0\u0BCD \u0B9A\u0BA8\u0BCD\u0BA4\u0BBE"
+  - title: Edit Profile
+    localizedPhrase: "\u0B9A\u0BC1\u0BAF\u0BB5\u0BBF\u0BB0\u0BA4\u0BCD\u0BA4\u0BC8
+      \u0BA4\u0BBF\u0BB0\u0BC1\u0BA4\u0BCD\u0BA4\u0BC1"
+  - title: App Version
+    localizedPhrase: "\u0BAA\u0BAF\u0BA9\u0BCD\u0BAA\u0BBE\u0B9F\u0BCD\u0B9F\u0BC1
+      \u0BAA\u0BA4\u0BBF\u0BAA\u0BCD\u0BAA\u0BC1\uFEFF"
+  - title: Contact Us
+    localizedPhrase: "\u0B8E\u0B99\u0BCD\u0B95\u0BB3\u0BC8 \u0BA4\u0BCA\u0B9F\u0BB0\u0BCD\u0BAA\u0BC1\u0B95\u0BCA\u0BB3\u0BCD\u0BB3"
+  - title: Sign Out
+    localizedPhrase: "\u0BB5\u0BC6\u0BB3\u0BBF\u0BAF\u0BC7\u0BB1\u0BC1"
+  - title: Update
+    localizedPhrase: "\u0BAE\u0BC7\u0BAE\u0BCD\u0BAA\u0B9F\u0BC1\u0BA4\u0BCD\u0BA4\u0BB2\u0BCD"
+  - title: Student Subscription
+    localizedPhrase: "\u0BAE\u0BBE\u0BA3\u0BB5\u0BB0\u0BCD \u0B9A\u0BA8\u0BCD\u0BA4\u0BBE"
+  - title: Downloaded Experiences
+    localizedPhrase: "\u0BAA\u0BA4\u0BBF\u0BB5\u0BBF\u0BB1\u0B95\u0BCD\u0B95\u0BBF\u0BAF
+      \u0B85\u0BA9\u0BC1\u0BAA\u0BB5\u0B99\u0BCD\u0B95\u0BB3\u0BCD\_"
+  - title: FAQ
+    localizedPhrase: "\u0BA4\u0BCA\u0B9F\u0BB0\u0BCD \u0B95\u0BC7\u0BB3\u0BCD\u0BB5\u0BBF\u0B95\u0BB3\u0BCD"
+  - title: Save
+    localizedPhrase: "\u0B9A\u0BC7\u0BAE\u0BBF\u0B95\u0BCD\u0B95"
+  - title: Edit
+    localizedPhrase: "\u0BA4\u0BBF\u0BB0\u0BC1\u0BA4\u0BCD\u0BA4\u0BC1"
+  - title: Share
+    localizedPhrase: "\u0BAA\u0B95\u0BBF\u0BB0\u0BCD"
+  - title: Delete
+    localizedPhrase: "\u0BA8\u0BC0\u0B95\u0BCD\u0B95\u0BC1"
+  - title: Share your lesson
+    localizedPhrase: "\u0B89\u0B99\u0BCD\u0B95\u0BB3\u0BCD \u0BAA\u0BBE\u0B9F\u0BA4\u0BCD\u0BA4\u0BC8\u0BAA\u0BCD
+      \u0BAA\u0B95\u0BBF\u0BB0\u0BCD\u0BA8\u0BCD\u0BA4\u0BC1 \u0B95\u0BCA\u0BB3\u0BCD\u0BB3\u0BC1\u0B99\u0BCD\u0B95\u0BB3\u0BCD\_"
+  - title: Public Share
+    localizedPhrase: "\u0BAA\u0BCA\u0BA4\u0BC1\u0BAA\u0BCD\u0BAA\u0B95\u0BBF\u0BB0\u0BCD"
+  - title: Share with Students
+    localizedPhrase: "\u0BAE\u0BBE\u0BA3\u0BB5\u0BB0\u0BCD\u0B95\u0BB3\u0BC1\u0B9F\u0BA9\u0BCD
+      \u0BAA\u0B95\u0BBF\u0BB0\u0BCD\u0BA8\u0BCD\u0BA4\u0BC1 \u0B95\u0BCA\u0BB3\u0BCD\u0BB3\u0BC1\u0B99\u0BCD\u0B95\u0BB3\u0BCD\_"
+  - title: Add a teacher
+    localizedPhrase: "\u0B92\u0BB0\u0BC1 \u0B86\u0B9A\u0BBF\u0BB0\u0BBF\u0BAF\u0BB0\u0BC8
+      \u0B9A\u0BC7\u0BB0\u0BCD\u0B95\u0BCD\u0B95\u0BB5\u0BC1\u0BAE\u0BCD"
+  - title: Okay
+    localizedPhrase: "\u0B9A\u0BB0\u0BBF"
+  - title: View Description
+    localizedPhrase: "\u0BB5\u0BBF\u0BB3\u0B95\u0BCD\u0B95\u0BA4\u0BCD\u0BA4\u0BC8
+      \u0B95\u0BBE\u0BA3\u0BCD\u0B95"
+  - title: View Experience
+    localizedPhrase: "\u0B85\u0BA9\u0BC1\u0BAA\u0BB5\u0BA4\u0BCD\u0BA4\u0BC8 \u0B95\u0BBE\u0BA3\u0BCD\u0B95"
+  - title: Not Now
+    localizedPhrase: "\u0BA4\u0BB1\u0BCD\u0BAA\u0BCB\u0BA4\u0BC1 \u0B87\u0BB2\u0BCD\u0BB2\u0BC8"
+  - title: Object
+    localizedPhrase: Object
+  - title: AR
+    localizedPhrase: AR
+  - title: Nah, will do it later
+    localizedPhrase: "\u0B87\u0BB2\u0BCD\u0BB2\u0BC8>\_\u0BAA\u0BBF\u0BA9\u0BCD\u0BA9\u0BB0\u0BCD
+      \u0B9A\u0BC6\u0BAF\u0BCD\u0BB5\u0BC7\u0BA9\u0BCD"
+  - title: All
+    localizedPhrase: "\u0B8E\u0BB2\u0BCD\u0BB2\u0BBE\u0BAE\u0BCD"
+  labelTexts:
+  - title: Select Country
+    localizedPhrase: "\u0BA8\u0BBE\u0B9F\u0BCD\u0B9F\u0BBF\u0BA9\u0BC8 \u0BA4\u0BC6\u0BB0\u0BBF\u0B95"
+  - title: Select language
+    localizedPhrase: "\u0BAE\u0BCA\u0BB4\u0BBF\u0BAF\u0BC8 \u0BA4\u0BC6\u0BB0\u0BBF\u0B95"
+  - title: Email
+    localizedPhrase: "\u0BAE\u0BBF\u0BA9\u0BCD\u0BA9\u0B9E\u0BCD\u0B9A\u0BB2\u0BCD"
+  - title: Password
+    localizedPhrase: "\u0B95\u0B9F\u0BB5\u0BC1\u0B9A\u0BCD\u0B9A\u0BCA\u0BB2\u0BCD"
+  - title: Don't have an account?
+    localizedPhrase: "\u0B95\u0BA3\u0B95\u0BCD\u0B95\u0BC1 \u0B87\u0BB2\u0BCD\u0BB2\u0BC8\u0BAF\u0BBE?"
+  - title: Already have an account?
+    localizedPhrase: "\u0B8F\u0BB1\u0BCD\u0B95\u0BA9\u0BB5\u0BC7 \u0B92\u0BB0\u0BC1
+      \u0B95\u0BA3\u0B95\u0BCD\u0B95\u0BC1 \u0B89\u0BB3\u0BCD\u0BB3\u0BA4\u0BBE?"
+  - title: Username
+    localizedPhrase: "\u0BAA\u0BAF\u0BA9\u0BB0\u0BCD\u0BAA\u0BC6\u0BAF\u0BB0\u0BCD"
+  - title: /year
+    localizedPhrase: "\u0BB5\u0BB0\u0BC1\u0B9F\u0BA4\u0BCD\u0BA4\u0BBF\u0BB1\u0BCD\u0B95\u0BC1"
+  - title: Select an Option
+    localizedPhrase: "\u0B92\u0BB0\u0BC1 \u0BB5\u0BBF\u0BB0\u0BC1\u0BAA\u0BCD\u0BAA\u0BA4\u0BCD\u0BA4\u0BC8\u0BA4\u0BCD
+      \u0BA4\u0BC7\u0BB0\u0BCD\u0BA8\u0BCD\u0BA4\u0BC6\u0B9F\u0BC1\u0B95\u0BCD\u0B95\u0BB5\u0BC1\u0BAE\u0BCD"
+  - title: Students
+    localizedPhrase: "\u0BAE\u0BA3\u0BB5\u0BB0\u0BCD\u0B95\u0BB3\u0BCD"
+  - title: Teachers
+    localizedPhrase: "\u0B86\u0B9A\u0BBF\u0BB0\u0BBF\u0BAF\u0BB0\u0BCD\u0B95\u0BB3\u0BCD"
+  - title: Name
+    localizedPhrase: "\u0BAA\u0BC6\u0BAF\u0BB0\u0BCD"
+  - title: Address
+    localizedPhrase: "\u0BB5\u0BBF\u0BB2\u0BBE\u0B9A\u0BAE\u0BCD"
+  - title: Phone
+    localizedPhrase: "\u0BA4\u0BCA\u0BB2\u0BC8\u0BAA\u0BC7\u0B9A\u0BBF"
+  - title: Old Password
+    localizedPhrase: "\u0BAA\u0BB4\u0BC8\u0BAF \u0B95\u0B9F\u0BB5\u0BC1\u0B9A\u0BCD\u0B9A\u0BCA\u0BB2\u0BCD\_"
+  - title: New Password
+    localizedPhrase: "\u0BAA\u0BC1\u0BA4\u0BBF\u0BAF \u0B95\u0B9F\u0BB5\u0BC1\u0B9A\u0BCD\u0B9A\u0BCA\u0BB2\u0BCD"
+  - title: Re-Type New Password
+    localizedPhrase: "\u0BAA\u0BC1\u0BA4\u0BBF\u0BAF \u0B95\u0B9F\u0BB5\u0BC1\u0B9A\u0BCD\u0B9A\u0BCA\u0BB2\u0BCD\u0BB2\u0BC8
+      \u0BAE\u0BC0\u0BA3\u0BCD\u0B9F\u0BC1\u0BAE\u0BCD \u0BAA\u0BA4\u0BBF\u0BB5\u0BBF\u0B9F\u0BC1\u0B95"
+  - title: Subscription
+    localizedPhrase: "\u0B9A\u0BA8\u0BCD\u0BA4\u0BBE"
+  - title: Lesson
+    localizedPhrase: "\u0BAA\u0BBE\u0B9F\u0BAE\u0BCD"
+  - title: Downloaded
+    localizedPhrase: "\u0BAA\u0BA4\u0BBF\u0BB5\u0BBF\u0BB1\u0B95\u0BCD\u0B95\u0BAA\u0BCD\u0BAA\u0B9F\u0BCD\u0B9F\_"
+  - title: Size of the experience
+    localizedPhrase: "\u0B85\u0BA9\u0BC1\u0BAA\u0BB5\u0BA4\u0BCD\u0BA4\u0BBF\u0BA9\u0BCD
+      \u0B85\u0BB3\u0BB5\u0BC1"
+  - title: Country
+    localizedPhrase: "\u0BA8\u0BBE\u0B9F\u0BC1"
+  - title: Language
+    localizedPhrase: "\u0BAE\u0BCA\u0BB4\u0BBF\_"
+  - title: Syllabus
+    localizedPhrase: "\u0BAA\u0BBE\u0B9F\u0BA4\u0BCD\u0BA4\u0BBF\u0B9F\u0BCD\u0B9F\u0BAE\u0BCD"
+  - title: Curriculum
+    localizedPhrase: "\u0BAA\u0BBE\u0B9F\u0BA4\u0BCD\u0BA4\u0BBF\u0B9F\u0BCD\u0B9F\u0BAE\u0BCD"
+  - title: Select Syllabus
+    localizedPhrase: "\u0BAA\u0BBE\u0B9F\u0BA4\u0BCD\u0BA4\u0BBF\u0B9F\u0BCD\u0B9F\u0BA4\u0BCD\u0BA4\u0BC8
+      \u0BA4\u0BC6\u0BB0\u0BBF\u0B95"
+  - title: Select Curriculum
+    localizedPhrase: "\u0BAA\u0BBE\u0B9F\u0BA4\u0BCD\u0BA4\u0BBF\u0B9F\u0BCD\u0B9F\u0BA4\u0BCD\u0BA4\u0BC8
+      \u0BA4\u0BC6\u0BB0\u0BBF\u0B95"
+  - title: Already have an account?
+    localizedPhrase: "\u0B8F\u0BB1\u0BCD\u0B95\u0BA9\u0BB5\u0BC7 \u0B92\u0BB0\u0BC1
+      \u0B95\u0BA3\u0B95\u0BCD\u0B95\u0BC1 \u0B89\u0BB3\u0BCD\u0BB3\u0BA4\u0BBE?"
+  - title: 'Until:'
+    localizedPhrase: "\u0BB5\u0BB0\u0BC8"
+  - title: /Anually
+    localizedPhrase: "\u0BB5\u0BB0\u0BC1\u0B9F\u0BBE\u0BA8\u0BCD\u0BA4\_"
+  - title: 'No of Lessons used/total:'
+    localizedPhrase: "\u0BAA\u0BAF\u0BA9\u0BCD\u0BAA\u0B9F\u0BC1\u0BA4\u0BCD\u0BA4\u0BAA\u0BCD\u0BAA\u0B9F\u0BCD\u0B9F
+      \u0BAA\u0BBE\u0B9F\u0B99\u0BCD\u0B95\u0BB3\u0BBF\u0BA9\u0BCD \u0B8E\u0BA3\u0BCD\u0BA3\u0BBF\u0B95\u0BCD\u0B95\u0BC8/\u0BAE\u0BCA\u0BA4\u0BCD\u0BA4\u0BAE\u0BCD"
+  - title: This will close the experience
+    localizedPhrase: "\u0B87\u0BA4\u0BC1 \u0B85\u0BA9\u0BC1\u0BAA\u0BB5\u0BA4\u0BCD\u0BA4\u0BC8
+      \u0BAE\u0BC2\u0B9F\u0BC1\u0BAE\u0BCD"
+  - title: This will close the game
+    localizedPhrase: "\u0B87\u0BA4\u0BC1 \u0BB5\u0BBF\u0BB3\u0BC8\u0BAF\u0BBE\u0B9F\u0BCD\u0B9F\u0BC8
+      \u0BAE\u0BC2\u0B9F\u0BC1\u0BAE\u0BCD"
+  - title: Object mode
+    localizedPhrase: "\u0BAA\u0BCA\u0BB0\u0BC1\u0BB3\u0BCD \u0BAA\u0BAF\u0BA9\u0BCD\u0BAE\u0BC1\u0BB1\u0BC8"
+  - title: AR mode
+    localizedPhrase: "\u0B8F\u0B86\u0BB0\u0BCD \u0BAE\u0BC1\u0BB1\u0BC8\u0BAE\u0BC8"
+  - title: This will switch between AR and Object mode
+    localizedPhrase: "\u0B87\u0BA4\u0BC1 \u0B8F\u0B86\u0BB0\u0BCD \u0BAE\u0BB1\u0BCD\u0BB1\u0BC1\u0BAE\u0BCD
+      \u0BAA\u0BCA\u0BB0\u0BC1\u0BB3\u0BCD \u0BAA\u0BAF\u0BA9\u0BCD\u0BAE\u0BC1\u0BB1\u0BC8\u0B95\u0BCD\u0B95\u0BC1
+      \u0B87\u0B9F\u0BC8\u0BAF\u0BBF\u0BB2\u0BCD \u0BAE\u0BBE\u0BB1\u0BC1\u0BAE\u0BCD"
+  - title: In AR Mode, you can view the experience in Augmented Reality
+    localizedPhrase: "\u0B8F\u0B86\u0BB0\u0BCD \u0BAA\u0BAF\u0BA9\u0BCD\u0BAE\u0BC1\u0BB1\u0BC8\u0BAF\u0BBF\u0BB2\u0BCD,\_\u0BA8\u0BC0\u0B99\u0BCD\u0B95\u0BB3\u0BCD
+      \u0B85\u0BA9\u0BC1\u0BAA\u0BB5\u0BA4\u0BCD\u0BA4\u0BC8 \u0BAA\u0BC6\u0BB0\u0BBF\u0BA4\u0BBE\u0B95\u0BCD\u0B95\u0BB2\u0BBE\u0BAE\u0BCD"
+  - title: In Object Mode, you can view the experience in a grey background
+    localizedPhrase: "\u0BAA\u0BCA\u0BB0\u0BC1\u0BB3\u0BCD \u0BAA\u0BAF\u0BA9\u0BCD\u0BAE\u0BC1\u0BB1\u0BC8\u0BAF\u0BBF\u0BB2\u0BCD,
+      \u0B9A\u0BBE\u0BAE\u0BCD\u0BAA\u0BB2\u0BCD \u0BAA\u0BBF\u0BA9\u0BCD\u0BA9\u0BA3\u0BBF\u0BAF\u0BBF\u0BB2\u0BCD
+      \u0B85\u0BA9\u0BC1\u0BAA\u0BB5\u0BA4\u0BCD\u0BA4\u0BC8 \u0BA8\u0BC0\u0B99\u0BCD\u0B95\u0BB3\u0BCD
+      \u0B95\u0BBE\u0BA3\u0BB2\u0BBE\u0BAE\u0BCD"
+  - title: Already have an account?
+    localizedPhrase: "\u0B8F\u0BB1\u0BCD\u0B95\u0BA9\u0BB5\u0BC7 \u0B92\u0BB0\u0BC1
+      \u0B95\u0BA3\u0B95\u0BCD\u0B95\u0BC1 \u0B89\u0BB3\u0BCD\u0BB3\u0BA4\u0BBE?"
+  - title: Label On/Off
+    localizedPhrase: "\u0BB2\u0BC7\u0BAA\u0BBF\u0BB3\u0BCD \u0B86\u0BA9\u0BCD/\u0B86\u0B83\u0BAA\u0BCD"
+  - title: This will enable/disable labels in the experience
+    localizedPhrase: "\u0B87\u0BA4\u0BC1 \u0B85\u0BA9\u0BC1\u0BAA\u0BB5\u0BA4\u0BCD\u0BA4\u0BBF\u0BB2\u0BCD
+      \u0BB2\u0BC7\u0BAA\u0BBF\u0BB3\u0BCD\u0B95\u0BB3\u0BC8 \u0B87\u0BAF\u0B95\u0BCD\u0B95\u0BC1\u0BAE\u0BCD/\u0BAE\u0BC1\u0B9F\u0B95\u0BCD\u0B95\u0BC1\u0BAE\u0BCD"
+  - title: Record Button
+    localizedPhrase: "\u0BAA\u0BA4\u0BBF\u0BB5\u0BC1 \u0BAA\u0BCA\u0BA4\u0BCD\u0BA4\u0BBE\u0BA9\u0BCD"
+  - title: This will record your voice to create a custom lesson
+    localizedPhrase: "\u0BA4\u0BA9\u0BBF\u0BAA\u0BCD\u0BAA\u0BAF\u0BA9\u0BCD \u0BAA\u0BBE\u0B9F\u0B99\u0BCD\u0B95\u0BB3\u0BC8
+      \u0B89\u0BB0\u0BC1\u0BB5\u0BBE\u0B95\u0BCD\u0B95 \u0B87\u0BA4\u0BC1 \u0B89\u0B99\u0BCD\u0B95\u0BB3\u0BCD
+      \u0B95\u0BC1\u0BB0\u0BB2\u0BC8\u0BAA\u0BCD \u0BAA\u0BA4\u0BBF\u0BB5\u0BC1 \u0B9A\u0BC6\u0BAF\u0BCD\u0BAF\u0BC1\u0BAE\u0BCD"
+  - title: Play/Pause Button
+    localizedPhrase: "\u0B87\u0BAF\u0B95\u0BCD\u0B95\u0BC1/\u0B87\u0B9F\u0BC8\u0BA8\u0BBF\u0BB1\u0BC1\u0BA4\u0BCD\u0BA4\u0BC1
+      \u0BAA\u0BCA\u0BA4\u0BCD\u0BA4\u0BBE\u0BA9\u0BCD"
+  - title: This will play/pause the lesson
+    localizedPhrase: "\u0B87\u0BA4\u0BC1 \u0BAA\u0BBE\u0B9F\u0BA4\u0BCD\u0BA4\u0BC8
+      \u0B87\u0BAF\u0B95\u0BCD\u0B95\u0BC1/\u0B87\u0B9F\u0BC8\u0BA8\u0BBF\u0BB1\u0BC1\u0BA4\u0BCD\u0BA4\u0BC1\u0BAE\u0BCD"
+  - title: This will play/pause the downloaded lesson
+    localizedPhrase: "\u0B87\u0BA4\u0BC1 \u0BAA\u0BA4\u0BBF\u0BB5\u0BBF\u0BB1\u0B95\u0BCD\u0B95\u0BAE\u0BCD
+      \u0B9A\u0BC6\u0BAF\u0BCD\u0BAF\u0BAA\u0BCD\u0BAA\u0B9F\u0BCD\u0B9F \u0BAA\u0BBE\u0B9F\u0BA4\u0BCD\u0BA4\u0BC8
+      \u0B87\u0BAF\u0B95\u0BCD\u0B95\u0BC1/\u0B87\u0B9F\u0BC8\u0BA8\u0BBF\u0BB1\u0BC1\u0BA4\u0BCD\u0BA4\u0BC1\u0BAE\u0BCD"
+  - title: This will play/pause the recordeded lesson
+    localizedPhrase: "\u0B87\u0BA4\u0BC1 \u0BAA\u0BA4\u0BBF\u0BB5\u0BC1 \u0B9A\u0BC6\u0BAF\u0BCD\u0BAF\u0BAA\u0BCD\u0BAA\u0B9F\u0BCD\u0B9F
+      \u0BAA\u0BBE\u0B9F\u0B99\u0BCD\u0B95\u0BB3\u0BC8 \u0B87\u0BAF\u0B95\u0BCD\u0B95\u0BC1/\u0B87\u0B9F\u0BC8\u0BA8\u0BBF\u0BB1\u0BC1\u0BA4\u0BCD\u0BA4\u0BC1\u0BAE\u0BCD"
+  - title: Already have an account?
+    localizedPhrase: "\u0B8F\u0BB1\u0BCD\u0B95\u0BA9\u0BB5\u0BC7 \u0B92\u0BB0\u0BC1
+      \u0B95\u0BA3\u0B95\u0BCD\u0B95\u0BC1 \u0B89\u0BB3\u0BCD\u0BB3\u0BA4\u0BBE?"
+  - title: Lesson Popup
+    localizedPhrase: "\u0BAA\u0BBE\u0B9F\u0BAE\u0BCD \u0BAA\u0BBE\u0BAA\u0BCD\u0B85\u0BAA\u0BCD"
+  - title: This will open the available lessons for this experience
+    localizedPhrase: "\u0B87\u0BA8\u0BCD\u0BA4 \u0B85\u0BA9\u0BC1\u0BAA\u0BB5\u0BA4\u0BCD\u0BA4\u0BBF\u0BB1\u0BCD\u0B95\u0BBE\u0B95
+      \u0B95\u0BBF\u0B9F\u0BC8\u0B95\u0BCD\u0B95\u0B95\u0BCD\u0B95\u0BC2\u0B9F\u0BBF\u0BAF
+      \u0BAA\u0B9F\u0BBF\u0BAA\u0BCD\u0BAA\u0BBF\u0BA9\u0BC8\u0B95\u0BB3\u0BC8 \u0B87\u0BA4\u0BC1
+      \u0BA4\u0BBF\u0BB1\u0B95\u0BCD\u0B95\u0BC1\u0BAE\u0BCD\_"
+  - title: This will open the available lessons and your recorded lessons for this
+      experience. You can share your lessons publicly or with your students from here
+    localizedPhrase: "\u0B87\u0BA8\u0BCD\u0BA4 \u0B85\u0BA9\u0BC1\u0BAA\u0BB5\u0BA4\u0BCD\u0BA4\u0BBF\u0BB1\u0BCD\u0B95\u0BBE\u0BA9
+      \u0B95\u0BBF\u0B9F\u0BC8\u0B95\u0BCD\u0B95\u0B95\u0BCD\u0B95\u0BC2\u0B9F\u0BBF\u0BAF
+      \u0BAA\u0BBE\u0B9F\u0B99\u0BCD\u0B95\u0BB3\u0BC8\u0BAF\u0BC1\u0BAE\u0BCD, \u0BAA\u0BA4\u0BBF\u0BB5\u0BC1
+      \u0B9A\u0BC6\u0BAF\u0BCD\u0BAF\u0BAA\u0BCD\u0BAA\u0B9F\u0BCD\u0B9F \u0BAA\u0BBE\u0B9F\u0B99\u0BCD\u0B95\u0BB3\u0BC8\u0BAF\u0BC1\u0BAE\u0BCD
+      \u0B87\u0BA4\u0BC1 \u0BA4\u0BBF\u0BB1\u0B95\u0BCD\u0B95\u0BC1\u0BAE\u0BCD. \u0B89\u0B99\u0BCD\u0B95\u0BB3\u0BCD
+      \u0BAA\u0BBE\u0B9F\u0B99\u0BCD\u0B95\u0BB3\u0BC8 \u0BAA\u0BCA\u0BA4\u0BC1\u0BB5\u0BBF\u0BB2\u0BCD
+      \u0B85\u0BB2\u0BCD\u0BB2\u0BA4\u0BC1 \u0B87\u0B99\u0BCD\u0B95\u0BBF\u0BB0\u0BC1\u0BA8\u0BCD\u0BA4\u0BC1
+      \u0B89\u0B99\u0BCD\u0B95\u0BB3\u0BCD \u0BAE\u0BBE\u0BA3\u0BB5\u0BB0\u0BCD\u0B95\u0BB3\u0BC1\u0B9F\u0BA9\u0BCD
+      \u0BAA\u0B95\u0BBF\u0BB0\u0BCD\u0BA8\u0BCD\u0BA4\u0BC1 \u0B95\u0BCA\u0BB3\u0BCD\u0BB3\u0BB2\u0BBE\u0BAE\u0BCD"
+  - title: Game mode
+    localizedPhrase: "\u0BB5\u0BBF\u0BB3\u0BC8\u0BAF\u0BBE\u0B9F\u0BCD\u0B9F\u0BC1
+      \u0BAE\u0BC1\u0BB1\u0BC8"
+  - title: This will take you to the Game mode of this experience if available
+    localizedPhrase: "\u0B87\u0BA4\u0BC1 \u0B95\u0BBF\u0B9F\u0BC8\u0BA4\u0BCD\u0BA4\u0BBE\u0BB2\u0BCD
+      \u0B87\u0BA8\u0BCD\u0BA4 \u0B85\u0BA9\u0BC1\u0BAA\u0BB5\u0BA4\u0BCD\u0BA4\u0BBF\u0BA9\u0BCD
+      \u0BB5\u0BBF\u0BB3\u0BC8\u0BAF\u0BBE\u0B9F\u0BCD\u0B9F\u0BC1 \u0BAE\u0BC1\u0BB1\u0BC8\u0B95\u0BCD\u0B95\u0BC1
+      \u0B89\u0B99\u0BCD\u0B95\u0BB3\u0BC8 \u0B85\u0BB4\u0BC8\u0BA4\u0BCD\u0BA4\u0BC1\u0B9A\u0BCD
+      \u0B9A\u0BC6\u0BB2\u0BCD\u0BB2\u0BC1\u0BAE\u0BCD"
+  - title: Learn/Explore mode
+    localizedPhrase: "\u0BAA\u0BAF\u0BA9\u0BCD\u0BAE\u0BC1\u0BB1\u0BC8\u0BAF\u0BC8
+      \u0B85\u0BB1\u0BBF\u0B95/\u0B86\u0BB0\u0BBE\u0BAF\u0BC1\u0B99\u0BCD\u0B95\u0BB3\u0BCD"
+  - title: This will toggle between the learn mode and explore mode
+    localizedPhrase: "\u0B87\u0BA4\u0BC1 \u0B95\u0BB1\u0BCD\u0BB1\u0BB2\u0BCD \u0BAA\u0BAF\u0BA9\u0BCD\u0BAE\u0BC1\u0BB1\u0BC8\u0B95\u0BCD\u0B95\u0BC1
+      \u0B87\u0B9F\u0BC8\u0BAF\u0BBF\u0BB2\u0BCD\u0BAE\u0BBE\u0BB1\u0BBF, \u0BAA\u0BAF\u0BA9\u0BCD\u0BAE\u0BC1\u0BB1\u0BC8\u0BAF\u0BC8
+      \u0B86\u0BB0\u0BBE\u0BAF\u0BC1\u0BAE\u0BCD\_"
+  - title: Learn mode has curated lessons narrated by our teachers synchronized to
+      the AR Experience
+    localizedPhrase: "\u0B95\u0BB1\u0BCD\u0BB1\u0BB2\u0BCD \u0B85\u0BA9\u0BC1\u0BAA\u0BB5\u0BAE\u0BBE\u0BA9\u0BA4\u0BC1
+      \u0B8F\u0B86\u0BB0\u0BCD \u0B85\u0BA9\u0BC1\u0BAA\u0BB5\u0BA4\u0BCD\u0BA4\u0BC1\u0B9F\u0BA9\u0BCD
+      \u0B92\u0BA4\u0BCD\u0BA4\u0BBF\u0B9A\u0BC8\u0B95\u0BCD\u0B95\u0BAA\u0BCD\u0BAA\u0B9F\u0BCD\u0B9F
+      \u0B8E\u0B99\u0BCD\u0B95\u0BB3\u0BCD \u0B86\u0B9A\u0BBF\u0BB0\u0BBF\u0BAF\u0BB0\u0BCD\u0B95\u0BB3\u0BBE\u0BB2\u0BCD
+      \u0BB5\u0BBF\u0BB5\u0BB0\u0BBF\u0B95\u0BCD\u0B95\u0BAA\u0BCD\u0BAA\u0B9F\u0BCD\u0B9F
+      \u0BAA\u0BBE\u0B9F\u0B99\u0BCD\u0B95\u0BB3\u0BC8\u0B95\u0BCD \u0B95\u0BCA\u0BA3\u0BCD\u0B9F\u0BC1\u0BB3\u0BCD\u0BB3\u0BA4\u0BC1"
+  - title: In Explore mode, you can view the experiences in detail. Here, teachers
+      can record their own lessons and share with students and public, and students
+      can download and listen to lessons shared by their teachers
+    localizedPhrase: "\u0B8E\u0B95\u0BCD\u0BB8\u0BCD\u0BAA\u0BCD\u0BB3\u0BCB\u0BB0\u0BCD
+      \u0BAA\u0BAF\u0BA9\u0BCD\u0BAE\u0BC1\u0BB1\u0BC8\u0BAF\u0BBF\u0BB2\u0BCD, \u0B85\u0BA9\u0BC1\u0BAA\u0BB5\u0B99\u0BCD\u0B95\u0BB3\u0BC8
+      \u0BB5\u0BBF\u0BB0\u0BBF\u0BB5\u0BBE\u0B95\u0B95\u0BCD\u0B95\u0BBE\u0BA3\u0BB2\u0BBE\u0BAE\u0BCD.\_\u0B87\u0B99\u0BCD\u0B95\u0BC7,\_\u0B86\u0B9A\u0BBF\u0BB0\u0BBF\u0BAF\u0BB0\u0BCD\u0B95\u0BB3\u0BCD
+      \u0BA4\u0B99\u0BCD\u0B95\u0BB3\u0BCD \u0BAA\u0BBE\u0B9F\u0B99\u0BCD\u0B95\u0BB3\u0BC8
+      \u0BAA\u0BA4\u0BBF\u0BB5\u0BC1 \u0B9A\u0BC6\u0BAF\u0BCD\u0BA4\u0BC1 \u0BAE\u0BBE\u0BA3\u0BB5\u0BB0\u0BCD\u0B95\u0BB3\u0BCD
+      \u0BAE\u0BB1\u0BCD\u0BB1\u0BC1\u0BAE\u0BCD \u0BAA\u0BCA\u0BA4\u0BC1\u0BAE\u0B95\u0BCD\u0B95\u0BB3\u0BC1\u0B9F\u0BA9\u0BCD
+      \u0BAA\u0B95\u0BBF\u0BB0\u0BCD\u0BA8\u0BCD\u0BA4\u0BC1 \u0B95\u0BCA\u0BB3\u0BCD\u0BB3\u0BB2\u0BBE\u0BAE\u0BCD,\_\u0BAE\u0BC7\u0BB2\u0BC1\u0BAE\u0BCD
+      \u0BAE\u0BBE\u0BA3\u0BB5\u0BB0\u0BCD\u0B95\u0BB3\u0BCD \u0BA4\u0B99\u0BCD\u0B95\u0BB3\u0BCD
+      \u0B86\u0B9A\u0BBF\u0BB0\u0BBF\u0BAF\u0BB0\u0BCD\u0B95\u0BB3\u0BCD \u0BAA\u0B95\u0BBF\u0BB0\u0BCD\u0BA8\u0BCD\u0BA4\u0BC1
+      \u0B95\u0BCA\u0BB3\u0BCD\u0BB3\u0BC1\u0BAE\u0BCD \u0BAA\u0BBE\u0B9F\u0B99\u0BCD\u0B95\u0BB3\u0BC8
+      \u0BAA\u0BA4\u0BBF\u0BB5\u0BBF\u0BB1\u0B95\u0BCD\u0B95\u0BAE\u0BCD\u0B9A\u0BC6\u0BAF\u0BCD\u0BA4\u0BC1
+      \u0B95\u0BC7\u0B9F\u0BCD\u0B95\u0BB2\u0BBE\u0BAE\u0BCD\_"
+  - title: 'Experience slides '
+    localizedPhrase: "\u0B85\u0BA9\u0BC1\u0BAA\u0BB5 \u0BB8\u0BCD\u0BB2\u0BC8\u0B9F\u0BC1\u0B95\u0BB3\u0BCD"
+  - title: Individual slides for the experience
+    localizedPhrase: "\u0B85\u0BA9\u0BC1\u0BAA\u0BB5\u0BA4\u0BCD\u0BA4\u0BBF\u0BB1\u0BCD\u0B95\u0BBE\u0BA9
+      \u0BA4\u0BA9\u0BBF\u0BAA\u0BCD\u0BAA\u0B9F\u0BCD\u0B9F \u0BB8\u0BCD\u0BB2\u0BC8\u0B9F\u0BC1\u0B95\u0BB3\u0BCD"
+  - title: Free
+    localizedPhrase: "\u0B87\u0BB2\u0BB5\u0B9A\uFEFF"
+  - title: Premium
+    localizedPhrase: "\u0BAA\u0BBF\u0BB0\u0BC0\u0BAE\u0BBF\u0BAF\u0BAE\u0BCD\uFEFF"
+  - title: Close
+    localizedPhrase: "\u0BA8\u0BC6\u0BB0\u0BC1\u0B95\u0BCD\u0B95\u0BAE\u0BBE\u0BA9 "
+  - title: Skip & Close
+    localizedPhrase: "\u0BA4\u0BB5\u0BBF\u0BB0\u0BCD & \u0BAE\u0BC2\u0B9F\u0BC1 "
+  - title: Previous
+    localizedPhrase: "\u0BAE\u0BC1\u0BA8\u0BCD\u0BA4\u0BC8\u0BAF "
+  - title: Next
+    localizedPhrase: "\u0B85\u0B9F\u0BC1\u0BA4\u0BCD\u0BA4\u0BA4\u0BC1 "
+  - title: AR/Object Mode
+    localizedPhrase: "AR / \u0BAA\u0BCA\u0BB0\u0BC1\u0BB3\u0BCD \u0BAA\u0BAF\u0BA9\u0BCD\u0BAE\u0BC1\u0BB1\u0BC8 "
+  - title: Turn on Onboarding
+    localizedPhrase: "\u0B92\u0BA9\u0BCD\u0BAA\u0BCB\u0BB0\u0BCD\u0B9F\u0BBF\u0B99\u0BCD
+      \u0B87\u0BAF\u0B95\u0BCD\u0B95\u0BB5\u0BC1\u0BAE\u0BCD "
+  - title: You can always turn on Onboarding in the settings page
+    localizedPhrase: "\u0B85\u0BAE\u0BC8\u0BAA\u0BCD\u0BAA\u0BC1\u0B95\u0BB3\u0BCD
+      \u0BAA\u0B95\u0BCD\u0B95\u0BA4\u0BCD\u0BA4\u0BBF\u0BB2\u0BCD \u0BA8\u0BC0\u0B99\u0BCD\u0B95\u0BB3\u0BCD
+      \u0B8E\u0BAA\u0BCD\u0BAA\u0BCB\u0BA4\u0BC1\u0BAE\u0BCD \u0B86\u0BA9\u0BCD \u0BAA\u0BCB\u0BB0\u0BCD\u0B9F\u0BBF\u0B99\u0BCD
+      \u0B87\u0BAF\u0B95\u0BCD\u0B95\u0BB2\u0BBE\u0BAE\u0BCD "
+  - title: Your Subscription
+    localizedPhrase: "\u0B89\u0B99\u0BCD\u0B95\u0BB3\u0BCD \u0B9A\u0BA8\u0BCD\u0BA4\u0BBE "
+  - title: Yearly Hologo Membership
+    localizedPhrase: "\u0B86\u0BA3\u0BCD\u0B9F\u0BC1 \u0BB9\u0BCB\u0BB2\u0BCB\u0B95\u0BCB
+      \u0B89\u0BB1\u0BC1\u0BAA\u0BCD\u0BAA\u0BBF\u0BA9\u0BB0\u0BCD "
+  - title: 'Lessons: '
+    localizedPhrase: "\u0BB5\u0B95\u0BC1\u0BAA\u0BCD\u0BAA\u0BC1\u0B95\u0BB3\u0BCD: "
+  - title: Expires on
+    localizedPhrase: "\u0B95\u0BBE\u0BB2\u0BBE\u0BB5\u0BA4\u0BBF\u0BAF\u0BBE\u0B95\u0BBF\u0BB1\u0BA4\u0BC1 "
+  - title: Your subscription will not automatically renew unless manually renewd before
+      the end of the current period.
+    localizedPhrase: "\u0BA8\u0B9F\u0BAA\u0BCD\u0BAA\u0BC1 \u0B95\u0BBE\u0BB2\u0BA4\u0BCD\u0BA4\u0BBF\u0BA9\u0BCD
+      \u0B87\u0BB1\u0BC1\u0BA4\u0BBF\u0B95\u0BCD\u0B95\u0BC1\u0BB3\u0BCD \u0B95\u0BC8\u0BAE\u0BC1\u0BB1\u0BC8\u0BAF\u0BBE\u0B95
+      \u0BAA\u0BC1\u0BA4\u0BC1\u0BAA\u0BCD\u0BAA\u0BBF\u0B95\u0BCD\u0B95\u0BAA\u0BCD\u0BAA\u0B9F\u0BBE\u0BB5\u0BBF\u0B9F\u0BCD\u0B9F\u0BBE\u0BB2\u0BCD
+      \u0B89\u0B99\u0BCD\u0B95\u0BB3\u0BCD \u0B9A\u0BA8\u0BCD\u0BA4\u0BBE \u0BA4\u0BBE\u0BA9\u0BBE\u0B95
+      \u0BAA\u0BC1\u0BA4\u0BC1\u0BAA\u0BCD\u0BAA\u0BBF\u0B95\u0BCD\u0B95\u0BAA\u0BCD\u0BAA\u0B9F\u0BBE\u0BA4\u0BC1. "
+  - title: Enjoy Hologo?
+    localizedPhrase: "\u0BB9\u0BCB\u0BB2\u0BCB\u0B95\u0BCB\u0BB5\u0BC8 \u0B85\u0BA9\u0BC1\u0BAA\u0BB5\u0BBF\u0B95\u0BCD\u0B95\u0BB5\u0BBE? "
+  - title: If you liked Hologo, please take a moment to rate us
+    localizedPhrase: "\u0BA8\u0BC0\u0B99\u0BCD\u0B95\u0BB3\u0BCD \u0BB9\u0BCB\u0BB2\u0BCB\u0B95\u0BCB\u0BB5\u0BC8
+      \u0BB5\u0BBF\u0BB0\u0BC1\u0BAE\u0BCD\u0BAA\u0BBF\u0BA9\u0BBE\u0BB2\u0BCD, \u0BA4\u0BAF\u0BB5\u0BC1\u0B9A\u0BC6\u0BAF\u0BCD\u0BA4\u0BC1
+      \u0B8E\u0B99\u0BCD\u0B95\u0BB3\u0BC8 \u0BAE\u0BA4\u0BBF\u0BAA\u0BCD\u0BAA\u0BBF\u0B9F\u0BC1\u0B99\u0BCD\u0B95\u0BB3\u0BCD "
+  - title: Are you sure you want to sign out?
+    localizedPhrase: "\u0BA8\u0BC0\u0B99\u0BCD\u0B95\u0BB3\u0BCD \u0BA8\u0BBF\u0B9A\u0BCD\u0B9A\u0BAF\u0BAE\u0BBE\u0B95
+      \u0BB5\u0BC6\u0BB3\u0BBF\u0BAF\u0BC7\u0BB1 \u0BB5\u0BBF\u0BB0\u0BC1\u0BAE\u0BCD\u0BAA\u0BC1\u0B95\u0BBF\u0BB1\u0BC0\u0BB0\u0BCD\u0B95\u0BB3\u0BBE? "
+  messageTexts:
+  - title: Enter your email address and password to access your account
+    localizedPhrase: "\u0B89\u0B99\u0BCD\u0B95\u0BB3\u0BCD \u0B95\u0BA3\u0B95\u0BCD\u0B95\u0BC8
+      \u0B85\u0BA3\u0BC1\u0B95 \u0B89\u0B99\u0BCD\u0B95\u0BB3\u0BCD \u0BAE\u0BBF\u0BA9\u0BCD\u0BA9\u0B9E\u0BCD\u0B9A\u0BB2\u0BCD
+      \u0BAE\u0BC1\u0B95\u0BB5\u0BB0\u0BBF \u0BAE\u0BB1\u0BCD\u0BB1\u0BC1\u0BAE\u0BCD
+      \u0B95\u0B9F\u0BB5\u0BC1\u0B9A\u0BCD\u0B9A\u0BCA\u0BB2\u0BCD\u0BB2\u0BC8 \u0B89\u0BB3\u0BCD\u0BB3\u0BBF\u0B9F\u0BB5\u0BC1\u0BAE\u0BCD\_"
+  - title: Join us for more features and to enjoy more experiences!
+    localizedPhrase: "\u0BAE\u0BC7\u0BB2\u0BC1\u0BAE\u0BCD \u0B85\u0BAE\u0BCD\u0B9A\u0B99\u0BCD\u0B95\u0BB3\u0BC1\u0B95\u0BCD\u0B95\u0BBE\u0B95\u0BB5\u0BC1\u0BAE\u0BCD
+      \u0BAE\u0BB1\u0BCD\u0BB1\u0BC1\u0BAE\u0BCD \u0B85\u0BA9\u0BC1\u0BAA\u0BB5\u0B99\u0BCD\u0B95\u0BB3\u0BC8
+      \u0B85\u0BA9\u0BC1\u0BAA\u0BB5\u0BBF\u0B95\u0BCD\u0B95\u0BB5\u0BC1\u0BAE\u0BCD
+      \u0B8E\u0B99\u0BCD\u0B95\u0BB3\u0BC1\u0B9F\u0BA9\u0BCD \u0B87\u0BA3\u0BC8\u0BAF\u0BC1\u0B99\u0BCD\u0B95\u0BB3\u0BCD"
+  - title: You've completed this task with a New High Score!
+    localizedPhrase: "\u0BA8\u0BC0\u0B99\u0BCD\u0B95\u0BB3\u0BCD \u0BAA\u0BC1\u0BA4\u0BBF\u0BAF
+      \u0B89\u0BAF\u0BB0\u0BCD\u0BAE\u0BA4\u0BBF\u0BAA\u0BCD\u0BAA\u0BC6\u0BA3\u0BCD
+      \u0BAE\u0BC2\u0BB2\u0BAE\u0BCD \u0B87\u0BA8\u0BCD\u0BA4 \u0BAA\u0BA3\u0BBF\u0BAF\u0BC8
+      \u0BAE\u0BC1\u0B9F\u0BBF\u0BA4\u0BCD\u0BA4\u0BC1\u0BB5\u0BBF\u0B9F\u0BCD\u0B9F\u0BC0\u0BB0\u0BCD\u0B95\u0BB3\u0BCD!"
+  - title: You've completed this task!
+    localizedPhrase: "\u0BA8\u0BC0\u0B99\u0BCD\u0B95\u0BB3\u0BCD \u0B87\u0BA8\u0BCD\u0BA4
+      \u0BAA\u0BA3\u0BBF\u0BAF\u0BC8 \u0BAE\u0BC1\u0B9F\u0BBF\u0BA4\u0BCD\u0BA4\u0BC1\u0BB5\u0BBF\u0B9F\u0BCD\u0B9F\u0BC0\u0BB0\u0BCD\u0B95\u0BB3\u0BCD!"
+  - title: 'Score:'
+    localizedPhrase: "\u0BAE\u0BA4\u0BBF\u0BAA\u0BCD\u0BAA\u0BC6\u0BA3\u0BCD"
+  - title: 'Previous Score:'
+    localizedPhrase: "\u0BAE\u0BC1\u0BA8\u0BCD\u0BA4\u0BC8\u0BAF \u0BAE\u0BA4\u0BBF\u0BAA\u0BCD\u0BAA\u0BC6\u0BA3\u0BCD\_"
+  - title: 'Your Score: '
+    localizedPhrase: "\u0B89\u0B99\u0BCD\u0B95\u0BB3\u0BCD \u0BAE\u0BA4\u0BBF\u0BAA\u0BCD\u0BAA\u0BC6\u0BA3\u0BCD"
+  - title: Having issues getting your subscription details at the moment!
+    localizedPhrase: "\u0B87\u0BA8\u0BCD\u0BA4 \u0BA8\u0BC7\u0BB0\u0BA4\u0BCD\u0BA4\u0BBF\u0BB2\u0BCD
+      \u0B89\u0B99\u0BCD\u0B95\u0BB3\u0BCD \u0B9A\u0BA8\u0BCD\u0BA4\u0BBE \u0BB5\u0BBF\u0BB5\u0BB0\u0B99\u0BCD\u0B95\u0BB3\u0BC8\u0BAA\u0BCD
+      \u0BAA\u0BC6\u0BB1\u0BC1\u0BB5\u0BA4\u0BBF\u0BB2\u0BCD \u0B9A\u0BBF\u0B95\u0BCD\u0B95\u0BB2\u0BCD\u0B95\u0BB3\u0BCD
+      \u0B89\u0BB3\u0BCD\u0BB3\u0BA9!"
+  - title: Something is wrong with the internet!
+    localizedPhrase: "\u0B87\u0BA3\u0BC8\u0BAF\u0BA4\u0BCD\u0BA4\u0BBF\u0BB2\u0BCD
+      \u0B8F\u0BA4\u0BCB \u0BA4\u0BB5\u0BB1\u0BC1!"
+  - title: There seems to be a problem, please try again later!
+    localizedPhrase: "\u0B9A\u0BBF\u0B95\u0BCD\u0B95\u0BB2\u0BCD \u0B87\u0BB0\u0BC1\u0BAA\u0BCD\u0BAA\u0BA4\u0BBE\u0B95\u0BA4\u0BCD
+      \u0BA4\u0BC6\u0BB0\u0BBF\u0B95\u0BBF\u0BB1\u0BA4\u0BC1, \u0BA4\u0BAF\u0BB5\u0BC1
+      \u0B9A\u0BC6\u0BAF\u0BCD\u0BA4\u0BC1 \u0BAA\u0BBF\u0BA9\u0BCD\u0BA9\u0BB0\u0BCD
+      \u0BAE\u0BC0\u0BA3\u0BCD\u0B9F\u0BC1\u0BAE\u0BCD \u0BAE\u0BC1\u0BAF\u0BB1\u0BCD\u0B9A\u0BBF\u0B95\u0BCD\u0B95\u0BB5\u0BC1\u0BAE\u0BCD!"
+  - title: Nothing to report
+    localizedPhrase: "\u0BAA\u0BC1\u0B95\u0BBE\u0BB0\u0BB3\u0BBF\u0B95\u0BCD\u0B95
+      \u0B8E\u0BA4\u0BC1\u0BB5\u0BC1\u0BAE\u0BCD \u0B87\u0BB2\u0BCD\u0BB2\u0BC8"
+  - title: Cannot load experience
+    localizedPhrase: "\u0B85\u0BA9\u0BC1\u0BAA\u0BB5\u0BA4\u0BCD\u0BA4\u0BC8 \u0B8F\u0BB1\u0BCD\u0BB1
+      \u0BAE\u0BC1\u0B9F\u0BBF\u0BAF\u0BBE\u0BA4\u0BC1"
+  - title: Couldn't load
+    localizedPhrase: "\u0B8F\u0BB1\u0BCD\u0BB1 \u0BAE\u0BC1\u0B9F\u0BBF\u0BAF\u0BB5\u0BBF\u0BB2\u0BCD\u0BB2\u0BC8"
+  - title: Cannot load localization file
+    localizedPhrase: "\u0B89\u0BB3\u0BCD\u0BB3\u0BC2\u0BB0\u0BCD\u0BAE\u0BAF\u0BAE\u0BBE\u0B95\u0BCD\u0B95\u0BB2\u0BCD
+      \u0B95\u0BCB\u0BAA\u0BCD\u0BAA\u0BC8 \u0B8F\u0BB1\u0BCD\u0BB1 \u0BAE\u0BC1\u0B9F\u0BBF\u0BAF\u0BBE\u0BA4\u0BC1"
+  - title: You don't have the quota to upload!
+    localizedPhrase: "\u0BAA\u0BA4\u0BBF\u0BB5\u0BC7\u0BB1\u0BCD\u0BB1\u0BC1\u0BB5\u0BA4\u0BB1\u0BCD\u0B95\u0BBE\u0BA9
+      \u0B92\u0BA4\u0BC1\u0B95\u0BCD\u0B95\u0BC0\u0B9F\u0BC1 \u0B89\u0B99\u0BCD\u0B95\u0BB3\u0BBF\u0B9F\u0BAE\u0BCD
+      \u0B87\u0BB2\u0BCD\u0BB2\u0BC8"
+  - title: Could not load asset from assetbundle
+    localizedPhrase: "\u0B9A\u0BCA\u0BA4\u0BCD\u0BA4\u0BC1 \u0BA4\u0BCA\u0B95\u0BC1\u0BAA\u0BCD\u0BAA\u0BBF\u0BB2\u0BBF\u0BB0\u0BC1\u0BA8\u0BCD\u0BA4\u0BC1
+      \u0B9A\u0BCA\u0BA4\u0BCD\u0BA4\u0BC8 \u0B8F\u0BB1\u0BCD\u0BB1 \u0BAE\u0BC1\u0B9F\u0BBF\u0BAF\u0BB5\u0BBF\u0BB2\u0BCD\u0BB2\u0BC8"
+  - title: Could not load assetbundle
+    localizedPhrase: "\u0B9A\u0BCA\u0BA4\u0BCD\u0BA4\u0BC1 \u0BA4\u0BCA\u0B95\u0BC1\u0BAA\u0BCD\u0BAA\u0BC8
+      \u0B8F\u0BB1\u0BCD\u0BB1 \u0BAE\u0BC1\u0B9F\u0BBF\u0BAF\u0BB5\u0BBF\u0BB2\u0BCD\u0BB2\u0BC8"
+  - title: You entered your old password incorretly!
+    localizedPhrase: "\u0B89\u0B99\u0BCD\u0B95\u0BB3\u0BCD \u0BAA\u0BB4\u0BC8\u0BAF
+      \u0B95\u0B9F\u0BB5\u0BC1\u0B9A\u0BCD\u0B9A\u0BCA\u0BB2\u0BCD\u0BB2\u0BC8 \u0BA4\u0BB5\u0BB1\u0BBE\u0B95
+      \u0B89\u0BB3\u0BCD\u0BB3\u0BBF\u0B9F\u0BCD\u0B9F\u0BC1\u0BB3\u0BCD\u0BB3\u0BC0\u0BB0\u0BCD\u0B95\u0BB3\u0BCD"
+  - title: This will clean all stored app data.
+    localizedPhrase: "\u0B87\u0BA4\u0BC1 \u0B9A\u0BC7\u0BAE\u0BBF\u0B95\u0BCD\u0B95\u0BAA\u0BCD\u0BAA\u0B9F\u0BCD\u0B9F
+      \u0B8E\u0BB2\u0BCD\u0BB2\u0BBE \u0BAA\u0BAF\u0BA9\u0BCD\u0BAA\u0BBE\u0B9F\u0BCD\u0B9F\u0BC1
+      \u0BA4\u0BB0\u0BB5\u0BC8\u0BAF\u0BC1\u0BAE\u0BCD \u0B9A\u0BC1\u0BA4\u0BCD\u0BA4\u0BAE\u0BCD
+      \u0B9A\u0BC6\u0BAF\u0BCD\u0BAF\u0BC1\u0BAE\u0BCD."
+  - title: Changing your location will restore all experience data.
+    localizedPhrase: "\u0B89\u0B99\u0BCD\u0B95\u0BB3\u0BCD \u0B87\u0BB0\u0BC1\u0BAA\u0BCD\u0BAA\u0BBF\u0B9F\u0BA4\u0BCD\u0BA4\u0BC8
+      \u0BAE\u0BBE\u0BB1\u0BCD\u0BB1\u0BC1\u0BB5\u0BA4\u0BC1 \u0B85\u0BA9\u0BC8\u0BA4\u0BCD\u0BA4\u0BC1
+      \u0B85\u0BA9\u0BC1\u0BAA\u0BB5 \u0BA4\u0BB0\u0BB5\u0BC8\u0BAF\u0BC1\u0BAE\u0BCD
+      \u0BAE\u0BC0\u0B9F\u0BCD\u0B9F\u0BAE\u0BC8\u0B95\u0BCD\u0B95\u0BC1\u0BAE\u0BCD."
+  - title: Name is empty
+    localizedPhrase: "\u0BAA\u0BC6\u0BAF\u0BB0\u0BCD \u0B95\u0BBE\u0BB2\u0BBF\u0BAF\u0BBE\u0B95
+      \u0B89\u0BB3\u0BCD\u0BB3\u0BA4\u0BC1"
+  - title: A user already exists
+    localizedPhrase: "\u0B92\u0BB0\u0BC1 \u0BAA\u0BAF\u0BA9\u0BB0\u0BCD \u0B8F\u0BB1\u0BCD\u0B95\u0BA9\u0BB5\u0BC7
+      \u0B87\u0BB0\u0BC1\u0B95\u0BCD\u0B95\u0BBF\u0BB1\u0BBE\u0BB0\u0BCD"
+  - title: Click ok to replace the existing user. Caution! This will erase all the
+      data of previous user!
+    localizedPhrase: "\u0B87\u0BB0\u0BC1\u0B95\u0BCD\u0B95\u0BC1\u0BAE\u0BCD \u0BAA\u0BAF\u0BA9\u0BB0\u0BC8
+      \u0BAE\u0BBE\u0BB1\u0BCD\u0BB1 \u0B9A\u0BB0\u0BBF \u0B8E\u0BA9\u0BCD\u0BAA\u0BA4\u0BC8\u0B95\u0BCD
+      \u0B95\u0BBF\u0BB3\u0BBF\u0B95\u0BCD \u0B9A\u0BC6\u0BAF\u0BCD\u0B95. \u0B8E\u0B9A\u0BCD\u0B9A\u0BB0\u0BBF\u0B95\u0BCD\u0B95\u0BC8!
+      \u0B87\u0BA4\u0BC1 \u0BAE\u0BC1\u0BA8\u0BCD\u0BA4\u0BC8\u0BAF \u0BAA\u0BAF\u0BA9\u0BB0\u0BBF\u0BA9\u0BCD
+      \u0B8E\u0BB2\u0BCD\u0BB2\u0BBE \u0BA4\u0BB0\u0BB5\u0BC8\u0BAF\u0BC1\u0BAE\u0BCD
+      \u0B85\u0BB4\u0BBF\u0B95\u0BCD\u0B95\u0BC1\u0BAE\u0BCD!"
+  - title: Back to Library
+    localizedPhrase: "\u0BA8\u0BC2\u0BB2\u0B95\u0BA4\u0BCD\u0BA4\u0BBF\u0BB1\u0BCD\u0B95\u0BC1\u0BA4\u0BCD
+      \u0BA4\u0BBF\u0BB0\u0BC1\u0BAE\u0BCD\u0BAA\u0BC1"
+  - title: All downloaded experiences have been deleted
+    localizedPhrase: "\u0BAA\u0BA4\u0BBF\u0BB5\u0BBF\u0BB1\u0B95\u0BCD\u0B95\u0BAE\u0BCD
+      \u0B9A\u0BC6\u0BAF\u0BCD\u0BAF\u0BAA\u0BCD\u0BAA\u0B9F\u0BCD\u0B9F \u0B85\u0BA9\u0BC8\u0BA4\u0BCD\u0BA4\u0BC1
+      \u0B85\u0BA9\u0BC1\u0BAA\u0BB5\u0B99\u0BCD\u0B95\u0BB3\u0BC1\u0BAE\u0BCD \u0BA8\u0BC0\u0B95\u0BCD\u0B95\u0BAA\u0BCD\u0BAA\u0B9F\u0BCD\u0B9F\u0BA9"
+  - title: Something is wrong with the Hologo network
+    localizedPhrase: "\u0BB9\u0BCB\u0BB2\u0BCB\u0B95\u0BCB \u0BA8\u0BC6\u0B9F\u0BCD\u0BB5\u0BCA\u0BB0\u0BCD\u0B95\u0BCD\u0B95\u0BBF\u0BB2\u0BCD
+      \u0B8F\u0BA4\u0BCB \u0BA4\u0BB5\u0BB1\u0BC1 \u0B89\u0BB3\u0BCD\u0BB3\u0BA4\u0BC1"
+  - title: Couldn't download or load experience! Please try again later
+    localizedPhrase: "\u0B85\u0BA9\u0BC1\u0BAA\u0BB5\u0BA4\u0BCD\u0BA4\u0BC8\u0BAA\u0BCD
+      \u0BAA\u0BA4\u0BBF\u0BB5\u0BBF\u0BB1\u0B95\u0BCD\u0B95\u0BB5\u0BCB \u0B8F\u0BB1\u0BCD\u0BB1\u0BB5\u0BCB
+      \u0BAE\u0BC1\u0B9F\u0BBF\u0BAF\u0BB5\u0BBF\u0BB2\u0BCD\u0BB2\u0BC8! \u0BAA\u0BBF\u0BA9\u0BCD\u0BA9\u0BB0\u0BCD
+      \u0BAE\u0BC0\u0BA3\u0BCD\u0B9F\u0BC1\u0BAE\u0BCD \u0BAE\u0BC1\u0BAF\u0BB1\u0BCD\u0B9A\u0BBF\u0B95\u0BCD\u0B95\u0BB5\u0BC1\u0BAE\u0BCD"
+  - title: Couldn't load experience! please try again later
+    localizedPhrase: "\u0B85\u0BA9\u0BC1\u0BAA\u0BB5\u0BA4\u0BCD\u0BA4\u0BC8 \u0B8F\u0BB1\u0BCD\u0BB1
+      \u0BAE\u0BC1\u0B9F\u0BBF\u0BAF\u0BB5\u0BBF\u0BB2\u0BCD\u0BB2\u0BC8! \u0BAA\u0BBF\u0BA9\u0BCD\u0BA9\u0BB0\u0BCD
+      \u0BAE\u0BC0\u0BA3\u0BCD\u0B9F\u0BC1\u0BAE\u0BCD \u0BAE\u0BC1\u0BAF\u0BB1\u0BCD\u0B9A\u0BBF\u0B95\u0BCD\u0B95\u0BB5\u0BC1\u0BAE\u0BCD"
+  - title: Something is wrong with the internet! Please try again later
+    localizedPhrase: "\u0B87\u0BA3\u0BC8\u0BAF\u0BA4\u0BCD\u0BA4\u0BBF\u0BB2\u0BCD
+      \u0B8F\u0BA4\u0BCB \u0BA4\u0BB5\u0BB1\u0BC1! \u0BAA\u0BBF\u0BA9\u0BCD\u0BA9\u0BB0\u0BCD
+      \u0BAE\u0BC0\u0BA3\u0BCD\u0B9F\u0BC1\u0BAE\u0BCD \u0BAE\u0BC1\u0BAF\u0BB1\u0BCD\u0B9A\u0BBF\u0B95\u0BCD\u0B95\u0BB5\u0BC1\u0BAE\u0BCD"
+  - title: "\u0B87\u0BA3\u0BC8\u0BAF\u0BA4\u0BCD\u0BA4\u0BBF\u0BB2\u0BCD \u0B8F\u0BA4\u0BCB
+      \u0BA4\u0BB5\u0BB1\u0BC1! \u0BAA\u0BBF\u0BA9\u0BCD\u0BA9\u0BB0\u0BCD \u0BAE\u0BC0\u0BA3\u0BCD\u0B9F\u0BC1\u0BAE\u0BCD
+      \u0BAE\u0BC1\u0BAF\u0BB1\u0BCD\u0B9A\u0BBF\u0B95\u0BCD\u0B95\u0BB5\u0BC1\u0BAE\u0BCD"
+    localizedPhrase: "\u0B87\u0BA8\u0BCD\u0BA4 \u0B85\u0BA9\u0BC1\u0BAA\u0BB5\u0BA4\u0BCD\u0BA4\u0BBF\u0BB1\u0BCD\u0B95\u0BC1
+      \u0B95\u0BBF\u0B9F\u0BC8\u0B95\u0BCD\u0B95\u0B95\u0BCD\u0B95\u0BC2\u0B9F\u0BBF\u0BAF
+      \u0BAA\u0B9F\u0BBF\u0BAA\u0BCD\u0BAA\u0BBF\u0BA9\u0BC8\u0B95\u0BB3\u0BCD \u0B87\u0BB2\u0BCD\u0BB2\u0BC8!"
+  - title: No Audio
+    localizedPhrase: "\u0B86\u0B9F\u0BBF\u0BAF\u0BCB \u0B87\u0BB2\u0BCD\u0BB2\u0BC8"
+  - title: You have to go to settings lessons to download file before you can play
+    localizedPhrase: "\u0BA8\u0BC0\u0B99\u0BCD\u0B95\u0BB3\u0BCD \u0BB5\u0BBF\u0BB3\u0BC8\u0BAF\u0BBE\u0B9F\u0BC1\u0BB5\u0BA4\u0BB1\u0BCD\u0B95\u0BC1
+      \u0BAE\u0BC1\u0BA9\u0BCD\u0BAA\u0BC1 \u0B95\u0BCB\u0BAA\u0BCD\u0BAA\u0BC8\u0BAA\u0BCD
+      \u0BAA\u0BA4\u0BBF\u0BB5\u0BBF\u0BB1\u0B95\u0BCD\u0B95 \u0B85\u0BAE\u0BC8\u0BAA\u0BCD\u0BAA\u0BC1\u0B95\u0BB3\u0BCD
+      \u0BAA\u0BBE\u0B9F\u0B99\u0BCD\u0B95\u0BB3\u0BC1\u0B95\u0BCD\u0B95\u0BC1\u0B9A\u0BCD
+      \u0B9A\u0BC6\u0BB2\u0BCD\u0BB2 \u0BB5\u0BC7\u0BA3\u0BCD\u0B9F\u0BC1\u0BAE\u0BCD"
+  - title: Private Share
+    localizedPhrase: "\u0BA4\u0BA9\u0BBF\u0BAF\u0BBE\u0BB0\u0BCD \u0BAA\u0B99\u0BCD\u0B95\u0BC1"
+  - title: Public Share
+    localizedPhrase: "\u0BAA\u0BCA\u0BA4\u0BC1 \u0BAA\u0B99\u0BCD\u0B95\u0BC1"
+  - title: Lesson uploaded succesfully!
+    localizedPhrase: "\u0BAA\u0BBE\u0B9F\u0BAE\u0BCD \u0BB5\u0BC6\u0BB1\u0BCD\u0BB1\u0BBF\u0B95\u0BB0\u0BAE\u0BBE\u0B95
+      \u0BAA\u0BA4\u0BBF\u0BB5\u0BC7\u0BB1\u0BCD\u0BB1\u0BAA\u0BCD\u0BAA\u0B9F\u0BCD\u0B9F\u0BA4\u0BC1!"
+  - title: Uploading of lesson was unsuccesfull!
+    localizedPhrase: "\u0BAA\u0BBE\u0B9F\u0BA4\u0BCD\u0BA4\u0BC8\u0BAA\u0BCD \u0BAA\u0BA4\u0BBF\u0BB5\u0BC7\u0BB1\u0BCD\u0BB1\u0BC1\u0BB5\u0BA4\u0BC1
+      \u0BA4\u0BCB\u0BB2\u0BCD\u0BB5\u0BBF\u0BAF\u0BC1\u0BB1\u0BCD\u0BB1\u0BA4\u0BC1!"
+  - title: Delete from device storage
+    localizedPhrase: "\u0B9A\u0BBE\u0BA4\u0BA9 \u0B9A\u0BC7\u0BAE\u0BBF\u0BAA\u0BCD\u0BAA\u0BBF\u0BB2\u0BBF\u0BB0\u0BC1\u0BA8\u0BCD\u0BA4\u0BC1
+      \u0BA8\u0BC0\u0B95\u0BCD\u0B95\u0BC1"
+  - title: Delete from the server
+    localizedPhrase: "\u0B9A\u0BC7\u0BB5\u0BC8\u0BAF\u0B95\u0BA4\u0BCD\u0BA4\u0BBF\u0BB2\u0BBF\u0BB0\u0BC1\u0BA8\u0BCD\u0BA4\u0BC1
+      \u0BA8\u0BC0\u0B95\u0BCD\u0B95\u0BC1"
+  - title: Delete from Both
+    localizedPhrase: "\u0B87\u0BB0\u0BA3\u0BCD\u0B9F\u0BBF\u0BB2\u0BBF\u0BB0\u0BC1\u0BA8\u0BCD\u0BA4\u0BC1\u0BAE\u0BCD
+      \u0BA8\u0BC0\u0B95\u0BCD\u0B95\u0BC1"
+  - title: Lesson deleted from the server!
+    localizedPhrase: "\u0B9A\u0BC7\u0BB5\u0BC8\u0BAF\u0B95\u0BA4\u0BCD\u0BA4\u0BBF\u0BB2\u0BBF\u0BB0\u0BC1\u0BA8\u0BCD\u0BA4\u0BC1
+      \u0BAA\u0BBE\u0B9F\u0BAE\u0BCD \u0BA8\u0BC0\u0B95\u0BCD\u0B95\u0BAA\u0BCD\u0BAA\u0B9F\u0BCD\u0B9F\u0BA4\u0BC1!"
+  - title: Couldn't delete lesson from the server!
+    localizedPhrase: "\u0B9A\u0BC7\u0BB5\u0BC8\u0BAF\u0B95\u0BA4\u0BCD\u0BA4\u0BBF\u0BB2\u0BBF\u0BB0\u0BC1\u0BA8\u0BCD\u0BA4\u0BC1
+      \u0BAA\u0BBE\u0B9F\u0BA4\u0BCD\u0BA4\u0BC8 \u0BA8\u0BC0\u0B95\u0BCD\u0B95 \u0BAE\u0BC1\u0B9F\u0BBF\u0BAF\u0BB5\u0BBF\u0BB2\u0BCD\u0BB2\u0BC8!"
+  - title: Store Failed to Initialize!
+    localizedPhrase: "\u0BA4\u0BCA\u0B9F\u0B99\u0BCD\u0B95\u0BC1\u0BB5\u0BA4\u0BBF\u0BB2\u0BCD
+      \u0B95\u0B9F\u0BC8 \u0BA4\u0BCB\u0BB2\u0BCD\u0BB5\u0BBF\u0BAF\u0BC1\u0BB1\u0BCD\u0BB1\u0BA4\u0BC1!"
+  - title: ' from on failed'
+    localizedPhrase: "\u0BAE\u0BC1\u0BA4\u0BB2\u0BCD \u0BA4\u0BCB\u0BB2\u0BCD\u0BB5\u0BBF\u0BAF\u0BC1\u0BB1\u0BCD\u0BB1\u0BA4\u0BC1"
+  - title: Purchase Failed!
+    localizedPhrase: "\u0B95\u0BCA\u0BB3\u0BCD\u0BAE\u0BC1\u0BA4\u0BB2\u0BCD \u0BA4\u0BCB\u0BB2\u0BCD\u0BB5\u0BBF\u0BAF\u0BC1\u0BB1\u0BCD\u0BB1\u0BA4\u0BC1!"
+  - title: This product is not found or is not available for purchase!
+    localizedPhrase: "\u0B87\u0BA8\u0BCD\u0BA4 \u0BA4\u0BAF\u0BBE\u0BB0\u0BBF\u0BAA\u0BCD\u0BAA\u0BC1
+      \u0B95\u0BBF\u0B9F\u0BC8\u0B95\u0BCD\u0B95\u0BB5\u0BBF\u0BB2\u0BCD\u0BB2\u0BC8
+      \u0B85\u0BB2\u0BCD\u0BB2\u0BA4\u0BC1 \u0BB5\u0BBE\u0B99\u0BCD\u0B95\u0BC1\u0BB5\u0BA4\u0BB1\u0BCD\u0B95\u0BC1
+      \u0B95\u0BBF\u0B9F\u0BC8\u0B95\u0BCD\u0B95\u0BB5\u0BBF\u0BB2\u0BCD\u0BB2\u0BC8!"
+  - title: Server Validation Failed!
+    localizedPhrase: "\u0B9A\u0BC7\u0BB5\u0BC8\u0BAF\u0B95 \u0B9A\u0BB0\u0BBF\u0BAA\u0BBE\u0BB0\u0BCD\u0BAA\u0BCD\u0BAA\u0BC1
+      \u0BA4\u0BCB\u0BB2\u0BCD\u0BB5\u0BBF\u0BAF\u0BC1\u0BB1\u0BCD\u0BB1\u0BA4\u0BC1!"
+  - title: Add Student
+    localizedPhrase: "\u0BAE\u0BBE\u0BA3\u0BB5\u0BB0\u0BC8\u0B9A\u0BCD \u0B9A\u0BC7\u0BB0\u0BCD\u0B95\u0BCD\u0B95\u0BB5\u0BC1\u0BAE\u0BCD"
+  - title: Please type in the email address of the student you want to add!
+    localizedPhrase: "\u0BA8\u0BC0\u0B99\u0BCD\u0B95\u0BB3\u0BCD \u0B9A\u0BC7\u0BB0\u0BCD\u0B95\u0BCD\u0B95
+      \u0BB5\u0BBF\u0BB0\u0BC1\u0BAE\u0BCD\u0BAA\u0BC1\u0BAE\u0BCD \u0BAE\u0BBE\u0BA3\u0BB5\u0BB0\u0BBF\u0BA9\u0BCD
+      \u0BAE\u0BBF\u0BA9\u0BCD\u0BA9\u0B9E\u0BCD\u0B9A\u0BB2\u0BCD \u0BAE\u0BC1\u0B95\u0BB5\u0BB0\u0BBF\u0BAF\u0BC8
+      \u0BA4\u0B9F\u0BCD\u0B9F\u0B9A\u0BCD\u0B9A\u0BC1 \u0B9A\u0BC6\u0BAF\u0BCD\u0B95!"
+  - title: Reject Invitation
+    localizedPhrase: "\u0B85\u0BB4\u0BC8\u0BAA\u0BCD\u0BAA\u0BC8 \u0BA8\u0BBF\u0BB0\u0BBE\u0B95\u0BB0\u0BBF\u0B95\u0BCD\u0B95\u0BB5\u0BC1\u0BAE\u0BCD"
+  - title: Accept Invitation
+    localizedPhrase: "\u0B85\u0BB4\u0BC8\u0BAA\u0BCD\u0BAA\u0BC8 \u0B8F\u0BB1\u0BCD\u0BB1\u0BC1\u0B95\u0BCD\u0B95\u0BCA\u0BB3\u0BCD"
+  - title: Remove Student
+    localizedPhrase: "\u0BAE\u0BBE\u0BA3\u0BB5\u0BB0\u0BC8 \u0B85\u0B95\u0BB1\u0BCD\u0BB1\u0BC1"
+  - title: Couldn't get any subscription information!
+    localizedPhrase: "\u0B8E\u0BA8\u0BCD\u0BA4 \u0B9A\u0BA8\u0BCD\u0BA4\u0BBE \u0BA4\u0B95\u0BB5\u0BB2\u0BC8\u0BAF\u0BC1\u0BAE\u0BCD
+      \u0BAA\u0BC6\u0BB1 \u0BAE\u0BC1\u0B9F\u0BBF\u0BAF\u0BB5\u0BBF\u0BB2\u0BCD\u0BB2\u0BC8!"
+  - title: Add Teacher
+    localizedPhrase: "\u0B86\u0B9A\u0BBF\u0BB0\u0BBF\u0BAF\u0BB0\u0BC8\u0B9A\u0BCD
+      \u0B9A\u0BC7\u0BB0\u0BCD\u0B95\u0BCD\u0B95\u0BB5\u0BC1\u0BAE\u0BCD"
+  - title: Please type in the email address of the teacher you want to add!
+    localizedPhrase: "\u0BA8\u0BC0\u0B99\u0BCD\u0B95\u0BB3\u0BCD \u0B9A\u0BC7\u0BB0\u0BCD\u0B95\u0BCD\u0B95
+      \u0BB5\u0BBF\u0BB0\u0BC1\u0BAE\u0BCD\u0BAA\u0BC1\u0BAE\u0BCD \u0B86\u0B9A\u0BBF\u0BB0\u0BBF\u0BAF\u0BB0\u0BBF\u0BA9\u0BCD
+      \u0BAE\u0BBF\u0BA9\u0BCD\u0BA9\u0B9E\u0BCD\u0B9A\u0BB2\u0BCD \u0BAE\u0BC1\u0B95\u0BB5\u0BB0\u0BBF\u0BAF\u0BC8
+      \u0BA4\u0B9F\u0BCD\u0B9F\u0B9A\u0BCD\u0B9A\u0BC1 \u0B9A\u0BC6\u0BAF\u0BCD\u0B95!"
+  - title: Remove Teacher
+    localizedPhrase: "\u0B86\u0B9A\u0BBF\u0BB0\u0BBF\u0BAF\u0BB0\u0BC8 \u0B85\u0B95\u0BB1\u0BCD\u0BB1\u0BC1"
+  - title: You entered your old password incorretly!
+    localizedPhrase: "\u0B89\u0B99\u0BCD\u0B95\u0BB3\u0BCD \u0BAA\u0BB4\u0BC8\u0BAF
+      \u0B95\u0B9F\u0BB5\u0BC1\u0B9A\u0BCD\u0B9A\u0BCA\u0BB2\u0BCD\u0BB2\u0BC8 \u0BA4\u0BB5\u0BB1\u0BBE\u0B95
+      \u0B89\u0BB3\u0BCD\u0BB3\u0BBF\u0B9F\u0BCD\u0B9F\u0BC1\u0BB3\u0BCD\u0BB3\u0BC0\u0BB0\u0BCD\u0B95\u0BB3\u0BCD!"
+  - title: This won't take long
+    localizedPhrase: "\u0B87\u0BA4\u0BC1 \u0B85\u0BA4\u0BBF\u0B95 \u0BA8\u0BC7\u0BB0\u0BAE\u0BCD
+      \u0B8E\u0B9F\u0BC1\u0B95\u0BCD\u0B95\u0BBE\u0BA4\u0BC1"
+  - title: We're opening this experience for the first time and this might take a
+      few seconds
+    localizedPhrase: "\u0B87\u0BA8\u0BCD\u0BA4 \u0B85\u0BA9\u0BC1\u0BAA\u0BB5\u0BA4\u0BCD\u0BA4\u0BC8
+      \u0BA8\u0BBE\u0B99\u0BCD\u0B95\u0BB3\u0BCD \u0BAE\u0BC1\u0BA4\u0BA9\u0BCD\u0BAE\u0BC1\u0BB1\u0BC8\u0BAF\u0BBE\u0B95\u0BA4\u0BCD
+      \u0BA4\u0BBF\u0BB1\u0B95\u0BCD\u0B95\u0BBF\u0BB1\u0BCB\u0BAE\u0BCD, \u0B87\u0BA4\u0BB1\u0BCD\u0B95\u0BC1
+      \u0B9A\u0BBF\u0BB2 \u0BB5\u0BBF\u0BA9\u0BBE\u0B9F\u0BBF\u0B95\u0BB3\u0BCD \u0B86\u0B95\u0BB2\u0BBE\u0BAE\u0BCD"
+  - title: Switching User
+    localizedPhrase: "\u0BAE\u0BBE\u0BB1\u0BC1\u0BA4\u0BB2\u0BCD \u0BAA\u0BAF\u0BA9\u0BB0\u0BCD"
+  - title: Switch
+    localizedPhrase: "\u0B9A\u0BC6\u0BBE\u0B9F\u0BC1\u0B95\u0BCD\u0B95\u0BBF"
+  - title: This will erase all the contents and downloaded experiences of the existing
+      user. Are you sure you wanna continue?
+    localizedPhrase: "\u0B87\u0BA4\u0BC1 \u0B8F\u0BB1\u0BCD\u0B95\u0BA9\u0BB5\u0BC7
+      \u0B89\u0BB3\u0BCD\u0BB3 \u0BAA\u0BAF\u0BA9\u0BB0\u0BBF\u0BA9\u0BCD \u0B85\u0BA9\u0BC8\u0BA4\u0BCD\u0BA4\u0BC1
+      \u0B89\u0BB3\u0BCD\u0BB3\u0B9F\u0B95\u0BCD\u0B95\u0B99\u0BCD\u0B95\u0BB3\u0BC8\u0BAF\u0BC1\u0BAE\u0BCD
+      \u0BAA\u0BA4\u0BBF\u0BB5\u0BBF\u0BB1\u0B95\u0BCD\u0B95\u0BBF\u0BAF \u0B85\u0BA9\u0BC1\u0BAA\u0BB5\u0B99\u0BCD\u0B95\u0BB3\u0BC8\u0BAF\u0BC1\u0BAE\u0BCD
+      \u0B85\u0BB4\u0BBF\u0B95\u0BCD\u0B95\u0BC1\u0BAE\u0BCD. \u0BA8\u0BC0\u0B99\u0BCD\u0B95\u0BB3\u0BCD
+      \u0BA4\u0BCA\u0B9F\u0BB0 \u0BB5\u0BBF\u0BB0\u0BC1\u0BAE\u0BCD\u0BAA\u0BC1\u0B95\u0BBF\u0BB1\u0BC0\u0BB0\u0BCD\u0B95\u0BB3\u0BBE?"
+  - title: Change Country
+    localizedPhrase: "\u0BA8\u0BBE\u0B9F\u0BCD\u0B9F\u0BC8 \u0BAE\u0BBE\u0BB1\u0BCD\u0BB1\u0BC1 "
+  - title: Hologo library updated!
+    localizedPhrase: "\u0BB9\u0BCB\u0BB2\u0BCB\u0B95\u0BCB \u0BA8\u0BC2\u0BB2\u0B95\u0BAE\u0BCD
+      \u0BAA\u0BC1\u0BA4\u0BC1\u0BAA\u0BCD\u0BAA\u0BBF\u0B95\u0BCD\u0B95\u0BAA\u0BCD\u0BAA\u0B9F\u0BCD\u0B9F\u0BA4\u0BC1!"
+  - title: Couldn't download lesson
+    localizedPhrase: "\u0BAA\u0BBE\u0B9F\u0BA4\u0BCD\u0BA4\u0BC8\u0BAA\u0BCD \u0BAA\u0BA4\u0BBF\u0BB5\u0BBF\u0BB1\u0B95\u0BCD\u0B95
+      \u0BAE\u0BC1\u0B9F\u0BBF\u0BAF\u0BB5\u0BBF\u0BB2\u0BCD\u0BB2\u0BC8"
+  - title: No recorded lessons for this experience
+    localizedPhrase: "\u0B87\u0BA8\u0BCD\u0BA4 \u0B85\u0BA9\u0BC1\u0BAA\u0BB5\u0BA4\u0BCD\u0BA4\u0BBF\u0BB1\u0BCD\u0B95\u0BC1
+      \u0BAA\u0BA4\u0BBF\u0BB5\u0BC1 \u0B9A\u0BC6\u0BAF\u0BCD\u0BAF\u0BAA\u0BCD\u0BAA\u0B9F\u0BCD\u0B9F
+      \u0BAA\u0BBE\u0B9F\u0B99\u0BCD\u0B95\u0BB3\u0BCD \u0B8E\u0BA4\u0BC1\u0BB5\u0BC1\u0BAE\u0BCD
+      \u0B87\u0BB2\u0BCD\u0BB2\u0BC8"
+  - title: Lesson deleted
+    localizedPhrase: "\u0BAA\u0BBE\u0B9F\u0BAE\u0BCD \u0BA8\u0BC0\u0B95\u0BCD\u0B95\u0BAA\u0BCD\u0BAA\u0B9F\u0BCD\u0B9F\u0BA4\u0BC1"
+  titleTexts:
+  - title: Library
+    localizedPhrase: "\u0BA8\u0BC2\u0BB2\u0B95\u0BAE\u0BCD"
+  - title: Settings
+    localizedPhrase: "\u0B85\u0BAE\u0BC8\u0BAA\u0BCD\u0BAA\u0BC1\u0B95\u0BB3\u0BCD"
+  - title: Search
+    localizedPhrase: "\u0BA4\u0BC7\u0B9F\u0BC1"
+  - title: Let's get started!
+    localizedPhrase: "\u0BA4\u0BCA\u0B9F\u0B99\u0BCD\u0B95\u0BC1\u0BB5\u0BCB\u0BAE!"
+  - title: Welcome Back!
+    localizedPhrase: "\u0BAE\u0BC0\u0BA3\u0BCD\u0B9F\u0BC1\u0BAE\u0BCD \u0BB5\u0BB0\u0BC1\u0B95!"
+  - title: Hello,
+    localizedPhrase: "\u0BB5\u0BA3\u0B95\u0BCD\u0B95\u0BAE\u0BCD,"
+  - title: Enjoy premium with
+    localizedPhrase: "\u0BB5\u0BC6\u0B95\u0BC1\u0BAE\u0BA4\u0BBF\u0BAF\u0BC1\u0B9F\u0BA9\u0BCD
+      \u0B85\u0BA9\u0BC1\u0BAA\u0BB5\u0BBF\u0BAF\u0BC1\u0B99\u0BCD\u0B95\u0BB3\u0BCD"
+  - title: My Students
+    localizedPhrase: "\u0B8E\u0BA9\u0BCD\u0BA9\u0BC1\u0B9F\u0BC8\u0BAF \u0BAE\u0BBE\u0BA3\u0BB5\u0BB0\u0BCD\u0B95\u0BB3\u0BCD\_"
+  - title: My Lessons
+    localizedPhrase: "\u0B8E\u0BA9\u0BCD\u0BA9\u0BC1\u0B9F\u0BC8\u0BAF \u0BAA\u0BBE\u0B9F\u0BAE\u0BCD"
+  - title: My Teachers
+    localizedPhrase: "\u0B8E\u0BA9\u0BCD\u0BA9\u0BC1\u0B9F\u0BC8\u0BAF \u0B86\u0B9A\u0BBF\u0BB0\u0BBF\u0BAF\u0BB0\u0BCD\u0B95\u0BB3\u0BCD\_"
+  - title: Just A moment
+    localizedPhrase: "\u0B92\u0BB0\u0BC1 \u0B95\u0BA3\u0BAE\u0BCD"
+  - title: Hello There!
+    localizedPhrase: "\u0BB5\u0BA3\u0B95\u0BCD\u0B95\u0BAE\u0BCD"
+  - title: Just A moment!
+    localizedPhrase: "\u0B92\u0BB0\u0BC1 \u0B95\u0BA3\u0BAE\u0BCD"
+  - title: Please wait while we load your AR experience
+    localizedPhrase: "\u0B89\u0B99\u0BCD\u0B95\u0BB3\u0BCD \u0B8F\u0B86\u0BB0\u0BCD
+      \u0B85\u0BA9\u0BC1\u0BAA\u0BB5\u0BA4\u0BCD\u0BA4\u0BC8 \u0BA8\u0BBE\u0B99\u0BCD\u0B95\u0BB3\u0BCD
+      \u0B8F\u0BB1\u0BCD\u0BB1\u0BC1\u0BAE\u0BCD\u0BAA\u0BCB\u0BA4\u0BC1 \u0B95\u0BBE\u0BA4\u0BCD\u0BA4\u0BBF\u0BB0\u0BC1\u0B95\u0BCD\u0B95\u0BB5\u0BC1\u0BAE\u0BCD"
+  - title: Filter
+    localizedPhrase: "\u0BB5\u0B9F\u0BBF\u0B95\u0B9F\u0BCD\u0B9F\u0BC1"
+  - title: Select your Country
+    localizedPhrase: "\u0B89\u0B99\u0BCD\u0B95\u0BB3\u0BCD \u0BA8\u0BBE\u0B9F\u0BCD\u0B9F\u0BBF\u0BA9\u0BC8
+      \u0BA4\u0BC6\u0BB0\u0BBF\u0B95"
+  - title: Select your Language
+    localizedPhrase: "\u0B89\u0B99\u0BCD\u0B95\u0BB3\u0BCD \u0BAE\u0BCA\u0BB4\u0BBF\u0BAF\u0BC8
+      \u0BA4\u0BC6\u0BB0\u0BBF\u0B95"
+  - title: Error!
+    localizedPhrase: "\u0BAA\u0BBF\u0BB4\u0BC8!"
+  - title: Warning!
+    localizedPhrase: "\u0B8E\u0B9A\u0BCD\u0B9A\u0BB0\u0BBF\u0B95\u0BCD\u0B95\u0BC8!"
+  - title: Success!
+    localizedPhrase: "\u0BB5\u0BC6\u0BB1\u0BCD\u0BB1\u0BBF!"
+  - title: Your password is updated
+    localizedPhrase: "\u0B89\u0B99\u0BCD\u0B95\u0BB3\u0BCD \u0B95\u0B9F\u0BB5\u0BC1\u0B9A\u0BCD\u0B9A\u0BCA\u0BB2\u0BCD
+      \u0BAA\u0BC1\u0BA4\u0BC1\u0BAA\u0BCD\u0BAA\u0BBF\u0B95\u0BCD\u0B95\u0BAA\u0BCD\u0BAA\u0B9F\u0BCD\u0B9F\u0BA4\u0BC1"
+  bodyTexts:
+  - title: '"Voice over up to 50 experiences. Share with unlimited number of students.
+      Assess yourself with mini games. Add unlimited number of students. Over 400
+      educational experiences. "'
+    localizedPhrase: "50\_\u0B85\u0BA9\u0BC1\u0BAA\u0BB5\u0B99\u0BCD\u0B95\u0BB3\u0BCD
+      \u0BB5\u0BB0\u0BC8 \u0B95\u0BC1\u0BB0\u0BB2\u0BCD \u0B95\u0BCA\u0B9F\u0BC1\u0B99\u0BCD\u0B95\u0BB3\u0BCD.
+      \u0BB5\u0BB0\u0BAE\u0BCD\u0BAA\u0BB1\u0BCD\u0BB1 \u0BAE\u0BBE\u0BA3\u0BB5\u0BB0\u0BCD\u0B95\u0BB3\u0BC1\u0B9F\u0BA9\u0BCD
+      \u0BAA\u0B95\u0BBF\u0BB0\u0BB5\u0BC1\u0BAE\u0BCD.\_\u0BAE\u0BBF\u0BA9\u0BBF
+      \u0B95\u0BC7\u0BAE\u0BCD\u0B95\u0BB3\u0BC1\u0B9F\u0BA9\u0BCD \u0B89\u0B99\u0BCD\u0B95\u0BB3\u0BC8
+      \u0BAE\u0BA4\u0BBF\u0BAA\u0BCD\u0BAA\u0BBF\u0B9F\u0BC1\u0B99\u0BCD\u0B95\u0BB3\u0BCD.\_\u0BB5\u0BB0\u0BAE\u0BCD\u0BAA\u0BB1\u0BCD\u0BB1
+      \u0BAE\u0BBE\u0BA3\u0BB5\u0BB0\u0BCD\u0B95\u0BB3\u0BC8\u0B9A\u0BCD \u0B9A\u0BC7\u0BB0\u0BCD\u0B95\u0BCD\u0B95\u0BB5\u0BC1\u0BAE\u0BCD.
+      400\_\u0B95\u0BCD\u0B95\u0BC1\u0BAE\u0BCD \u0BAE\u0BC7\u0BB1\u0BCD\u0BAA\u0B9F\u0BCD\u0B9F
+      \u0B95\u0BB2\u0BCD\u0BB5\u0BBF \u0B85\u0BA9\u0BC1\u0BAA\u0BB5\u0B99\u0BCD\u0B95\u0BB3\u0BCD."
+  - title: '"Enjoy all premium experiences: Share audio lessons with 20 students:Voice
+      up to 10 experiences "'
+    localizedPhrase: "\u0B85\u0BA9\u0BC8\u0BA4\u0BCD\u0BA4\u0BC1 \u0BAA\u0BBF\u0BB0\u0BC0\u0BAE\u0BBF\u0BAF\u0BAE\u0BCD
+      \u0B85\u0BA9\u0BC1\u0BAA\u0BB5\u0B99\u0BCD\u0B95\u0BB3\u0BC8\u0BAF\u0BC1\u0BAE\u0BCD
+      \u0B85\u0BA9\u0BC1\u0BAA\u0BB5\u0BBF\u0B95\u0BCD\u0B95\u0BB5\u0BC1\u0BAE\u0BCD:\_\u0B86\u0B9F\u0BBF\u0BAF\u0BCB
+      \u0BAA\u0BBE\u0B9F\u0B99\u0BCD\u0B95\u0BB3\u0BC8 \u0BAE\u0BBE\u0BA3\u0BB5\u0BB0\u0BCD\u0B95\u0BB3\u0BC1\u0B9F\u0BA9\u0BCD
+      \u0BAA\u0B95\u0BBF\u0BB0\u0BCD\u0BA8\u0BCD\u0BA4\u0BC1 \u0B95\u0BCA\u0BB3\u0BCD\u0BB3\u0BC1\u0B99\u0BCD\u0B95\u0BB3\u0BCD:
+      50\_\u0B85\u0BA9\u0BC1\u0BAA\u0BB5\u0B99\u0BCD\u0B95\u0BB3\u0BCD \u0BB5\u0BB0\u0BC8
+      \u0B95\u0BC1\u0BB0\u0BB2\u0BCD \u0B95\u0BCA\u0B9F\u0BC1\u0B99\u0BCD\u0B95\u0BB3\u0BCD"
+  - title: '"Enjoy all premium experiences: Connect with teachers: Access lessons
+      "'
+    localizedPhrase: "\u0B85\u0BA9\u0BC8\u0BA4\u0BCD\u0BA4\u0BC1 \u0BAA\u0BBF\u0BB0\u0BC0\u0BAE\u0BBF\u0BAF\u0BAE\u0BCD
+      \u0B85\u0BA9\u0BC1\u0BAA\u0BB5\u0B99\u0BCD\u0B95\u0BB3\u0BC8\u0BAF\u0BC1\u0BAE\u0BCD
+      \u0B85\u0BA9\u0BC1\u0BAA\u0BB5\u0BBF\u0B95\u0BCD\u0B95\u0BB5\u0BC1\u0BAE\u0BCD:\_\u0B86\u0B9A\u0BBF\u0BB0\u0BBF\u0BAF\u0BB0\u0BCD\u0B95\u0BB3\u0BC1\u0B9F\u0BA9\u0BCD
+      \u0B87\u0BA3\u0BC8\u0B95\u0BCD\u0B95\u0BB5\u0BC1\u0BAE\u0BCD:\_\u0BAA\u0BBE\u0B9F\u0B99\u0BCD\u0B95\u0BB3\u0BC8
+      \u0B85\u0BA3\u0BC1\u0B95\u0BB5\u0BC1\u0BAE\u0BCD"
+  - title: Not Assigned
+    localizedPhrase: "\u0BA8\u0BBF\u0BAF\u0BAE\u0BBF\u0B95\u0BCD\u0B95\u0BAA\u0BCD\u0BAA\u0B9F\u0BB5\u0BBF\u0BB2\u0BCD\u0BB2\u0BC8"
+  - title: Not Playing
+    localizedPhrase: "\u0BB5\u0BBF\u0BB3\u0BC8\u0BAF\u0BBE\u0B9F\u0BC1\u0BB5\u0BA4\u0BBF\u0BB2\u0BCD\u0BB2\u0BC8"
+  - title: You can share your voice-over with your closed network of students or publicly
+      to all users of Hologo.
+    localizedPhrase: "\u0B89\u0B99\u0BCD\u0B95\u0BB3\u0BCD \u0BAE\u0BC2\u0B9F\u0BBF\u0BAF
+      \u0BAE\u0BBE\u0BA3\u0BB5\u0BB0\u0BCD\u0B95\u0BB3\u0BBF\u0BA9\u0BCD \u0BB5\u0BB2\u0BC8\u0BAA\u0BCD\u0BAA\u0BBF\u0BA9\u0BCD\u0BA9\u0BB2\u0BC1\u0B9F\u0BA9\u0BCD
+      \u0B85\u0BB2\u0BCD\u0BB2\u0BA4\u0BC1 \u0BB9\u0BCB\u0BB2\u0BCB\u0B95\u0BCB\u0BB5\u0BBF\u0BA9\u0BCD
+      \u0B85\u0BA9\u0BC8\u0BA4\u0BCD\u0BA4\u0BC1 \u0BAA\u0BAF\u0BA9\u0BB0\u0BCD\u0B95\u0BB3\u0BC1\u0B95\u0BCD\u0B95\u0BC1\u0BAE\u0BCD
+      \u0BAA\u0B95\u0BBF\u0BB0\u0B99\u0BCD\u0B95\u0BAE\u0BBE\u0B95 \u0B89\u0B99\u0BCD\u0B95\u0BB3\u0BCD
+      \u0B95\u0BC1\u0BB0\u0BB2\u0BC8\u0BAA\u0BCD \u0BAA\u0B95\u0BBF\u0BB0\u0BB2\u0BBE\u0BAE\u0BCD"
+  - title: You haven't downloaded any experiences yet.
+    localizedPhrase: "\u0BA8\u0BC0\u0B99\u0BCD\u0B95\u0BB3\u0BCD \u0B87\u0BA4\u0BC1\u0BB5\u0BB0\u0BC8
+      \u0B8E\u0BA8\u0BCD\u0BA4 \u0B85\u0BA9\u0BC1\u0BAA\u0BB5\u0BA4\u0BCD\u0BA4\u0BC8\u0BAF\u0BC1\u0BAE\u0BCD
+      \u0BAA\u0BA4\u0BBF\u0BB5\u0BBF\u0BB1\u0B95\u0BCD\u0B95\u0BAE\u0BCD \u0B9A\u0BC6\u0BAF\u0BCD\u0BAF\u0BB5\u0BBF\u0BB2\u0BCD\u0BB2\u0BC8\_"
+  - title: MB
+    localizedPhrase: "\u0B8E\u0BAE\u0BCD\u0BAA\u0BC0"
+  - title: You don't have any teachers yet.
+    localizedPhrase: "\u0B89\u0B99\u0BCD\u0B95\u0BB3\u0BBF\u0B9F\u0BAE\u0BCD \u0B87\u0BA4\u0BC1\u0BB5\u0BB0\u0BC8
+      \u0B8E\u0BA8\u0BCD\u0BA4 \u0B86\u0B9A\u0BBF\u0BB0\u0BBF\u0BAF\u0BB0\u0BCD\u0B95\u0BB3\u0BC1\u0BAE\u0BCD
+      \u0B87\u0BB2\u0BCD\u0BB2\u0BC8"
+  - title: Would you like to get notified when we add new experiences, features and
+      updates?
+    localizedPhrase: "\u0BAA\u0BC1\u0BA4\u0BBF\u0BAF \u0B85\u0BA9\u0BC1\u0BAA\u0BB5\u0B99\u0BCD\u0B95\u0BB3\u0BCD>
+      \u0B85\u0BAE\u0BCD\u0B9A\u0B99\u0BCD\u0B95\u0BB3\u0BCD \u0BAE\u0BB1\u0BCD\u0BB1\u0BC1\u0BAE\u0BCD
+      \u0BAA\u0BC1\u0BA4\u0BC1\u0BAA\u0BCD\u0BAA\u0BBF\u0BAA\u0BCD\u0BAA\u0BC1\u0B95\u0BB3\u0BC8
+      \u0BA8\u0BBE\u0B99\u0BCD\u0B95\u0BB3\u0BCD \u0B9A\u0BC7\u0BB0\u0BCD\u0B95\u0BCD\u0B95\u0BC1\u0BAE\u0BCD\u0BAA\u0BCB\u0BA4\u0BC1
+      \u0B85\u0BB1\u0BBF\u0BB5\u0BBF\u0BAA\u0BCD\u0BAA\u0BC8\u0BAA\u0BCD \u0BAA\u0BC6\u0BB1
+      \u0BB5\u0BBF\u0BB0\u0BC1\u0BAE\u0BCD\u0BAA\u0BC1\u0B95\u0BBF\u0BB1\u0BC0\u0BB0\u0BCD\u0B95\u0BB3\u0BBE?"
+  - title: Give us a minute to set up Hologo World for the very first time! it's going
+      to be amazing, we promise!
+    localizedPhrase: "\u0BAE\u0BC1\u0BA4\u0BA9\u0BCD \u0BAE\u0BC1\u0BB1\u0BC8\u0BAF\u0BBE\u0B95
+      \u0BB9\u0BCB\u0BB2\u0BCB\u0B95\u0BCB \u0B89\u0BB2\u0B95\u0BA4\u0BCD\u0BA4\u0BC8
+      \u0B85\u0BAE\u0BC8\u0B95\u0BCD\u0B95 \u0B8E\u0B99\u0BCD\u0B95\u0BB3\u0BC1\u0B95\u0BCD\u0B95\u0BC1
+      \u0B92\u0BB0\u0BC1\u0BA8\u0BBF\u0BAE\u0BBF\u0B9F\u0BAE\u0BCD \u0B95\u0BCA\u0B9F\u0BC1\u0B99\u0BCD\u0B95\u0BB3\u0BCD!\_\u0B87\u0BA4\u0BC1
+      \u0B86\u0B9A\u0BCD\u0B9A\u0BB0\u0BBF\u0BAF\u0BAE\u0BBE\u0B95 \u0B87\u0BB0\u0BC1\u0B95\u0BCD\u0B95\u0BC1\u0BAE\u0BCD>
+      \u0BA8\u0BBE\u0B99\u0BCD\u0B95\u0BB3\u0BCD \u0B89\u0BB1\u0BC1\u0BA4\u0BBF\u0BAF\u0BB3\u0BBF\u0B95\u0BCD\u0B95\u0BBF\u0BB1\u0BCB\u0BAE\u0BCD!"
+  - title: Please login to see this content, record lessons and to have fun with mini
+      games
+    localizedPhrase: "\u0B87\u0BA8\u0BCD\u0BA4 \u0B89\u0BB3\u0BCD\u0BB3\u0B9F\u0B95\u0BCD\u0B95\u0BA4\u0BCD\u0BA4\u0BC8\u0BAA\u0BCD
+      \u0BAA\u0BBE\u0BB0\u0BCD\u0B95\u0BCD\u0B95\u0BB5\u0BC1\u0BAE\u0BCD>\_\u0BAA\u0BBE\u0B9F\u0B99\u0BCD\u0B95\u0BB3\u0BC8\u0BAA\u0BCD
+      \u0BAA\u0BA4\u0BBF\u0BB5\u0BC1\u0B9A\u0BC6\u0BAF\u0BCD\u0BAF\u0BB5\u0BC1\u0BAE\u0BCD>\_\u0BAE\u0BBF\u0BA9\u0BBF
+      \u0B95\u0BC7\u0BAE\u0BCD\u0B95\u0BB3\u0BBF\u0BB2\u0BCD \u0BB5\u0BC7\u0B9F\u0BBF\u0B95\u0BCD\u0B95\u0BC8\u0BAA\u0BBE\u0BB0\u0BCD\u0B95\u0BCD\u0B95\u0BB5\u0BC1\u0BAE\u0BCD
+      \u0BA4\u0BAF\u0BB5\u0BC1\u0B9A\u0BC6\u0BAF\u0BCD\u0BA4\u0BC1 \u0B89\u0BB3\u0BCD\u0BA8\u0BC1\u0BB4\u0BC8\u0B95"
+  - title: A new password has been sent to your email
+    localizedPhrase: "\u0B89\u0B99\u0BCD\u0B95\u0BB3\u0BCD \u0BAE\u0BBF\u0BA9\u0BCD\u0BA9\u0B9E\u0BCD\u0B9A\u0BB2\u0BC1\u0B95\u0BCD\u0B95\u0BC1
+      \u0BAA\u0BC1\u0BA4\u0BBF\u0BAF \u0B95\u0B9F\u0BB5\u0BC1\u0B9A\u0BCD\u0B9A\u0BCA\u0BB2\u0BCD
+      \u0B85\u0BA9\u0BC1\u0BAA\u0BCD\u0BAA\u0BAA\u0BCD\u0BAA\u0B9F\u0BCD\u0B9F\u0BC1\u0BB3\u0BCD\u0BB3\u0BA4\u0BC1"
+  - title: You don't have any students yet.
+    localizedPhrase: "\u0B89\u0B99\u0BCD\u0B95\u0BB3\u0BBF\u0B9F\u0BAE\u0BCD \u0B87\u0BA9\u0BCD\u0BA9\u0BC1\u0BAE\u0BCD
+      \u0BAE\u0BBE\u0BA3\u0BB5\u0BB0\u0BCD\u0B95\u0BB3\u0BCD \u0B87\u0BB2\u0BCD\u0BB2\u0BC8.\uFEFF"
+  - title: You haven't recorded any lessons yet!
+    localizedPhrase: "\u0BA8\u0BC0\u0B99\u0BCD\u0B95\u0BB3\u0BCD \u0B87\u0BA4\u0BC1\u0BB5\u0BB0\u0BC8
+      \u0B8E\u0BA8\u0BCD\u0BA4 \u0BAA\u0BBE\u0B9F\u0B99\u0BCD\u0B95\u0BB3\u0BC8\u0BAF\u0BC1\u0BAE\u0BCD
+      \u0BAA\u0BA4\u0BBF\u0BB5\u0BC1 \u0B9A\u0BC6\u0BAF\u0BCD\u0BAF\u0BB5\u0BBF\u0BB2\u0BCD\u0BB2\u0BC8!\uFEFF"

@@ -1,0 +1,1279 @@
+fileFormatVersion: 2
+guid: 314a000ca2cd6144d849c96ff3ce3801
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8042255402281294235
+    second: HiScore_SpriteSheet_0
+  - first:
+      213: -3424571516227834586
+    second: HiScore_SpriteSheet_1
+  - first:
+      213: 8011049082454462636
+    second: HiScore_SpriteSheet_2
+  - first:
+      213: 1993843324714405151
+    second: HiScore_SpriteSheet_3
+  - first:
+      213: -8903041397624113061
+    second: HiScore_SpriteSheet_4
+  - first:
+      213: -5518682904574063205
+    second: HiScore_SpriteSheet_5
+  - first:
+      213: 1532657392500561165
+    second: HiScore_SpriteSheet_6
+  - first:
+      213: 4850367545243686799
+    second: HiScore_SpriteSheet_7
+  - first:
+      213: 6945048327796285250
+    second: HiScore_SpriteSheet_8
+  - first:
+      213: 5503021248654874055
+    second: HiScore_SpriteSheet_9
+  - first:
+      213: -3965502961986884843
+    second: HiScore_SpriteSheet_10
+  - first:
+      213: -3401467954581811285
+    second: HiScore_SpriteSheet_11
+  - first:
+      213: -6197089984315094072
+    second: HiScore_SpriteSheet_12
+  - first:
+      213: 3813538160799288755
+    second: HiScore_SpriteSheet_13
+  - first:
+      213: -9144591368604541600
+    second: HiScore_SpriteSheet_14
+  - first:
+      213: -1400381610829349417
+    second: HiScore_SpriteSheet_15
+  - first:
+      213: -967899895814063035
+    second: HiScore_SpriteSheet_16
+  - first:
+      213: 1922690546405623392
+    second: HiScore_SpriteSheet_17
+  - first:
+      213: 6944253198929082131
+    second: HiScore_SpriteSheet_18
+  - first:
+      213: 7560846112020220203
+    second: HiScore_SpriteSheet_19
+  - first:
+      213: 461295435246041657
+    second: HiScore_SpriteSheet_20
+  - first:
+      213: 8340906108140772355
+    second: HiScore_SpriteSheet_21
+  - first:
+      213: 5508112969163233432
+    second: HiScore_SpriteSheet_22
+  - first:
+      213: -2705802894818086117
+    second: HiScore_SpriteSheet_23
+  - first:
+      213: 5577963154933979786
+    second: HiScore_SpriteSheet_24
+  - first:
+      213: 5386560454141531172
+    second: HiScore_SpriteSheet_25
+  - first:
+      213: -5562278971706622688
+    second: HiScore_SpriteSheet_26
+  - first:
+      213: -3413930256369509705
+    second: HiScore_SpriteSheet_27
+  - first:
+      213: 8545294069122324466
+    second: HiScore_SpriteSheet_28
+  - first:
+      213: -5822442534043719529
+    second: HiScore_SpriteSheet_29
+  - first:
+      213: -7089786603467030270
+    second: HiScore_SpriteSheet_30
+  - first:
+      213: 9039142766420150300
+    second: HiScore_SpriteSheet_31
+  - first:
+      213: -8783969140240873380
+    second: HiScore_SpriteSheet_32
+  - first:
+      213: -7820107110975646996
+    second: HiScore_SpriteSheet_33
+  - first:
+      213: -5623567785289600171
+    second: HiScore_SpriteSheet_34
+  - first:
+      213: 5433407126380126449
+    second: HiScore_SpriteSheet_35
+  - first:
+      213: 1926972828561357869
+    second: HiScore_SpriteSheet_36
+  - first:
+      213: 6509926830251419742
+    second: HiScore_SpriteSheet_37
+  - first:
+      213: 2943384380801957537
+    second: HiScore_SpriteSheet_38
+  - first:
+      213: 3655324088932113271
+    second: HiScore_SpriteSheet_39
+  - first:
+      213: 8046315793393206026
+    second: HiScore_SpriteSheet_40
+  - first:
+      213: -6288843537677699254
+    second: HiScore_SpriteSheet_41
+  - first:
+      213: -4218227030749246535
+    second: HiScore_SpriteSheet_42
+  - first:
+      213: 3253472542026062521
+    second: HiScore_SpriteSheet_43
+  - first:
+      213: -426813336378103825
+    second: HiScore_SpriteSheet_44
+  - first:
+      213: -3371636966752379647
+    second: HiScore_SpriteSheet_45
+  - first:
+      213: 8353018472921526569
+    second: HiScore_SpriteSheet_46
+  - first:
+      213: -4105386827883059464
+    second: HiScore_SpriteSheet_47
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HiScore_SpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1755.4286
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13831dd78d040194fa11a5e433395f4a
+      internalID: 8042255402281294235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HiScore_SpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1755.4286
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df30cb7fc415154439c128809f3fab90
+      internalID: -3424571516227834586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HiScore_SpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1755.4286
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70cb7eec079518e4d8eaef9ecabd6fb2
+      internalID: 8011049082454462636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HiScore_SpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 1755.4286
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf1cdba64f08484dbb06ba99aa2f313
+      internalID: 1993843324714405151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HiScore_SpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 1755.4286
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 556c00591127ca0468a9deed3ccb4c8a
+      internalID: -8903041397624113061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HiScore_SpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 1755.4286
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc4f81019945014c86608bc6eaf6eb5
+      internalID: -5518682904574063205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HiScore_SpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 1755.4286
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb6a0c04c74bfc429e7680fa9bc37e6
+      internalID: 1532657392500561165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HiScore_SpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1463.4286
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48677401a994188458b1f7a75cf5f59d
+      internalID: 4850367545243686799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HiScore_SpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1463.4286
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e909e0f5cd9b048915f052ba8234c3
+      internalID: 6945048327796285250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HiScore_SpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1463.4286
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe87639b7e4ca148b5ee6d68187b825
+      internalID: 5503021248654874055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HiScore_SpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 1463.4286
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a59ab4a427c6ce341a7ace02ad8e1916
+      internalID: -3965502961986884843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HiScore_SpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 1463.4286
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5410e9869eeb2645ac807674e279aeb
+      internalID: -3401467954581811285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HiScore_SpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 1463.4286
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c594850342423f7419d05b2afeab3f4d
+      internalID: -6197089984315094072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HiScore_SpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 1463.4286
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27468ea2d9f552049af76becaa32cbdf
+      internalID: 3813538160799288755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HiScore_SpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1171.4286
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 002b077325c96d2429ef661190b7385e
+      internalID: -9144591368604541600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HiScore_SpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1171.4286
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f02d01fa6aab5459d66888a913a9ca
+      internalID: -1400381610829349417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HiScore_SpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1171.4286
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 142e6d6960af4414faf3192f09a6e7b7
+      internalID: -967899895814063035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HiScore_SpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 1171.4286
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b65baac152b5745bcaaab118db24f9
+      internalID: 1922690546405623392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HiScore_SpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 1171.4286
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf6daba472991b46a98fa979ea76fab
+      internalID: 6944253198929082131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HiScore_SpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 1171.4286
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a05ab845b0041d642bbe082279217abe
+      internalID: 7560846112020220203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HiScore_SpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 1171.4286
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 838e34542d84ef8449ca7f9baaffa8a1
+      internalID: 461295435246041657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HiScore_SpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 879.4286
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07cda975f5041d745b276da628b15d9a
+      internalID: 8340906108140772355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HiScore_SpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 879.4286
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bfbf1a98c1e23b44818db9d7c79743d
+      internalID: 5508112969163233432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HiScore_SpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 879.4286
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19602c2de0551754890ceee96b539e85
+      internalID: -2705802894818086117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HiScore_SpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 879.4286
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab8c3333badd89f49b7c6f26df1c25f3
+      internalID: 5577963154933979786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HiScore_SpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 879.4286
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7361cabc2b6f947988e140b44e8781
+      internalID: 5386560454141531172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HiScore_SpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 879.4286
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 658c3c3cd6395754b8bf8860250fc268
+      internalID: -5562278971706622688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HiScore_SpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 879.4286
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 915845e63eea2eb469cbbb048f919ae5
+      internalID: -3413930256369509705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HiScore_SpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 587.4286
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8748661e70245604fb9d020b21c4e510
+      internalID: 8545294069122324466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HiScore_SpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 587.4286
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a15a48408de23ee439f0b5926e34a1e2
+      internalID: -5822442534043719529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HiScore_SpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 587.4286
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50790a6291a30d148a059279d4099c0a
+      internalID: -7089786603467030270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HiScore_SpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 587.4286
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 226916ebf66401b4e9496c34ea8bebdb
+      internalID: 9039142766420150300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HiScore_SpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 587.4286
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff707da663c6f74992632fa635fe844
+      internalID: -8783969140240873380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HiScore_SpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 587.4286
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb247dd0d32bd5e4aaf66685681b5727
+      internalID: -7820107110975646996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HiScore_SpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 587.4286
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c6fede70471014885fcdb80527210b
+      internalID: -5623567785289600171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HiScore_SpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 295.42856
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a673215242de4744998a021b82c9f173
+      internalID: 5433407126380126449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HiScore_SpriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 295.42856
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b57e70d800c523147a047b3ef1c4be03
+      internalID: 1926972828561357869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HiScore_SpriteSheet_37
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 295.42856
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e482d913a37c99c44b3e775ae84a6e68
+      internalID: 6509926830251419742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HiScore_SpriteSheet_38
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 295.42856
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c31d6220a6833147afb3a33c3cd238e
+      internalID: 2943384380801957537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HiScore_SpriteSheet_39
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 295.42856
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6105cb37b1f6aa24a9d0c071db00b77d
+      internalID: 3655324088932113271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HiScore_SpriteSheet_40
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 295.42856
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb0f8d8f648e3504badbff458910e21b
+      internalID: 8046315793393206026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HiScore_SpriteSheet_41
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 295.42856
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c71e5b279a41404ba903da7f6e338d2
+      internalID: -6288843537677699254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HiScore_SpriteSheet_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3.4285583
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e006f6926dd03a940a3cf3687cdfad29
+      internalID: -4218227030749246535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HiScore_SpriteSheet_43
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 3.4285583
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf2e2a73d401ad4683f623fb63cfb3a
+      internalID: 3253472542026062521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HiScore_SpriteSheet_44
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 3.4285583
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6638d7bb6ca15c498822d24c4ea75c4
+      internalID: -426813336378103825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HiScore_SpriteSheet_45
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 3.4285583
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13635b60d4bec3843932676d9d723dbb
+      internalID: -3371636966752379647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HiScore_SpriteSheet_46
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 3.4285583
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99058b0545144f647a56d8300f6bd817
+      internalID: 8353018472921526569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HiScore_SpriteSheet_47
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 3.4285583
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93143e65b8d854344a3d5ee3c32ff55d
+      internalID: -4105386827883059464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: af461cc11711a5b4b96d6810859c7ae8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

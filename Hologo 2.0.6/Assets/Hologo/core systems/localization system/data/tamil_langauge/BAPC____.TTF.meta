@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: e9ab9cb8cc3c84d1b803fa4a83a37281
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Bamini
+  fontNames:
+  - Bamini
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: languages-22-feb-2020.hdlc
+  assetBundleVariant: 

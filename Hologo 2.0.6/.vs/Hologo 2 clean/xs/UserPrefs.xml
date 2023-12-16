@@ -1,0 +1,85 @@
+﻿<Properties StartupConfiguration="{9ABE7672-319C-A522-1516-D707C00DB5DB}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Hologo/core systems/payment system/paymentManager.cs">
+    <Files>
+      <File FileName="Assets/Hologo/core systems/common/scriptable objects/dataReset_SO.cs" Line="11" Column="30" />
+      <File FileName="Assets/Hologo/core systems/payment system/paymentManager.cs" Line="366" Column="48" />
+      <File FileName="Assets/Hologo/ui/common ui/scripts/bottomBarNavigation.cs" Line="89" Column="42" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Hologo 2 clean" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Addons" expanded="True">
+                <Node name="Pocket Portal VR" expanded="True" />
+              </Node>
+              <Node name="Hologo" expanded="True">
+                <Node name="core systems" expanded="True">
+                  <Node name="app Manager system" expanded="True">
+                    <Node name="scriptable objects" expanded="True" />
+                  </Node>
+                  <Node name="ar system" expanded="True">
+                    <Node name="mono behaviors" expanded="True" />
+                  </Node>
+                  <Node name="asset bundle system" expanded="True">
+                    <Node name="scriptable objects" expanded="True" />
+                  </Node>
+                  <Node name="common" expanded="True">
+                    <Node name="editor" expanded="True" />
+                    <Node name="scriptable objects" expanded="True" />
+                  </Node>
+                  <Node name="experience system" expanded="True">
+                    <Node name="editor" expanded="True" />
+                    <Node name="mono behaviors" expanded="True" />
+                  </Node>
+                  <Node name="lessons system" expanded="True">
+                    <Node name="scriptable objects" expanded="True" />
+                  </Node>
+                  <Node name="library system" expanded="True">
+                    <Node name="mono behaviors" expanded="True" />
+                    <Node name="scriptable objects" expanded="True" />
+                  </Node>
+                  <Node name="localization system" expanded="True">
+                    <Node name="mono behaviors" expanded="True" />
+                  </Node>
+                  <Node name="payment system" expanded="True">
+                    <Node name="paymentManager.cs" selected="True" />
+                  </Node>
+                  <Node name="quiz system" expanded="True">
+                    <Node name="mono behaviors" expanded="True" />
+                    <Node name="scriptable objects" expanded="True" />
+                  </Node>
+                </Node>
+                <Node name="ui" expanded="True">
+                  <Node name="common ui" expanded="True">
+                    <Node name="scripts" expanded="True" />
+                  </Node>
+                  <Node name="experience ui" expanded="True">
+                    <Node name="scripts" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="Plugins" expanded="True">
+                <Node name="AsyncAwaitUtil" expanded="True">
+                  <Node name="Tests" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="test" expanded="True">
+                <Node name="label" expanded="True">
+                  <Node name="Scripts" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="d86f8f8d-f444-4f8c-85af-b0bbc9b89dc9" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

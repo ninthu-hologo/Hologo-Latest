@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 3695057676
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: df460d78a5dfee1019c013e42fd4a103
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c4eed7af2833c99bcc90c34f96e37a5d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 34fc569012251441a8fdc196d69ae63b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4ccb18adea0dc6643b269784469abc15, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/experience_asset_bundling/portal_template/Monp.jpg
+- Assets/experience_asset_bundling/portal_template/sky_portal_2.prefab
+- Assets/experience_asset_bundling/portal_template/portal_template.asset
+- Assets/experience_asset_bundling/portal_template/sky_material.mat
+- Assets/experience_asset_bundling/portal_template/sphere.FBX
+Dependencies: []

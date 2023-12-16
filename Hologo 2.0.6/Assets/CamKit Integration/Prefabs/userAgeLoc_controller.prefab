@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1483063036151232579
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1952445423902365032}
+  - component: {fileID: 901023793172441582}
+  - component: {fileID: -763832672704962721}
+  m_Layer: 0
+  m_Name: userAgeLoc_controller
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1952445423902365032
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1483063036151232579}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 15.000244, y: 1208.9996, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &901023793172441582
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1483063036151232579}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72848d92e10d49d419f9631eaef1677b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  promptPanel: {fileID: 5780822148693657919, guid: f20a441a1332b9246a3cdf6950f5b0c3,
+    type: 3}
+  agePanel: {fileID: 8010679666649208110, guid: 3f0fe018978a1e04d9c5dc115a41f472,
+    type: 3}
+  guardianPanel: {fileID: 0}
+  countryPanel: {fileID: 0}
+  statePanel: {fileID: 0}
+  failurePanel: {fileID: 0}
+  countryDropdown: {fileID: 0}
+--- !u!114 &-763832672704962721
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1483063036151232579}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 93be3e4155a5b304db0b80ee0f593772, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  userAgeInfoCanvas: {fileID: 1618956613066547829, guid: 945a5c8b7f46c8141be8b27cca03f1b5,
+    type: 3}

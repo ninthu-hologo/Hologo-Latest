@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 58d1405f3809447be8fe3b056c5bb364, type: 3}
+  m_Name: dataResetter
+  m_EditorClassIdentifier: 
+  mainSettings: {fileID: 11400000, guid: 569d036c5b2921846ba1094956a14b72, type: 2}
+  userData: {fileID: 11400000, guid: e31c131308af84b1ba1808e4b9ae91bb, type: 2}
+  library: {fileID: 11400000, guid: 64d03b88467044609ab8462766e7373f, type: 2}
+  categories: {fileID: 11400000, guid: 1ceb8667f00a4584a9641181c9ebab72, type: 2}
+  subscriptionsData: {fileID: 11400000, guid: fbc6163d0998b432bba1a919e98c53fe, type: 2}
+  assetBundleData: {fileID: 11400000, guid: 4568e1bf6452b424ebda082b7d365abb, type: 2}
+  language: {fileID: 11400000, guid: 6a48f58bd9ece854281aa982e100814f, type: 2}
+  localizationList: {fileID: 11400000, guid: e60fea1ccb718ce43a1799eb0c2eec22, type: 2}
+  quizScores: {fileID: 11400000, guid: a39ad572a6b5e9141b0704b271efea1b, type: 2}
+  recordedLessons: {fileID: 11400000, guid: bc5f9212db6c55b449bccc2fc692619c, type: 2}
+  studentLessons: {fileID: 11400000, guid: d929cd3c871e88f4fb4e83b9e96dfb61, type: 2}

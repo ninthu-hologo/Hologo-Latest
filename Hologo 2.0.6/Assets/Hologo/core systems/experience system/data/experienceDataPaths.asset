@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6be5f784849d3da41a7ed5c3c576d873, type: 3}
+  m_Name: experienceDataPaths
+  m_EditorClassIdentifier: 
+  fileNames: []
+  folderNames:
+  - title: cache folder
+    pathOrName: abc
+    AutoDomain: 0
+  urls:
+  - title: assetbundle get url part 1
+    pathOrName: /my/attachables/download_experience/
+    AutoDomain: 1
+  - title: assetbundle get url part 2
+    pathOrName: ?platform=
+    AutoDomain: 0
+  - title: local assetbundle get url part 1
+    pathOrName: /my/attachables/download_experience_local/
+    AutoDomain: 1

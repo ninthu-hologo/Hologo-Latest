@@ -1,0 +1,407 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84a92b25f83d49b9bc132d206b370281, type: 3}
+  m_Name: ios_icons_orange
+  m_EditorClassIdentifier: 
+  hashCode: 2130027357
+  material: {fileID: 21462144199132346}
+  materialHashCode: 0
+  m_Version: 1.1.0
+  spriteSheet: {fileID: 2800000, guid: 1bee3e17fef9a4925aeb3d570f550d17, type: 3}
+  m_SpriteCharacterTable:
+  - m_ElementType: 2
+    m_Unicode: 0
+    m_GlyphIndex: 0
+    m_Scale: 1
+    m_Name: ios_icons_orange_0
+    m_HashCode: 317448914
+  - m_ElementType: 2
+    m_Unicode: 0
+    m_GlyphIndex: 1
+    m_Scale: 1
+    m_Name: ios_icons_orange_1
+    m_HashCode: 317448915
+  - m_ElementType: 2
+    m_Unicode: 0
+    m_GlyphIndex: 2
+    m_Scale: 1
+    m_Name: ios_icons_orange_3
+    m_HashCode: 317448913
+  - m_ElementType: 2
+    m_Unicode: 0
+    m_GlyphIndex: 3
+    m_Scale: 1
+    m_Name: ios_icons_orange_2
+    m_HashCode: 317448912
+  - m_ElementType: 2
+    m_Unicode: 0
+    m_GlyphIndex: 4
+    m_Scale: 1
+    m_Name: ios_icons_orange_8
+    m_HashCode: 317448922
+  - m_ElementType: 2
+    m_Unicode: 0
+    m_GlyphIndex: 5
+    m_Scale: 1
+    m_Name: ios_icons_orange_5
+    m_HashCode: 317448919
+  - m_ElementType: 2
+    m_Unicode: 0
+    m_GlyphIndex: 6
+    m_Scale: 1
+    m_Name: ios_icons_orange_6
+    m_HashCode: 317448916
+  - m_ElementType: 2
+    m_Unicode: 0
+    m_GlyphIndex: 7
+    m_Scale: 1
+    m_Name: ios_icons_orange_7
+    m_HashCode: 317448917
+  - m_ElementType: 2
+    m_Unicode: 0
+    m_GlyphIndex: 8
+    m_Scale: 1
+    m_Name: ios_icons_orange_9
+    m_HashCode: 317448923
+  - m_ElementType: 2
+    m_Unicode: 0
+    m_GlyphIndex: 9
+    m_Scale: 1
+    m_Name: ios_icons_orange_4
+    m_HashCode: 317448918
+  m_SpriteGlyphTable:
+  - m_Index: 0
+    m_Metrics:
+      m_Width: 256
+      m_Height: 256
+      m_HorizontalBearingX: -125.72879
+      m_HorizontalBearingY: 128
+      m_HorizontalAdvance: 256
+    m_GlyphRect:
+      m_X: 0
+      m_Y: 1792
+      m_Width: 256
+      m_Height: 256
+    m_Scale: 1
+    m_AtlasIndex: 0
+    sprite: {fileID: 21300000, guid: 1bee3e17fef9a4925aeb3d570f550d17, type: 3}
+  - m_Index: 1
+    m_Metrics:
+      m_Width: 256
+      m_Height: 256
+      m_HorizontalBearingX: -128
+      m_HorizontalBearingY: 128
+      m_HorizontalAdvance: 256
+    m_GlyphRect:
+      m_X: 256
+      m_Y: 1792
+      m_Width: 256
+      m_Height: 256
+    m_Scale: 1
+    m_AtlasIndex: 0
+    sprite: {fileID: 21300002, guid: 1bee3e17fef9a4925aeb3d570f550d17, type: 3}
+  - m_Index: 2
+    m_Metrics:
+      m_Width: 256
+      m_Height: 256
+      m_HorizontalBearingX: -128
+      m_HorizontalBearingY: 128
+      m_HorizontalAdvance: 256
+    m_GlyphRect:
+      m_X: 512
+      m_Y: 1792
+      m_Width: 256
+      m_Height: 256
+    m_Scale: 1
+    m_AtlasIndex: 0
+    sprite: {fileID: 21300006, guid: 1bee3e17fef9a4925aeb3d570f550d17, type: 3}
+  - m_Index: 3
+    m_Metrics:
+      m_Width: 256
+      m_Height: 256
+      m_HorizontalBearingX: -128
+      m_HorizontalBearingY: 128
+      m_HorizontalAdvance: 256
+    m_GlyphRect:
+      m_X: 768
+      m_Y: 1792
+      m_Width: 256
+      m_Height: 256
+    m_Scale: 1
+    m_AtlasIndex: 0
+    sprite: {fileID: 21300004, guid: 1bee3e17fef9a4925aeb3d570f550d17, type: 3}
+  - m_Index: 4
+    m_Metrics:
+      m_Width: 256
+      m_Height: 256
+      m_HorizontalBearingX: 0
+      m_HorizontalBearingY: 229.68
+      m_HorizontalAdvance: 512
+    m_GlyphRect:
+      m_X: 0
+      m_Y: 768
+      m_Width: 256
+      m_Height: 256
+    m_Scale: 1
+    m_AtlasIndex: 0
+    sprite: {fileID: 21300016, guid: 1bee3e17fef9a4925aeb3d570f550d17, type: 3}
+  - m_Index: 5
+    m_Metrics:
+      m_Width: 256
+      m_Height: 256
+      m_HorizontalBearingX: -128
+      m_HorizontalBearingY: 128
+      m_HorizontalAdvance: 256
+    m_GlyphRect:
+      m_X: 0
+      m_Y: 512
+      m_Width: 256
+      m_Height: 256
+    m_Scale: 1
+    m_AtlasIndex: 0
+    sprite: {fileID: 21300010, guid: 1bee3e17fef9a4925aeb3d570f550d17, type: 3}
+  - m_Index: 6
+    m_Metrics:
+      m_Width: 256
+      m_Height: 1
+      m_HorizontalBearingX: -128
+      m_HorizontalBearingY: 0.5
+      m_HorizontalAdvance: 256
+    m_GlyphRect:
+      m_X: 0
+      m_Y: 512
+      m_Width: 256
+      m_Height: 1
+    m_Scale: 1
+    m_AtlasIndex: 0
+    sprite: {fileID: 21300012, guid: 1bee3e17fef9a4925aeb3d570f550d17, type: 3}
+  - m_Index: 7
+    m_Metrics:
+      m_Width: 256
+      m_Height: 256
+      m_HorizontalBearingX: -177.5248
+      m_HorizontalBearingY: 121.46759
+      m_HorizontalAdvance: 256
+    m_GlyphRect:
+      m_X: 0
+      m_Y: 256
+      m_Width: 256
+      m_Height: 256
+    m_Scale: 1
+    m_AtlasIndex: 0
+    sprite: {fileID: 21300014, guid: 1bee3e17fef9a4925aeb3d570f550d17, type: 3}
+  - m_Index: 8
+    m_Metrics:
+      m_Width: 256
+      m_Height: 256
+      m_HorizontalBearingX: -118.91589
+      m_HorizontalBearingY: 0.82318115
+      m_HorizontalAdvance: 256
+    m_GlyphRect:
+      m_X: 768
+      m_Y: 256
+      m_Width: 256
+      m_Height: 256
+    m_Scale: 1
+    m_AtlasIndex: 0
+    sprite: {fileID: 21300018, guid: 1bee3e17fef9a4925aeb3d570f550d17, type: 3}
+  - m_Index: 9
+    m_Metrics:
+      m_Width: 256
+      m_Height: 256
+      m_HorizontalBearingX: -128
+      m_HorizontalBearingY: 128
+      m_HorizontalAdvance: 256
+    m_GlyphRect:
+      m_X: 0
+      m_Y: 0
+      m_Width: 256
+      m_Height: 256
+    m_Scale: 1
+    m_AtlasIndex: 0
+    sprite: {fileID: 21300008, guid: 1bee3e17fef9a4925aeb3d570f550d17, type: 3}
+  spriteInfoList:
+  - id: 0
+    x: 0
+    y: 1792
+    width: 256
+    height: 256
+    xOffset: -125.72879
+    yOffset: 128
+    xAdvance: 256
+    scale: 1
+    name: ios_icons_orange_0
+    hashCode: 317448914
+    unicode: 0
+    pivot: {x: -125.72879, y: 128}
+    sprite: {fileID: 21300000, guid: 1bee3e17fef9a4925aeb3d570f550d17, type: 3}
+  - id: 1
+    x: 256
+    y: 1792
+    width: 256
+    height: 256
+    xOffset: -128
+    yOffset: 128
+    xAdvance: 256
+    scale: 1
+    name: ios_icons_orange_1
+    hashCode: 317448915
+    unicode: 0
+    pivot: {x: -128, y: 128}
+    sprite: {fileID: 21300002, guid: 1bee3e17fef9a4925aeb3d570f550d17, type: 3}
+  - id: 2
+    x: 512
+    y: 1792
+    width: 256
+    height: 256
+    xOffset: -128
+    yOffset: 128
+    xAdvance: 256
+    scale: 1
+    name: ios_icons_orange_3
+    hashCode: 317448913
+    unicode: 0
+    pivot: {x: -128, y: 128}
+    sprite: {fileID: 21300006, guid: 1bee3e17fef9a4925aeb3d570f550d17, type: 3}
+  - id: 3
+    x: 768
+    y: 1792
+    width: 256
+    height: 256
+    xOffset: -128
+    yOffset: 128
+    xAdvance: 256
+    scale: 1
+    name: ios_icons_orange_2
+    hashCode: 317448912
+    unicode: 0
+    pivot: {x: -128, y: 128}
+    sprite: {fileID: 21300004, guid: 1bee3e17fef9a4925aeb3d570f550d17, type: 3}
+  - id: 4
+    x: 0
+    y: 768
+    width: 256
+    height: 256
+    xOffset: 0
+    yOffset: 229.68
+    xAdvance: 512
+    scale: 1
+    name: ios_icons_orange_8
+    hashCode: 317448922
+    unicode: 0
+    pivot: {x: -128, y: 128}
+    sprite: {fileID: 21300016, guid: 1bee3e17fef9a4925aeb3d570f550d17, type: 3}
+  - id: 5
+    x: 0
+    y: 512
+    width: 256
+    height: 256
+    xOffset: -128
+    yOffset: 128
+    xAdvance: 256
+    scale: 1
+    name: ios_icons_orange_5
+    hashCode: 317448919
+    unicode: 0
+    pivot: {x: -128, y: 128}
+    sprite: {fileID: 21300010, guid: 1bee3e17fef9a4925aeb3d570f550d17, type: 3}
+  - id: 6
+    x: 0
+    y: 512
+    width: 256
+    height: 1
+    xOffset: -128
+    yOffset: 0.5
+    xAdvance: 256
+    scale: 1
+    name: ios_icons_orange_6
+    hashCode: 317448916
+    unicode: 0
+    pivot: {x: -128, y: 0.5}
+    sprite: {fileID: 21300012, guid: 1bee3e17fef9a4925aeb3d570f550d17, type: 3}
+  - id: 7
+    x: 0
+    y: 256
+    width: 256
+    height: 256
+    xOffset: -177.5248
+    yOffset: 121.46759
+    xAdvance: 256
+    scale: 1
+    name: ios_icons_orange_7
+    hashCode: 317448917
+    unicode: 0
+    pivot: {x: -177.5248, y: 121.46759}
+    sprite: {fileID: 21300014, guid: 1bee3e17fef9a4925aeb3d570f550d17, type: 3}
+  - id: 8
+    x: 768
+    y: 256
+    width: 256
+    height: 256
+    xOffset: -118.91589
+    yOffset: 0.82318115
+    xAdvance: 256
+    scale: 1
+    name: ios_icons_orange_9
+    hashCode: 317448923
+    unicode: 0
+    pivot: {x: -118.91589, y: 0.82318115}
+    sprite: {fileID: 21300018, guid: 1bee3e17fef9a4925aeb3d570f550d17, type: 3}
+  - id: 9
+    x: 0
+    y: 0
+    width: 256
+    height: 256
+    xOffset: -128
+    yOffset: 128
+    xAdvance: 256
+    scale: 1
+    name: ios_icons_orange_4
+    hashCode: 317448918
+    unicode: 0
+    pivot: {x: -128, y: 128}
+    sprite: {fileID: 21300008, guid: 1bee3e17fef9a4925aeb3d570f550d17, type: 3}
+  fallbackSpriteAssets: []
+--- !u!21 &21462144199132346
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: TextMeshPro/Sprite
+  m_Shader: {fileID: 4800000, guid: cf81c85f95fe47e1a27f6ae460cf182c, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 1bee3e17fef9a4925aeb3d570f550d17, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _ColorMask: 15
+    - _Stencil: 0
+    - _StencilComp: 8
+    - _StencilOp: 0
+    - _StencilReadMask: 255
+    - _StencilWriteMask: 255
+    - _UseUIAlphaClip: 0
+    m_Colors:
+    - _ClipRect: {r: -32767, g: -32767, b: 32767, a: 32767}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}

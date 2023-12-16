@@ -1,0 +1,59 @@
+ManifestFileVersion: 0
+CRC: 1075348721
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 12b00354ec574eff5f649f5df97e8885
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f6f81caf858ba781172d5ce8b35fc9de
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4a700b31120457b42a4dfc3677a8a036, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 84a92b25f83d49b9bc132d206b370281, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Hologo/core systems/localization system/data/tamil_langauge/Tamil.asset
+- Assets/Hologo/core systems/localization system/data/english_language/Helvetica Now
+  Text Medium SDF.asset
+- Assets/Hologo/core systems/localization system/data/sinhala_langauge/iskpota.ttf
+- Assets/Hologo/core systems/localization system/data/sinhala_langauge/Sinhalese.asset
+- Assets/Hologo/core systems/localization system/data/sinhala_langauge/iskpota SDF.asset
+- Assets/Hologo/core systems/localization system/data/english_language/Monotype -
+  Helvetica Now Text Medium.otf
+- Assets/Hologo/core systems/localization system/data/english_language/Monotype -
+  Helvetica Now Display Medium SDF.asset
+- Assets/Hologo/core systems/localization system/data/tamil_langauge/ios_icons_orange.asset
+- Assets/Hologo/core systems/localization system/data/english_language/ios_icons_orange.asset
+- Assets/Hologo/core systems/localization system/data/tamil_langauge/Latha2.ttf
+- Assets/Hologo/core systems/localization system/data/english_language/English.asset
+- Assets/Hologo/core systems/localization system/data/tamil_langauge/Latha2 SDF.asset
+- Assets/Hologo/core systems/localization system/data/english_language/Monotype -
+  Helvetica Now Text Bold.otf
+- Assets/Hologo/core systems/localization system/data/english_language/Monotype -
+  Helvetica Now Text.otf
+- Assets/Hologo/core systems/localization system/data/sinhala_langauge/ios_icons_orange.asset
+- Assets/Hologo/core systems/localization system/data/english_language/Helvetica Now
+  Text SDF.asset
+- Assets/Hologo/core systems/localization system/data/english_language/Helvetica Now
+  Text Bold SDF.asset
+- Assets/Hologo/core systems/localization system/data/english_language/Monotype -
+  Helvetica Now Display Bold SDF.asset
+- Assets/Hologo/core systems/localization system/data/english_language/Monotype -
+  Helvetica Now Display SDF.asset
+Dependencies: []

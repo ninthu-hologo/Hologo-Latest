@@ -1,0 +1,22 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'CamKitReplication' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+   pod 'Alamofire', '~> 5.4'
+   pod 'SCSDKCameraKit', '$CAMKITVERSION'
+   pod 'SCSDKCameraKitReferenceUI', '$CAMKITVERSION'
+   pod 'SCSDKCameraKitReferenceSwiftUI', '$CAMKITVERSION'
+
+  target 'CamKitReplicationTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+  target 'CamKitReplicationUITests' do
+    # Pods for testing
+  end
+
+end

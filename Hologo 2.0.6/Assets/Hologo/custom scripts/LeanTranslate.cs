@@ -1,0 +1,85 @@
+using UnityEngine;
+
+namespace Lean.Touch
+{
+	// This script allows you to transform the current GameObject
+	public class LeanTranslate : MonoBehaviour
+	{
+		[Tooltip("Ignore fingers with StartedOverGui?")]
+		public bool IgnoreGuiFingers = true;
+
+		[Tooltip("Ignore fingers if the finger count doesn't match? (0 = any)")]
+		public int RequiredFingerCount;
+
+		[Tooltip("Does translation require an object to be selected?")]
+		public LeanSelectable RequiredSelectable;
+
+		[Tooltip("The camera the translation will be calculated using (None = MainCamera)")]
+		public Camera Camera;
+
+        public Transform moveContainer;
+
+        private int count;
+
+#if UNITY_EDITOR
+        protected virtual void Reset()
+		{
+			Start();
+		}
+#endif
+
+		protected virtual void Start()
+		{
+			if (RequiredSelectable == null)
+			{
+				RequiredSelectable = GetComponent<LeanSelectable>();
+			}
+		}
+
+		protected virtual void Update()
+		{
+			// If we require a selectable and it isn't selected, cancel translation
+			if (RequiredSelectable != null && RequiredSelectable.IsSelected == false)
+			{
+				return;
+			}
+
+			// Get the fingers we want to use
+			var fingers = LeanTouch.GetFingers(IgnoreGuiFingers, RequiredFingerCount, RequiredSelectable);
+
+            // Calculate the screenDelta value based on these fingers
+            //if (fingers.Count < RequiredFingerCount)
+            //    return;
+
+			var screenDelta = LeanGesture.GetScreenDelta(fingers);
+
+            count = LeanTouch.Fingers.Count;
+           // Debug.Log("finger count :" + count);
+            // Perform the translation
+            Translate(screenDelta);
+		}
+
+		protected virtual void Translate(Vector2 screenDelta)
+		{
+			// Make sure the camera exists
+			var camera = LeanTouch.GetCamera(Camera, moveContainer.gameObject);
+
+			if (camera != null )
+			{
+                // Screen position of the transform
+               
+
+				var screenPosition = camera.WorldToScreenPoint(moveContainer.position);
+
+				// Add the deltaPosition
+				screenPosition += (Vector3)screenDelta;
+
+                // Convert back to world space
+                if (count != 2)
+                    return;
+
+                moveContainer.position = camera.ScreenToWorldPoint(screenPosition);
+			}
+		}
+	}
+}

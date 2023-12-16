@@ -1,0 +1,607 @@
+fileFormatVersion: 2
+guid: 61073bc4ea44d42429093c0c5ffcbd9f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8502117523404702142
+    second: ScoreGlow_0
+  - first:
+      213: 5314572171545221678
+    second: ScoreGlow_1
+  - first:
+      213: -7154971439344872429
+    second: ScoreGlow_2
+  - first:
+      213: 4771198879813425603
+    second: ScoreGlow_3
+  - first:
+      213: -6638143463480614682
+    second: ScoreGlow_4
+  - first:
+      213: -1926188478887595465
+    second: ScoreGlow_5
+  - first:
+      213: -6988501497849221423
+    second: ScoreGlow_6
+  - first:
+      213: -5500384523600160021
+    second: ScoreGlow_7
+  - first:
+      213: -5225490229618158710
+    second: ScoreGlow_8
+  - first:
+      213: -3070460994598082832
+    second: ScoreGlow_9
+  - first:
+      213: 954626459623112434
+    second: ScoreGlow_10
+  - first:
+      213: -302486272865158780
+    second: ScoreGlow_11
+  - first:
+      213: -4484981889474307556
+    second: ScoreGlow_12
+  - first:
+      213: 184223508772791378
+    second: ScoreGlow_13
+  - first:
+      213: -624120565364565215
+    second: ScoreGlow_14
+  - first:
+      213: -2882920021250408908
+    second: ScoreGlow_15
+  - first:
+      213: 3033745195536409027
+    second: ScoreGlow_16
+  - first:
+      213: -7432523850802200745
+    second: ScoreGlow_17
+  - first:
+      213: 1403427840945134596
+    second: ScoreGlow_18
+  - first:
+      213: -8345362167562996952
+    second: ScoreGlow_19
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ScoreGlow_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2208.75
+        width: 736.2
+        height: 736.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a469c76b91867b44972a15750f88347
+      internalID: -8502117523404702142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScoreGlow_1
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 2208.75
+        width: 736.2
+        height: 736.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac46d3cf7d72f3449b443625c77bf0cb
+      internalID: 5314572171545221678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScoreGlow_2
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 2208.75
+        width: 736.2
+        height: 736.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab2bbb75ee90994280abec38825c8b3
+      internalID: -7154971439344872429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScoreGlow_3
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 2208.75
+        width: 736.2
+        height: 736.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed550c9691817044bba49afc77f14ac1
+      internalID: 4771198879813425603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScoreGlow_4
+      rect:
+        serializedVersion: 2
+        x: 2944
+        y: 2208.75
+        width: 736.2
+        height: 736.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b149a6c2fa99f4890424da8776f3c8
+      internalID: -6638143463480614682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScoreGlow_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1472.75
+        width: 736.2
+        height: 736.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0d1be4a9b8887d40b4389bd7cffde92
+      internalID: -1926188478887595465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScoreGlow_6
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1472.75
+        width: 736.2
+        height: 736.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaea90cd888831146add6cf3df17d8b5
+      internalID: -6988501497849221423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScoreGlow_7
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 1472.75
+        width: 736.2
+        height: 736.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b55722a29d9b524aac7a2544ab192d8
+      internalID: -5500384523600160021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScoreGlow_8
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 1472.75
+        width: 736.2
+        height: 736.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2423c350788c124b819927ea8ca5d35
+      internalID: -5225490229618158710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScoreGlow_9
+      rect:
+        serializedVersion: 2
+        x: 2944
+        y: 1472.75
+        width: 736.2
+        height: 736.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08956f0a3a2d4dd40b6018c923d65551
+      internalID: -3070460994598082832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScoreGlow_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 736.75
+        width: 736.2
+        height: 736.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a387e70310ffb94d8c6c051e3422520
+      internalID: 954626459623112434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScoreGlow_11
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 736.75
+        width: 736.2
+        height: 736.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d45b38a7265d7a4082c4d6d55fec4e4
+      internalID: -302486272865158780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScoreGlow_12
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 736.75
+        width: 736.2
+        height: 736.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1435bb0563bdbc04ca968fdb2ba02694
+      internalID: -4484981889474307556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScoreGlow_13
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 736.75
+        width: 736.2
+        height: 736.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc66c9739f5cf2b42b4afc4a5234d38d
+      internalID: 184223508772791378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScoreGlow_14
+      rect:
+        serializedVersion: 2
+        x: 2944
+        y: 736.75
+        width: 736.2
+        height: 736.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd28d32016eb3a439c9afed426262bb
+      internalID: -624120565364565215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScoreGlow_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.75
+        width: 736.2
+        height: 736.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a71605e0200963f4d88293a770f1a277
+      internalID: -2882920021250408908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScoreGlow_16
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 0.75
+        width: 736.2
+        height: 736.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f4cb1ddf98c3e4fa22837c1367cda4
+      internalID: 3033745195536409027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScoreGlow_17
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 0.75
+        width: 736.2
+        height: 736.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2847609adbec07f46929d51481cfa59f
+      internalID: -7432523850802200745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScoreGlow_18
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 0.75
+        width: 736.2
+        height: 736.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af9b16ca30e678c4db2b910679ed16e8
+      internalID: 1403427840945134596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScoreGlow_19
+      rect:
+        serializedVersion: 2
+        x: 2944
+        y: 0.75
+        width: 736.2
+        height: 736.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3464a09e12a3304eb97885baa1735de
+      internalID: -8345362167562996952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 826bb2ad8daca2041bb4240c8ccad2a2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

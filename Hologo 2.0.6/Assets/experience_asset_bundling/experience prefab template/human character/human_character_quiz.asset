@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffbe35db3eb80804aa237fb188bc9a7a, type: 3}
+  m_Name: human_character_quiz
+  m_EditorClassIdentifier: 
+  quizName: human quiz
+  quizType: 1
+  quizModels:
+  - model: {fileID: 6966214629473933461, guid: 2369c1a65885630478af1cfe018a16ab, type: 3}
+    modelLocalPostiton: {x: 0, y: 0, z: 0}
+    labels:
+    - title: hands
+      Origin: {fileID: 0}
+      Target: {fileID: 0}
+      LabelPoint: {fileID: 0}
+      followTarget: 0
+    - title: big knuckle heads
+      Origin: {fileID: 0}
+      Target: {fileID: 0}
+      LabelPoint: {fileID: 0}
+      followTarget: 0
+    - title: big feet
+      Origin: {fileID: 0}
+      Target: {fileID: 0}
+      LabelPoint: {fileID: 0}
+      followTarget: 0
+    - title: shoulder
+      Origin: {fileID: 0}
+      Target: {fileID: 0}
+      LabelPoint: {fileID: 0}
+      followTarget: 0
